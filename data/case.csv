@@ -1,0 +1,1067 @@
+"priority","origin","customer_type__c","subject","isdeleted","systemmodstamp","db_case_duration_hours__c","external_id__c","createddate","isclosed","casenumber","sfid","id","_hc_lastop","_hc_err"
+"Medium","Twitter",NULL,"How do I exchange a product?",False,"2017-02-16 16:00:25",NULL,"Case.019","2017-02-16 16:00:25",False,"00001581","50046000000mmaDAAQ",1,NULL,NULL
+"High","Phone",NULL,"Error on my bill",False,"2017-02-16 16:00:25",NULL,"Case.085","2017-02-16 16:00:25",False,"00001739","50046000001R8hnAAC",2,NULL,NULL
+"Medium","Community",NULL,"Billing issue",False,"2017-02-16 16:00:25",NULL,"Case.086","2017-02-16 16:00:25",False,"00001740","50046000001R8hoAAC",3,NULL,NULL
+"Medium","Phone",NULL,"Projector lamp replacement",False,"2017-02-16 16:00:25",NULL,"Case.091","2017-02-16 16:00:25",False,"00001746","50046000001R8haAAC",4,NULL,NULL
+"Medium","LinkedIn",NULL,"Billing statement incorrect",False,"2017-02-16 16:00:25",NULL,"Case.088","2017-02-16 16:00:25",False,"00001742","50046000001R8hqAAC",5,NULL,NULL
+"Medium","Instagram",NULL,"Incorrect bill",False,"2017-02-16 16:00:25",NULL,"Case.089","2017-02-16 16:00:25",False,"00001743","50046000001R8hrAAC",6,NULL,NULL
+"Medium","Phone",NULL,"Problem with my bill",False,"2017-02-16 16:00:25",NULL,"Case.087","2017-02-16 16:00:25",False,"00001741","50046000001R8hpAAC",7,NULL,NULL
+"High","Website",NULL,"Customer would like to upgrade",False,"2017-02-26 19:04:34",NULL,"Case.040","2017-02-16 16:00:25",False,"00001438","50046000001R8h3AAC",8,NULL,NULL
+"High","Email",NULL,"Can I use your app on my phone?",False,"2017-02-26 19:04:34",NULL,"Case.038","2017-02-16 16:00:25",False,"00001447","50046000001R8hSAAS",9,NULL,NULL
+"Critical","Instagram",NULL,"How do I upgrade?",False,"2017-02-26 19:04:34",NULL,"Case.036","2017-02-16 16:00:25",False,"00001454","50046000000mma7AAA",10,NULL,NULL
+"Critical","Website",NULL,"How do I troubleshoot a product issue?",False,"2017-02-26 19:04:34","1","Case.035","2017-02-16 16:00:25",True,"00001455","50046000001R8hNAAS",11,NULL,NULL
+"Medium","Twitter",NULL,"Where do I get your mobile app?",False,"2017-02-26 19:04:34","2","Case.034","2017-02-16 16:00:25",True,"00001456","50046000001R8hPAAS",12,NULL,NULL
+"Low","Phone",NULL,"Can I access your community from my mobile device?",False,"2017-02-26 19:04:34","11","Case.033","2017-02-16 16:00:25",True,"00001493","50046000001R8hQAAS",13,NULL,NULL
+"Medium","Mobile Device",NULL,"How can I request a new feature?",False,"2017-02-26 19:04:34",NULL,"Case.027","2017-02-16 16:00:25",False,"00001497","50046000000mma8AAA",14,NULL,NULL
+"Low","Twitter",NULL,"Can you help me get set up?",False,"2017-02-26 19:04:34",NULL,"Case.025","2017-02-16 16:00:25",False,"00001506","50046000001R8hVAAS",15,NULL,NULL
+"Medium","Phone",NULL,"Items missing from shipment.",False,"2017-02-26 19:04:34","13","Case.024","2017-02-16 16:00:25",True,"00001529","50046000000mmaAAAQ",16,NULL,NULL
+"Low","Mobile Device",NULL,"Was our last payment correct?",False,"2017-02-26 19:04:34",NULL,"Case.023","2017-02-16 16:00:25",False,"00001528","50046000000mma9AAA",17,NULL,NULL
+"High","Mobile Device",NULL,"I have a question about my order.",False,"2017-02-26 19:04:34",NULL,"Case.022","2017-02-16 16:00:25",False,"00001531","50046000001R8hgAAC",18,NULL,NULL
+"Medium","Email",NULL,"How do I create a secure password?",False,"2017-02-26 19:04:34",NULL,"Case.021","2017-02-16 16:00:25",True,"00001530","50046000000mmaBAAQ",19,NULL,NULL
+"Critical","Facebook",NULL,"Please expedite my order.",False,"2017-02-26 19:04:34",NULL,"Case.018","2017-02-16 16:00:25",False,"00001580","50046000000mmaCAAQ",20,NULL,NULL
+"Medium","Mobile Device",NULL,"I can't understand the installation instructions",False,"2017-02-26 19:04:34",NULL,"Case.017","2017-02-16 16:00:25",False,"00001582","50046000001R8hTAAS",21,NULL,NULL
+"Medium","Chat",NULL,"Help with a product issue?",False,"2017-02-26 19:04:34",NULL,"Case.016","2017-02-16 16:00:25",False,"00001584","50046000000mmaEAAQ",22,NULL,NULL
+"High","Community",NULL,"Bill payment clarification.",False,"2017-02-26 19:04:34","16","Case.076","2017-02-16 16:00:25",True,"00001167","50046000001R8i4AAC",23,NULL,NULL
+"High","Phone",NULL,"Product setup issues",False,"2017-02-26 19:04:34","14","Case.079","2017-02-16 16:00:25",True,"00001164","50046000001R8hEAAS",24,NULL,NULL
+"Medium","Email",NULL,"Purchase order question",False,"2017-02-26 19:04:34","18","Case.078","2017-02-16 16:00:25",True,"00001165","50046000001R8i3AAC",25,NULL,NULL
+"Low","Chat",NULL,"I received the wrong invoice.",False,"2017-02-26 19:04:34","6","Case.077","2017-02-16 16:00:25",True,"00001166","50046000001R8i0AAC",26,NULL,NULL
+"Medium","Mobile Device",NULL,"Where do I submit a product suggestion?",False,"2017-02-26 19:04:34","15","Case.075","2017-02-16 16:00:25",False,"00001169","50046000001R8h5AAC",27,NULL,NULL
+"Low","Email",NULL,"Customer service hours of operation.",False,"2017-02-26 19:04:34","9","Case.074","2017-02-16 16:00:25",True,"00001170","50046000001R8i1AAC",28,NULL,NULL
+"Medium","Phone",NULL,"How do I upgrade my service?",False,"2017-02-26 19:04:34","15","Case.073","2017-02-16 16:00:25",True,"00001171","50046000001R8i5AAC",29,NULL,NULL
+"Medium","Community",NULL,"Please change my contact information.",False,"2017-02-26 19:04:34","15","Case.072","2017-02-16 16:00:25",True,"00001172","50046000001R8i6AAC",30,NULL,NULL
+"Low","Chat",NULL,"Customer called to make a payment",False,"2017-02-26 19:04:34","7","Case.071","2017-02-16 16:00:25",True,"00001173","50046000001R8h2AAC",31,NULL,NULL
+"High","Twitter",NULL,"Where can I download your mobile app?",False,"2017-02-26 19:04:34","19","Case.070","2017-02-16 16:00:25",True,"00001174","50046000001R8i7AAC",32,NULL,NULL
+"High","Mobile Device",NULL,"Does your app work on my mobile device?",False,"2017-02-26 19:04:34","14","Case.069","2017-02-16 16:00:25",True,"00001175","50046000001R8iBAAS",33,NULL,NULL
+"Medium","Chat",NULL,"How do I set up auto-renewal?",False,"2017-02-26 19:04:34","15","Case.068","2017-02-16 16:00:25",True,"00001176","50046000001R8hUAAS",34,NULL,NULL
+"Low","Email",NULL,"Assembly instruction help",False,"2017-02-26 19:04:34","5","Case.067","2017-02-16 16:00:25",True,"00001177","50046000001R8gvAAC",35,NULL,NULL
+"Medium","Community",NULL,"How do I change my communication preferences?",False,"2017-02-26 19:04:34","6","Case.065","2017-02-16 16:00:25",True,"00001179","50046000001R8iDAAS",36,NULL,NULL
+"Low","Facebook",NULL,"Need most recent invoice",False,"2017-02-26 19:04:34","10","Case.007","2017-02-16 16:00:25",True,"00001180","50046000001R8gtAAC",37,NULL,NULL
+"High","Website",NULL,"Troubleshooting issues with the product",False,"2017-02-26 19:04:34","8","Case.064","2017-02-16 16:00:25",True,"00001181","50046000001R8iEAAS",38,NULL,NULL
+"High","Phone",NULL,"How do I check my order status?",False,"2017-02-26 19:04:34","17","Case.008","2017-02-16 16:00:25",True,"00001182","50046000001R8gzAAC",39,NULL,NULL
+"Medium","Email",NULL,"Can't understand installation instructions",False,"2017-02-26 19:04:34","17","Case.063","2017-02-16 16:00:25",True,"00001183","50046000001R8iFAAS",40,NULL,NULL
+"Low","Website",NULL,"Is my personal information safe?",False,"2017-02-26 19:04:34","8","Case.062","2017-02-16 16:00:25",True,"00001184","50046000001R8iGAAS",41,NULL,NULL
+"Low","Chat",NULL,"What does your service contract cover?",False,"2017-02-26 19:04:34","10","Case.061","2017-02-16 16:00:25",True,"00001187","50046000001R8iHAAS",42,NULL,NULL
+"Medium","Email",NULL,"Where can I purchase your products?",False,"2017-02-26 19:04:34","8","Case.031","2017-02-16 16:00:25",True,"00001604","50046000001R8hWAAS",43,NULL,NULL
+"Medium","Phone",NULL,"What's included in your service contract?",False,"2017-02-26 19:04:34",NULL,"Case.032","2017-02-16 16:00:25",False,"00001605","50046000001R8hXAAS",44,NULL,NULL
+"High","Mobile Device",NULL,"Please send shipping confirmation.",False,"2017-02-26 19:04:34",NULL,"Case.030","2017-02-16 16:00:25",False,"00001606","50046000001R8hiAAC",45,NULL,NULL
+"Medium","Twitter",NULL,"Twitter Message: Help!  I'm having setup trouble.",False,"2017-02-26 19:04:34",NULL,"Case.081","2017-02-16 16:00:25",False,"00001630","50046000001R8hlAAC",46,NULL,NULL
+"High","Twitter",NULL,"I need to pay my invoice.",False,"2017-02-26 19:04:34","16","Case.060","2017-02-16 16:00:25",True,"00001188","50046000001R8iIAAS",47,NULL,NULL
+"Critical","Phone",NULL,"Setup Instructions are missing",False,"2017-02-26 19:04:34","6","Case.059","2017-02-16 16:00:25",True,"00001189","50046000001R8iJAAS",48,NULL,NULL
+"Low","Email",NULL,"How do I become a partner?",False,"2017-02-26 19:04:34","8","Case.002","2017-02-16 16:00:25",True,"00001191","50046000001R8hcAAC",49,NULL,NULL
+"Medium","Facebook",NULL,"Facebook Message from: Larry Baxter",False,"2017-02-26 19:04:34",NULL,"Case.028","2017-02-16 16:00:25",False,"00001608","50046000001R8hkAAC",50,NULL,NULL
+"Medium","Chat",NULL,"Billing statement reprint",False,"2017-02-26 19:04:34",NULL,"Case.080","2017-02-16 16:00:25",False,"00001615","50046000001R8hfAAC",51,NULL,NULL
+"Medium","Email",NULL,"How do I set up auto-payment?",False,"2017-02-26 19:04:34",NULL,"Case.082","2017-02-16 16:00:25",False,"00001631","50046000001R8hYAAS",52,NULL,NULL
+"Medium","Mobile Device",NULL,"Product is shutting down intermittently",False,"2017-02-26 19:04:34",NULL,"Case.083","2017-02-16 16:00:25",False,"00001651","50046000001R8hmAAC",53,NULL,NULL
+"Medium","Community",NULL,"What are your support hours?",False,"2017-02-26 19:04:34","20","Case.003","2017-02-16 16:00:25",True,"00001192","50046000001R8h6AAC",54,NULL,NULL
+"Low","Mobile Device",NULL,"Where do I send my check?",False,"2017-02-26 19:04:34","12","Case.058","2017-02-16 16:00:25",True,"00001194","50046000001R8i8AAC",55,NULL,NULL
+"High","Mobile Device",NULL,"Billing address change",False,"2017-02-26 19:04:34","2","Case.057","2017-02-16 16:00:25",True,"00001195","50046000001R8i9AAC",56,NULL,NULL
+"Critical","Community",NULL,"What does your service contract cover?",False,"2017-02-26 19:04:34","16","Case.056","2017-02-16 16:00:25",True,"00001196","50046000001R8gwAAC",57,NULL,NULL
+"Medium","Phone",NULL,"How is my password stored?",False,"2017-02-26 19:04:34","8","Case.009","2017-02-16 16:00:25",True,"00001197","50046000001R8iKAAS",58,NULL,NULL
+"Low","Website",NULL,"Question about taxes on my order.",False,"2017-02-26 19:04:34",NULL,"Case.055","2017-02-16 16:00:25",False,"00001199","50046000001R8gyAAC",59,NULL,NULL
+"Medium","Twitter",NULL,"How much do I owe on my bill?",False,"2017-02-26 19:04:34","18","Case.004","2017-02-16 16:00:25",True,"00001200","50046000001R8hbAAC",60,NULL,NULL
+"Low","Twitter",NULL,"How do I set up auto-renewal?",False,"2017-02-26 19:04:34","19","Case.011","2017-02-16 16:00:25",True,"00001201","50046000001R8iAAAS",61,NULL,NULL
+"Medium","Phone",NULL,"How do I sign up for your email newsletter?",False,"2017-02-26 19:04:34","6","Case.053","2017-02-16 16:00:25",True,"00001213","50046000001R8i2AAC",62,NULL,NULL
+"Critical","Email",NULL,"I have a question about my contract.",False,"2017-02-26 19:04:34","7","Case.052","2017-02-16 16:00:25",True,"00001217","50046000001R8h7AAC",63,NULL,NULL
+"Low","Phone",NULL,"I have a product suggestion.",False,"2017-02-26 19:04:34",NULL,"Case.050","2017-02-16 16:00:25",False,"00001219","50046000001R8h9AAC",64,NULL,NULL
+"Low","Chat",NULL,"How do I obtain your annual report?",False,"2017-02-26 19:04:34","17","Case.049","2017-02-16 16:00:25",True,"00001242","50046000001R8h1AAC",65,NULL,NULL
+"Low","Twitter",NULL,"Need additional product information",False,"2017-02-26 19:04:34",NULL,"Case.048","2017-02-16 16:00:25",True,"00001247","50046000001R8gxAAC",66,NULL,NULL
+"High","Website",NULL,"Expediting my order?",False,"2017-02-26 19:04:34",NULL,"Case.044","2017-02-16 16:00:25",False,"00001257","50046000001R8hAAAS",67,NULL,NULL
+"High","Phone",NULL,"Customer lost product manual and needs replacement",False,"2017-02-26 19:04:34","19","Case.046","2017-02-16 16:00:25",True,"00001250","50046000001R8hBAAS",68,NULL,NULL
+"Medium","Email",NULL,"Product manual is missing",False,"2017-02-26 19:04:34","15","Case.045","2017-02-16 16:00:25",True,"00001252","50046000000mma5AAA",69,NULL,NULL
+"High","Phone",NULL,"How do I change my password?",False,"2017-02-26 19:04:34","3","Case.043","2017-02-16 16:00:25",True,"00001296","50046000001R8h4AAC",70,NULL,NULL
+"High","Phone",NULL,"I need to pay my invoice.",False,"2017-02-26 19:04:34","7","Case.006","2017-02-16 16:00:25",True,"00001321","50046000001R8hOAAS",71,NULL,NULL
+"Medium","Q&A",NULL,"Product upgrade suggestion",False,"2017-02-26 19:04:34","12","Case.014","2017-02-16 16:00:25",True,"00001437","50046000001R8hRAAS",72,NULL,NULL
+"Critical","Mobile Device",NULL,"How do I get started with your service?",False,"2017-02-26 19:04:34","1","Case.041","2017-02-16 16:00:25",True,"00001436","50046000001R8hdAAC",73,NULL,NULL
+"Low","Community",NULL,"Shipping container appears damaged",False,"2017-05-12 10:18:50",NULL,"Case.047","2017-02-16 16:00:25",False,"00001248","50046000001R8hzAAC",74,NULL,NULL
+"Medium","LinkedIn",NULL,"Initiating return process.",False,"2017-05-12 10:18:50",NULL,"Case.051","2017-02-16 16:00:25",False,"00001218","50046000001R8h8AAC",75,NULL,NULL
+"Medium","Other",NULL,"HELP DESK: MileSAAver / SAAver Award Availabili...",False,"2017-05-12 10:18:50",NULL,NULL,"2017-05-11 16:17:38",False,"00001826","50046000002PGKPAA4",76,NULL,NULL
+"Medium","Twitter",NULL,"Fcaebook channel not workin.",False,"2017-05-13 10:09:02",NULL,NULL,"2017-05-12 16:56:18",False,"00001834","50046000002PH0zAAG",77,NULL,NULL
+"High","Phone",NULL,"Question about my last billing statement",False,"2017-09-21 10:42:51",NULL,"Case.054","2017-02-16 16:00:25",False,"00001203","50046000001R8h0AAC",78,NULL,NULL
+"High","Phone",NULL,"Product damaged, mishandled during shipping.",False,"2017-09-21 10:42:51",NULL,"Case.039","2017-02-16 16:00:25",False,"00001439","50046000000mma6AAA",79,NULL,NULL
+"Critical","Phone",NULL,"Need guidance getting started with my installation",False,"2017-09-21 10:42:51","1","Case.066","2017-02-16 16:00:25",False,"00001178","50046000001R8iCAAS",80,NULL,NULL
+"Medium","Phone",NULL,"@Chatter group case",False,"2017-09-21 10:42:51",NULL,NULL,"2017-09-20 17:59:18",False,"00001875","50046000004JYteAAG",81,NULL,NULL
+"Low","Phone",NULL,"Do you sell replacement parts?",False,"2017-09-21 10:42:51",NULL,"Case.010","2017-02-16 16:00:25",False,"00001198","50046000001R8hCAAS",82,NULL,NULL
+"Medium","YouTube",NULL,"vahsir artapaham Mumbai metro is the only excep...",False,"2018-02-16 07:43:37",NULL,NULL,"2018-02-16 07:43:37",False,"00001933","50046000005iFXaAAM",83,NULL,NULL
+"Medium","Other",NULL,"He is out of jail now. No idea about refund.",False,"2018-03-28 07:59:39",NULL,NULL,"2018-03-28 07:59:38",False,"00001955","50046000006F3NTAA0",84,NULL,NULL
+"Medium","Phone",NULL,"Future Pay",False,"2018-03-30 00:02:15",NULL,NULL,"2017-09-22 08:44:45",False,"00001884","50046000004JgEPAA0",85,NULL,NULL
+"Medium","Other",NULL,"Originally posted by zooni.blue Originally post...",False,"2018-09-19 11:04:10",NULL,NULL,"2018-09-19 11:04:10",False,"00002009","50046000007aCpXAAU",86,NULL,NULL
+"Medium","Other",NULL,"omg is girl only made to cook at home? kitchen ...",False,"2018-09-19 11:04:11",NULL,NULL,"2018-09-19 11:04:11",False,"00002012","50046000007aCpaAAE",87,NULL,NULL
+"Medium","Other",NULL,"Nothing to say, you said it all. Awesome post a...",False,"2018-09-19 11:04:11",NULL,NULL,"2018-09-19 11:04:10",False,"00002010","50046000007aCpYAAU",88,NULL,NULL
+"Medium","Other",NULL,"You don't have to praise your favorite just to ...",False,"2018-09-19 11:04:12",NULL,NULL,"2018-09-19 11:04:12",False,"00002013","50046000007aCpbAAE",89,NULL,NULL
+"Medium","Other",NULL,"I think the cvs think that u no like when someo...",False,"2018-09-19 11:04:13",NULL,NULL,"2018-09-19 11:04:13",False,"00002015","50046000007aCpfAAE",90,NULL,NULL
+"Medium","Other",NULL,"Originally posted by AyraaMalik Sleep is best t...",False,"2018-09-19 11:04:14",NULL,NULL,"2018-09-19 11:04:13",False,"00002016","50046000007aCpgAAE",91,NULL,NULL
+"Medium","Other",NULL,"Good evening girls !!! Thanks Annie Hope you ar...",False,"2018-09-19 11:04:14",NULL,NULL,"2018-09-19 11:04:14",False,"00002017","50046000007aCphAAE",92,NULL,NULL
+"Medium","Other",NULL,"Originally posted by rogerrocks Originally post...",False,"2018-09-19 11:04:15",NULL,NULL,"2018-09-19 11:04:15",False,"00002021","50046000007aCplAAE",93,NULL,NULL
+"Medium","Other",NULL,"Originally posted by hantel This is called dera...",False,"2018-09-19 11:04:15",NULL,NULL,"2018-09-19 11:04:15",False,"00002020","50046000007aCpkAAE",94,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Maryam2 she never wanted h...",False,"2018-09-19 11:04:17",NULL,NULL,"2018-09-19 11:04:17",False,"00002024","50046000007aCpqAAE",95,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Henriette i love how kittu...",False,"2018-09-19 11:04:17",NULL,NULL,"2018-09-19 11:04:17",False,"00002023","50046000007aCppAAE",96,NULL,NULL
+"Medium","Other",NULL,"The episode was good. Lots of tension was creat...",False,"2018-09-19 11:04:17",NULL,NULL,"2018-09-19 11:04:17",False,"00002025","50046000007aCprAAE",97,NULL,NULL
+"Medium","Other",NULL,"i love how kittu does one cute thing and has us...",False,"2018-09-19 11:04:21",NULL,NULL,"2018-09-19 11:04:21",False,"00002031","50046000007aCq0AAE",98,NULL,NULL
+"Medium","Twitter",NULL,"My favorite Srk sir",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:09",True,"00002293","50046000007aCxEAAU",99,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Maryam2 Originally posted ...",False,"2018-09-19 11:04:22",NULL,NULL,"2018-09-19 11:04:22",False,"00002033","50046000007aCq2AAE",100,NULL,NULL
+"Medium","Other",NULL,"Originally posted by deeps07 Chalo guys..meet u...",False,"2018-09-19 11:04:22",NULL,NULL,"2018-09-19 11:04:22",False,"00002032","50046000007aCq1AAE",101,NULL,NULL
+"Medium","Other",NULL,"marny ki tied him with chains so he cant free h...",False,"2018-09-19 11:04:22",NULL,NULL,"2018-09-19 11:04:22",False,"00002034","50046000007aCq3AAE",102,NULL,NULL
+"Medium","Other",NULL,"this crash,he lost everything,but his love and ...",False,"2018-09-19 11:04:23",NULL,NULL,"2018-09-19 11:04:23",False,"00002036","50046000007aCq8AAE",103,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Maryam2 Chalo em off Subah...",False,"2018-09-19 11:04:24",NULL,NULL,"2018-09-19 11:04:24",False,"00002038","50046000007aCqEAAU",104,NULL,NULL
+"Medium","Other",NULL,"Congratulations for the new AT, 50 is near my g...",False,"2018-09-19 11:04:25",NULL,NULL,"2018-09-19 11:04:24",False,"00002039","50046000007aCqFAAU",105,NULL,NULL
+"Medium","Other",NULL,"Hahaha u seem new to forum welcome...even new m...",False,"2018-09-19 11:04:25",NULL,NULL,"2018-09-19 11:04:25",False,"00002041","50046000007aCqHAAU",106,NULL,NULL
+"Medium","Other",NULL,"Originally posted by hantel This is called dera...",False,"2018-09-19 11:04:26",NULL,NULL,"2018-09-19 11:04:26",False,"00002043","50046000007aCqJAAU",107,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Mascarpone No one called a...",False,"2018-09-19 11:04:26",NULL,NULL,"2018-09-19 11:04:26",False,"00002042","50046000007aCqIAAU",108,NULL,NULL
+"Medium","Other",NULL,"! ! ! ! ! This forum is actually reaching some ...",False,"2018-09-19 11:05:14",NULL,NULL,"2018-09-19 11:05:14",False,"00002057","50046000007aCqzAAE",109,NULL,NULL
+"Medium","Other",NULL,"Nandini will suffer bcs of her mistakes...it's ...",False,"2018-09-19 11:05:14",NULL,NULL,"2018-09-19 11:05:14",False,"00002056","50046000007aCqyAAE",110,NULL,NULL
+"Medium","Other",NULL,"Originally posted by VARUNI2014 He did not love...",False,"2018-09-19 11:05:14",NULL,NULL,"2018-09-19 11:05:13",False,"00002055","50046000007aCqxAAE",111,NULL,NULL
+"Medium","Other",NULL,"Originally posted by mango_pudding1 Originally ...",False,"2018-09-19 11:05:14",NULL,NULL,"2018-09-19 11:05:14",False,"00002058","50046000007aCr0AAE",112,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sunitas123 But really the ...",False,"2018-09-19 11:05:16",NULL,NULL,"2018-09-19 11:05:16",False,"00002061","50046000007aCr3AAE",113,NULL,NULL
+"Medium","Other",NULL,"able to afford that chair . The cvs can stop sh...",False,"2018-09-19 11:05:17",NULL,NULL,"2018-09-19 11:05:16",False,"00002062","50046000007aCr4AAE",114,NULL,NULL
+"Medium","Other",NULL,"I agree with the most. But I think problem is i...",False,"2018-09-19 11:05:17",NULL,NULL,"2018-09-19 11:05:17",False,"00002063","50046000007aCr5AAE",115,NULL,NULL
+"Medium","Other",NULL,"But really the comedy scene which I liked was w...",False,"2018-09-19 11:05:26",NULL,NULL,"2018-09-19 11:05:26",False,"00002067","50046000007aCrGAAU",116,NULL,NULL
+"Medium","Other",NULL,"are furious & making posts aft posts venting ou...",False,"2018-09-19 11:05:26",NULL,NULL,"2018-09-19 11:05:26",False,"00002068","50046000007aCrHAAU",117,NULL,NULL
+"Medium","Other",NULL,"language has a lot of it! Anyway back to the ma...",False,"2018-09-19 11:05:27",NULL,NULL,"2018-09-19 11:05:26",False,"00002069","50046000007aCrIAAU",118,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Rithu0203 Originally poste...",False,"2018-09-19 11:05:27",NULL,NULL,"2018-09-19 11:05:27",False,"00002070","50046000007aCrJAAU",119,NULL,NULL
+"Medium","Other",NULL,"able to afford that chair . The cvs can stop sh...",False,"2018-09-19 11:05:28",NULL,NULL,"2018-09-19 11:05:28",False,"00002072","50046000007aCrQAAU",120,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Snow_Angel Nandini will su...",False,"2018-09-19 11:05:29",NULL,NULL,"2018-09-19 11:05:29",False,"00002075","50046000007aCrTAAU",121,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Snow_Angel Originally post...",False,"2018-09-19 11:05:29",NULL,NULL,"2018-09-19 11:05:29",False,"00002074","50046000007aCrSAAU",122,NULL,NULL
+"Medium","Other",NULL,"Your post is very good. Had a good laugh",False,"2018-09-19 11:05:29",NULL,NULL,"2018-09-19 11:05:29",False,"00002073","50046000007aCrRAAU",123,NULL,NULL
+"Medium","Other",NULL,"yesterday's epi) doesn't make them horrible hum...",False,"2018-09-19 11:05:30",NULL,NULL,"2018-09-19 11:05:30",False,"00002077","50046000007aCrVAAU",124,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Angels11 Ok since people a...",False,"2018-09-19 11:05:30",NULL,NULL,"2018-09-19 11:05:29",False,"00002076","50046000007aCrUAAU",125,NULL,NULL
+"Medium","Other",NULL,"Originally posted by bscorp13 Lovely ishra scen...",False,"2018-09-19 11:05:33",NULL,NULL,"2018-09-19 11:05:33",False,"00002079","50046000007aCraAAE",126,NULL,NULL
+"Medium","Other",NULL,"I haven't watched this serial in along time so ...",False,"2018-09-19 11:05:34",NULL,NULL,"2018-09-19 11:05:34",False,"00002082","50046000007aCrdAAE",127,NULL,NULL
+"Medium","Other",NULL,". The cvs can stop showing this paralysis as a ...",False,"2018-09-19 11:05:34",NULL,NULL,"2018-09-19 11:05:34",False,"00002080","50046000007aCrbAAE",128,NULL,NULL
+"Medium","Other",NULL,"Lovely ishra scene again. With all the humour a...",False,"2018-09-19 11:05:34",NULL,NULL,"2018-09-19 11:05:34",False,"00002081","50046000007aCrcAAE",129,NULL,NULL
+"Medium","Other",NULL,"Originally posted by moumita.madhuk Originally ...",False,"2018-09-19 11:05:35",NULL,NULL,"2018-09-19 11:05:35",False,"00002084","50046000007aCrfAAE",130,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Angels11 Ok since people a...",False,"2018-09-19 11:05:35",NULL,NULL,"2018-09-19 11:05:35",False,"00002085","50046000007aCrgAAE",131,NULL,NULL
+"Medium","Other",NULL,"Originally posted by VARUNI2014 Lust is also as...",False,"2018-09-19 11:05:35",NULL,NULL,"2018-09-19 11:05:34",False,"00002083","50046000007aCreAAE",132,NULL,NULL
+"Medium","Other",NULL,", the show has been delayed to Sep 25 from Sep ...",False,"2018-09-19 11:06:41",NULL,NULL,"2018-09-19 11:06:41",False,"00002088","50046000007aCsOAAU",133,NULL,NULL
+"Medium","Other",NULL,"his hotness factor is Abhinav Shukla. I don't f...",False,"2018-09-19 11:06:42",NULL,NULL,"2018-09-19 11:06:42",False,"00002090","50046000007aCsQAAU",134,NULL,NULL
+"Medium","Other",NULL,"Originally posted by jaysp Originally posted by...",False,"2018-09-19 11:06:42",NULL,NULL,"2018-09-19 11:06:41",False,"00002089","50046000007aCsPAAU",135,NULL,NULL
+"Medium","Other",NULL,"Leap in Yeh Teri Galliyan postponed; Manish and...",False,"2018-09-19 11:06:42",NULL,NULL,"2018-09-19 11:06:42",False,"00002091","50046000007aCsRAAU",136,NULL,NULL
+"Medium","Other",NULL,"August 2018 at 10:57pm...",False,"2018-09-19 11:06:51",NULL,NULL,"2018-09-19 11:06:51",False,"00002096","50046000007aCsZAAU",137,NULL,NULL
+"Medium","Other",NULL,"In today's world with all sorts of problems cro...",False,"2018-09-19 11:06:52",NULL,NULL,"2018-09-19 11:06:52",False,"00002099","50046000007aCscAAE",138,NULL,NULL
+"Medium","Other",NULL,"Omg ! Suno Chanda is such a laugh riot I watche...",False,"2018-09-19 11:06:52",NULL,NULL,"2018-09-19 11:06:52",False,"00002098","50046000007aCsbAAE",139,NULL,NULL
+"Medium","Other",NULL,"[Quote: =soapsuds]Thanks for the link Fary. Hur...",False,"2018-09-19 11:06:52",NULL,NULL,"2018-09-19 11:06:52",False,"00002097","50046000007aCsaAAE",140,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Happy_hippy I think the wr...",False,"2018-09-19 11:06:53",NULL,NULL,"2018-09-19 11:06:53",False,"00002100","50046000007aCsdAAE",141,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sammy17 Honestly, that ent...",False,"2018-09-19 11:06:56",NULL,NULL,"2018-09-19 11:06:55",False,"00002104","50046000007aCsiAAE",142,NULL,NULL
+"Medium","Other",NULL,"The episode felt good to watch. Finally. I love...",False,"2018-09-19 11:06:56",NULL,NULL,"2018-09-19 11:06:56",False,"00002105","50046000007aCsjAAE",143,NULL,NULL
+"Medium","Other",NULL,"500 episode..time passed so quickly...and now t...",False,"2018-09-19 11:06:56",NULL,NULL,"2018-09-19 11:06:56",False,"00002106","50046000007aCskAAE",144,NULL,NULL
+"Medium","Other",NULL,"like him in my job interview ) Radhika Apte : F...",False,"2018-09-19 11:06:56",NULL,NULL,"2018-09-19 11:06:56",False,"00002107","50046000007aCslAAE",145,NULL,NULL
+"Medium","Other",NULL,"Previously On... The Gupta & Mallik families ce...",False,"2018-09-19 11:06:57",NULL,NULL,"2018-09-19 11:06:57",False,"00002109","50046000007aCsnAAE",146,NULL,NULL
+"Medium","Other",NULL,"OKAY! HYPERVENTILATING! A NEW THREAD IN 3 MONTH...",False,"2018-09-19 11:06:57",NULL,NULL,"2018-09-19 11:06:57",False,"00002108","50046000007aCsmAAE",147,NULL,NULL
+"Medium","Other",NULL,"Originally posted by anesku Originally posted b...",False,"2018-09-19 11:07:01",NULL,NULL,"2018-09-19 11:07:01",False,"00002115","50046000007aCsxAAE",148,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Dragonfly88 https://www.in...",False,"2018-09-19 11:07:01",NULL,NULL,"2018-09-19 11:07:01",False,"00002116","50046000007aCsyAAE",149,NULL,NULL
+"Medium","Other",NULL,"I think the cvs think that u no like when someo...",False,"2018-09-19 11:07:06",NULL,NULL,"2018-09-19 11:07:06",False,"00002121","50046000007aCt3AAE",150,NULL,NULL
+"Medium","Other",NULL,"Originally posted by theaisha Beautiful thread ...",False,"2018-09-19 11:07:06",NULL,NULL,"2018-09-19 11:07:06",False,"00002122","50046000007aCt4AAE",151,NULL,NULL
+"Medium","Other",NULL,"Tum log itne fast ho Congratulations",False,"2018-09-19 11:07:07",NULL,NULL,"2018-09-19 11:07:06",False,"00002123","50046000007aCt5AAE",152,NULL,NULL
+"Medium","Other",NULL,"Good one LA And the last part just after PS is ...",False,"2018-09-19 11:07:27",NULL,NULL,"2018-09-19 11:07:27",False,"00002134","50046000007aCtXAAU",153,NULL,NULL
+"Medium","Other",NULL,"Good luck for your exams. Sukor confession was ...",False,"2018-09-19 11:07:27",NULL,NULL,"2018-09-19 11:07:27",False,"00002133","50046000007aCtWAAU",154,NULL,NULL
+"Medium","Other",NULL,"Originally posted by JaySee I salute you for yo...",False,"2018-09-19 11:07:28",NULL,NULL,"2018-09-19 11:07:28",False,"00002136","50046000007aCtZAAU",155,NULL,NULL
+"Medium","Other",NULL,"present intentionally (due to situations). Yes ...",False,"2018-09-19 11:07:28",NULL,NULL,"2018-09-19 11:07:28",False,"00002137","50046000007aCtaAAE",156,NULL,NULL
+"Medium","Other",NULL,"Nice review. After a long time, the episode was...",False,"2018-09-19 11:07:28",NULL,NULL,"2018-09-19 11:07:28",False,"00002135","50046000007aCtYAAU",157,NULL,NULL
+"Medium","Other",NULL,"Thanks for sharing this Shamz To sad to comment",False,"2018-09-19 11:07:29",NULL,NULL,"2018-09-19 11:07:29",False,"00002140","50046000007aCtdAAE",158,NULL,NULL
+"Medium","Other",NULL,"beginnings... I'll make an official comeback af...",False,"2018-09-19 11:07:29",NULL,NULL,"2018-09-19 11:07:28",False,"00002138","50046000007aCtbAAE",159,NULL,NULL
+"Medium","Other",NULL,"good to see you back Mishti baby! Hope to see y...",False,"2018-09-19 11:07:29",NULL,NULL,"2018-09-19 11:07:29",False,"00002139","50046000007aCtcAAE",160,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ThunderLight Originally po...",False,"2018-09-19 11:07:30",NULL,NULL,"2018-09-19 11:07:29",False,"00002141","50046000007aCteAAE",161,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ranikaadi Originally poste...",False,"2018-09-19 11:07:30",NULL,NULL,"2018-09-19 11:07:30",False,"00002142","50046000007aCtfAAE",162,NULL,NULL
+"Medium","Other",NULL,"OMG wow stuff on gauri and rikara loving it tot...",False,"2018-09-19 11:07:30",NULL,NULL,"2018-09-19 11:07:30",False,"00002143","50046000007aCtgAAE",163,NULL,NULL
+"Medium","Other",NULL,"the Aug 10 episode yesterday I feel even more s...",False,"2018-09-19 11:07:32",NULL,NULL,"2018-09-19 11:07:32",False,"00002145","50046000007aCtmAAE",164,NULL,NULL
+"Medium","Other",NULL,"do something very wrong in present intentionall...",False,"2018-09-19 11:07:33",NULL,NULL,"2018-09-19 11:07:33",False,"00002147","50046000007aCtoAAE",165,NULL,NULL
+"Medium","Other",NULL,"Yes!! she gave him a ""Herb of the Sun "" or in o...",False,"2018-09-19 11:07:33",NULL,NULL,"2018-09-19 11:07:33",False,"00002146","50046000007aCtnAAE",166,NULL,NULL
+"Medium","Other",NULL,"Hello doston kya haal chaal Is their any improv...",False,"2018-09-19 11:07:34",NULL,NULL,"2018-09-19 11:07:34",False,"00002150","50046000007aCtrAAE",167,NULL,NULL
+"Medium","Other",NULL,"Originally posted by JaySee Good post. Very wel...",False,"2018-09-19 11:07:34",NULL,NULL,"2018-09-19 11:07:34",False,"00002149","50046000007aCtqAAE",168,NULL,NULL
+"Medium","Other",NULL,"Good post. Very well written.",False,"2018-09-19 11:07:34",NULL,NULL,"2018-09-19 11:07:33",False,"00002148","50046000007aCtpAAE",169,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sheen97 Hello doston kya h...",False,"2018-09-19 11:07:35",NULL,NULL,"2018-09-19 11:07:34",False,"00002151","50046000007aCtsAAE",170,NULL,NULL
+"Medium","Other",NULL,"Hello ...hello Mishti just came to cheer up u a...",False,"2018-09-19 11:07:35",NULL,NULL,"2018-09-19 11:07:35",False,"00002152","50046000007aCttAAE",171,NULL,NULL
+"Medium","Other",NULL,"Hello my beautiful writers Where are you all It...",False,"2018-09-19 11:07:35",NULL,NULL,"2018-09-19 11:07:35",False,"00002153","50046000007aCtuAAE",172,NULL,NULL
+"Medium","Other",NULL,"Originally posted by .Nivedita. She posted this...",False,"2018-09-19 11:07:36",NULL,NULL,"2018-09-19 11:07:36",False,"00002154","50046000007aCtvAAE",173,NULL,NULL
+"Medium","Other",NULL,"Meera and Samriddhi need to spend more time tog...",False,"2018-09-19 11:07:42",NULL,NULL,"2018-09-19 11:07:42",False,"00002156","50046000007aCu1AAE",174,NULL,NULL
+"Medium","Other",NULL,"Like mai said a good bonding DEFNITELY reflects...",False,"2018-09-19 11:07:42",NULL,NULL,"2018-09-19 11:07:42",False,"00002157","50046000007aCu2AAE",175,NULL,NULL
+"Medium","Other",NULL,"our society has not changed regarding girls and...",False,"2018-09-19 11:07:43",NULL,NULL,"2018-09-19 11:07:43",False,"00002159","50046000007aCu4AAE",176,NULL,NULL
+"Medium","Other",NULL,"I really loved this character.. he is calm, swe...",False,"2018-09-19 11:07:43",NULL,NULL,"2018-09-19 11:07:43",False,"00002160","50046000007aCu5AAE",177,NULL,NULL
+"Medium","Other",NULL,"sabi & abhi now every character of this show ar...",False,"2018-09-19 11:07:43",NULL,NULL,"2018-09-19 11:07:43",False,"00002158","50046000007aCu3AAE",178,NULL,NULL
+"Medium","Other",NULL,"The ending was beautiful and so was the voice o...",False,"2018-09-19 11:07:44",NULL,NULL,"2018-09-19 11:07:44",False,"00002163","50046000007aCu8AAE",179,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Thabassum.. Originally pos...",False,"2018-09-19 11:07:44",NULL,NULL,"2018-09-19 11:07:44",False,"00002162","50046000007aCu7AAE",180,NULL,NULL
+"Medium","Other",NULL,"Sason ki sarzameen par barsaat laa gaye, ek jha...",False,"2018-09-19 11:07:44",NULL,NULL,"2018-09-19 11:07:43",False,"00002161","50046000007aCu6AAE",181,NULL,NULL
+"Medium","Other",NULL,"Ordet (Danish) A family is in an existential cr...",False,"2018-09-19 11:07:45",NULL,NULL,"2018-09-19 11:07:45",False,"00002165","50046000007aCuAAAU",182,NULL,NULL
+"Medium","Other",NULL,"Originally posted by tina59 Unfortunately that ...",False,"2018-09-19 11:07:45",NULL,NULL,"2018-09-19 11:07:44",False,"00002164","50046000007aCu9AAE",183,NULL,NULL
+"Medium","Other",NULL,"waiting for suraj elina wedding as I love this ...",False,"2018-09-19 11:07:45",NULL,NULL,"2018-09-19 11:07:45",False,"00002167","50046000007aCuCAAU",184,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Sarath_Pandey Originally p...",False,"2018-09-19 11:07:45",NULL,NULL,"2018-09-19 11:07:45",False,"00002166","50046000007aCuBAAU",185,NULL,NULL
+"Medium","Other",NULL,"It was a very good episode. The only bad thing ...",False,"2018-09-19 11:07:48",NULL,NULL,"2018-09-19 11:07:48",False,"00002170","50046000007aCuHAAU",186,NULL,NULL
+"Medium","Other",NULL,"I have made two post on yesterday's episode . S...",False,"2018-09-19 11:07:48",NULL,NULL,"2018-09-19 11:07:48",False,"00002172","50046000007aCuJAAU",187,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sabreen_06 Another draggin...",False,"2018-09-19 11:07:48",NULL,NULL,"2018-09-19 11:07:48",False,"00002171","50046000007aCuIAAU",188,NULL,NULL
+"Medium","Other",NULL,"90's society mentality. It's about how our soci...",False,"2018-09-19 11:07:49",NULL,NULL,"2018-09-19 11:07:49",False,"00002173","50046000007aCuKAAU",189,NULL,NULL
+"Medium","Other",NULL,"The episode was a little weirdly edited yes. I ...",False,"2018-09-19 11:07:49",NULL,NULL,"2018-09-19 11:07:49",False,"00002175","50046000007aCuMAAU",190,NULL,NULL
+"Medium","Other",NULL,"Hello everyone! The forum is still so quiet. Ho...",False,"2018-09-19 11:07:49",NULL,NULL,"2018-09-19 11:07:49",False,"00002174","50046000007aCuLAAU",191,NULL,NULL
+"Medium","Other",NULL,"Lol...I'm glad my best panda , is already up to...",False,"2018-09-19 11:07:50",NULL,NULL,"2018-09-19 11:07:50",False,"00002176","50046000007aCuNAAU",192,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Houstonmom Originally post...",False,"2018-09-19 11:07:50",NULL,NULL,"2018-09-19 11:07:50",False,"00002177","50046000007aCuOAAU",193,NULL,NULL
+"Medium","Other",NULL,"They look so good together",False,"2018-09-19 11:07:50",NULL,NULL,"2018-09-19 11:07:50",False,"00002178","50046000007aCuPAAU",194,NULL,NULL
+"Medium","Other",NULL,"How is KCR doing TRPwise, anyone knows??? Okay,...",False,"2018-09-19 11:07:51",NULL,NULL,"2018-09-19 11:07:50",False,"00002179","50046000007aCuQAAU",195,NULL,NULL
+"Medium","Other",NULL,"yes deepti jaise mamta killed her all past new ...",False,"2018-09-19 11:08:31",NULL,NULL,"2018-09-19 11:08:31",False,"00002182","50046000007aCukAAE",196,NULL,NULL
+"Medium","Other",NULL,"Yeah it will be nice if Naman already knows Pal...",False,"2018-09-19 11:08:31",NULL,NULL,"2018-09-19 11:08:31",False,"00002181","50046000007aCujAAE",197,NULL,NULL
+"Medium","Other",NULL,"Originally posted by fortitudeoth Hello everyon...",False,"2018-09-19 11:08:32",NULL,NULL,"2018-09-19 11:08:32",False,"00002185","50046000007aCunAAE",198,NULL,NULL
+"Medium","Other",NULL,"Hosh na khabar hai, yeh kaisa asaar hai, tumhar...",False,"2018-09-19 11:08:32",NULL,NULL,"2018-09-19 11:08:32",False,"00002184","50046000007aCumAAE",199,NULL,NULL
+"Medium","Other",NULL,"Hi there, This post originated from a question ...",False,"2018-09-19 11:08:32",NULL,NULL,"2018-09-19 11:08:32",False,"00002183","50046000007aCulAAE",200,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Thabassum.. Okay looks lik...",False,"2018-09-19 11:08:33",NULL,NULL,"2018-09-19 11:08:33",False,"00002189","50046000007aCurAAE",201,NULL,NULL
+"Medium","Other",NULL,"Not unseen but lovely pic, nonetheless... They ...",False,"2018-09-19 11:08:33",NULL,NULL,"2018-09-19 11:08:33",False,"00002188","50046000007aCuqAAE",202,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Thabassum.. Fingers crosse...",False,"2018-09-19 11:08:33",NULL,NULL,"2018-09-19 11:08:33",False,"00002187","50046000007aCupAAE",203,NULL,NULL
+"Medium","Other",NULL,"Fingers crossed Maya babe ...we sure shud have ...",False,"2018-09-19 11:08:33",NULL,NULL,"2018-09-19 11:08:32",False,"00002186","50046000007aCuoAAE",204,NULL,NULL
+"Medium","Other",NULL,"No good deed 0/5 utter crap movie. Fast forward...",False,"2018-09-19 11:08:34",NULL,NULL,"2018-09-19 11:08:34",False,"00002190","50046000007aCusAAE",205,NULL,NULL
+"Medium","Other",NULL,"casts for these types of play isn't the best bu...",False,"2018-09-19 11:08:34",NULL,NULL,"2018-09-19 11:08:34",False,"00002191","50046000007aCutAAE",206,NULL,NULL
+"Medium","Other",NULL,",ELDG, Uncha maza Zoka, I mean such superior qu...",False,"2018-09-19 11:09:01",NULL,NULL,"2018-09-19 11:09:01",False,"00002192","50046000007aCuyAAE",207,NULL,NULL
+"Medium","Other",NULL,"this show was supposed to be from indian perspe...",False,"2018-09-19 11:09:02",NULL,NULL,"2018-09-19 11:09:01",False,"00002193","50046000007aCuzAAE",208,NULL,NULL
+"Medium","Other",NULL,"Congratulations Meher",False,"2018-09-19 11:09:02",NULL,NULL,"2018-09-19 11:09:02",False,"00002195","50046000007aCv1AAE",209,NULL,NULL
+"Medium","Other",NULL,"Congratulations dear...all the best",False,"2018-09-19 11:09:02",NULL,NULL,"2018-09-19 11:09:02",False,"00002196","50046000007aCv2AAE",210,NULL,NULL
+"Medium","Other",NULL,"Congratulations",False,"2018-09-19 11:09:02",NULL,NULL,"2018-09-19 11:09:02",False,"00002194","50046000007aCv0AAE",211,NULL,NULL
+"Medium","Other",NULL,"saying Nazar Is A Much Better Show Than Most of...",False,"2018-09-19 11:09:03",NULL,NULL,"2018-09-19 11:09:03",False,"00002200","50046000007aCv6AAE",212,NULL,NULL
+"Medium","Other",NULL,"wiped my tears taking a deep breath. I can't te...",False,"2018-09-19 11:09:03",NULL,NULL,"2018-09-19 11:09:03",False,"00002199","50046000007aCv5AAE",213,NULL,NULL
+"Medium","Other",NULL,"Originally posted by harshiidiv Originally post...",False,"2018-09-19 11:09:03",NULL,NULL,"2018-09-19 11:09:02",False,"00002197","50046000007aCv3AAE",214,NULL,NULL
+"Medium","Other",NULL,"Omg pari, though i knew you were a writer but t...",False,"2018-09-19 11:09:03",NULL,NULL,"2018-09-19 11:09:03",False,"00002198","50046000007aCv4AAE",215,NULL,NULL
+"Medium","Other",NULL,"So finally Kabir and Zara are in together to fi...",False,"2018-09-19 11:09:04",NULL,NULL,"2018-09-19 11:09:04",False,"00002202","50046000007aCv8AAE",216,NULL,NULL
+"Medium","Other",NULL,"Really feeling sad",False,"2018-09-19 11:09:04",NULL,NULL,"2018-09-19 11:09:04",False,"00002201","50046000007aCv7AAE",217,NULL,NULL
+"Medium","Other",NULL,"Part 2 Ananya was sitting there worried and eve...",False,"2018-09-19 11:09:05",NULL,NULL,"2018-09-19 11:09:05",False,"00002207","50046000007aCvDAAU",218,NULL,NULL
+"Medium","Other",NULL,"Originally posted by zooni.blue EbEv I loved Fr...",False,"2018-09-19 11:09:05",NULL,NULL,"2018-09-19 11:09:05",False,"00002206","50046000007aCvCAAU",219,NULL,NULL
+"Medium","Other",NULL,"Was seriously missing your writings from the in...",False,"2018-09-19 11:09:05",NULL,NULL,"2018-09-19 11:09:04",False,"00002204","50046000007aCvAAAU",220,NULL,NULL
+"Medium","Other",NULL,"slapfest had me rolling my eyes and i thought w...",False,"2018-09-19 11:09:05",NULL,NULL,"2018-09-19 11:09:05",False,"00002205","50046000007aCvBAAU",221,NULL,NULL
+"Medium","Other",NULL,"Well VP spoilt it totally for his son, so I did...",False,"2018-09-19 11:09:06",NULL,NULL,"2018-09-19 11:09:06",False,"00002208","50046000007aCvEAAU",222,NULL,NULL
+"Medium","Other",NULL,"A big wala thank youuu ""Drashti Dhami"" as bcoz ...",False,"2018-09-19 11:09:07",NULL,NULL,"2018-09-19 11:09:07",False,"00002212","50046000007aCvLAAU",223,NULL,NULL
+"Medium","Other",NULL,"Prapanch, Zoka, abhalmaya, Asambhav,ELDG, Uncha...",False,"2018-09-19 11:09:07",NULL,NULL,"2018-09-19 11:09:06",False,"00002209","50046000007aCvIAAU",224,NULL,NULL
+"Medium","Other",NULL,"I liked his way of bidding his show a good bye....",False,"2018-09-19 11:09:07",NULL,NULL,"2018-09-19 11:09:07",False,"00002210","50046000007aCvJAAU",225,NULL,NULL
+"Medium","Other",NULL,"I have an idea but not very sure whi sid pocket...",False,"2018-09-19 11:09:07",NULL,NULL,"2018-09-19 11:09:07",False,"00002211","50046000007aCvKAAU",226,NULL,NULL
+"Medium","Other",NULL,"Mrunal is on a roll. By doing several ads, Mrun...",False,"2018-09-19 11:09:08",NULL,NULL,"2018-09-19 11:09:08",False,"00002213","50046000007aCvMAAU",227,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Vdvisa Mano any reviews ab...",False,"2018-09-19 11:09:08",NULL,NULL,"2018-09-19 11:09:08",False,"00002214","50046000007aCvNAAU",228,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Hari73 Originally posted b...",False,"2018-09-19 11:09:08",NULL,NULL,"2018-09-19 11:09:08",False,"00002215","50046000007aCvOAAU",229,NULL,NULL
+"Medium","Other",NULL,"Originally posted by AyraaMalik Buhat ajeeeb ha...",False,"2018-09-19 11:09:10",NULL,NULL,"2018-09-19 11:09:09",False,"00002218","50046000007aCvRAAU",230,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -FlyAway- Originally poste...",False,"2018-09-19 11:09:10",NULL,NULL,"2018-09-19 11:09:10",False,"00002219","50046000007aCvSAAU",231,NULL,NULL
+"Medium","Other",NULL,"Can't find a best scene ...but was floored by t...",False,"2018-09-19 11:09:11",NULL,NULL,"2018-09-19 11:09:10",False,"00002221","50046000007aCvUAAU",232,NULL,NULL
+"Medium","Other",NULL,"saw that there are many theories which say poru...",False,"2018-09-19 11:09:12",NULL,NULL,"2018-09-19 11:09:12",False,"00002223","50046000007aCvXAAU",233,NULL,NULL
+"Medium","Other",NULL,"Congratulations dear Meher",False,"2018-09-19 11:09:12",NULL,NULL,"2018-09-19 11:09:12",False,"00002224","50046000007aCvYAAU",234,NULL,NULL
+"Medium","Other",NULL,"Congratulations Meher...We are very very very p...",False,"2018-09-19 11:09:12",NULL,NULL,"2018-09-19 11:09:12",False,"00002226","50046000007aCvaAAE",235,NULL,NULL
+"Medium","Other",NULL,"Hiya toh ekdum practical mein ghuss gayi Maida ...",False,"2018-09-19 11:09:12",NULL,NULL,"2018-09-19 11:09:12",False,"00002225","50046000007aCvZAAU",236,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Fanclub99 Congratulations ...",False,"2018-09-19 11:09:13",NULL,NULL,"2018-09-19 11:09:13",False,"00002227","50046000007aCvbAAE",237,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Hari73 Originally posted b...",False,"2018-09-19 11:09:14",NULL,NULL,"2018-09-19 11:09:13",False,"00002229","50046000007aCvdAAE",238,NULL,NULL
+"Medium","Other",NULL,"Originally posted by purbabiswas Originally pos...",False,"2018-09-19 11:09:14",NULL,NULL,"2018-09-19 11:09:14",False,"00002230","50046000007aCveAAE",239,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Jaitreya23 So finally Kabi...",False,"2018-09-19 11:09:14",NULL,NULL,"2018-09-19 11:09:14",False,"00002232","50046000007aCvgAAE",240,NULL,NULL
+"Medium","Other",NULL,", stiff rotis and nearly salt less sabji for di...",False,"2018-09-19 11:09:14",NULL,NULL,"2018-09-19 11:09:14",False,"00002231","50046000007aCvfAAE",241,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Jaitreya23 What bakwas are...",False,"2018-09-19 11:09:15",NULL,NULL,"2018-09-19 11:09:14",False,"00002233","50046000007aCvhAAE",242,NULL,NULL
+"Medium","Other",NULL,"EbEv I loved Friday episode... It was nice n pa...",False,"2018-09-19 11:09:15",NULL,NULL,"2018-09-19 11:09:15",False,"00002234","50046000007aCviAAE",243,NULL,NULL
+"Medium","Other",NULL,"@EtherealRati Ok, now I understand why you were...",False,"2018-09-19 11:09:32",NULL,NULL,"2018-09-19 11:09:32",False,"00002240","50046000007aCvzAAE",244,NULL,NULL
+"Medium","Other",NULL,"I don't know what on earth the writers are doin...",False,"2018-09-19 11:09:32",NULL,NULL,"2018-09-19 11:09:32",False,"00002239","50046000007aCvyAAE",245,NULL,NULL
+"Medium","Other",NULL,"Originally posted by pri_b Wot a chummalicious ...",False,"2018-09-19 11:09:32",NULL,NULL,"2018-09-19 11:09:32",False,"00002238","50046000007aCvxAAE",246,NULL,NULL
+"Medium","Other",NULL,"Originally posted by noexcuse actually on the p...",False,"2018-09-19 11:09:33",NULL,NULL,"2018-09-19 11:09:33",False,"00002242","50046000007aCw1AAE",247,NULL,NULL
+"Medium","Other",NULL,"Originally posted by mehraan Originally posted ...",False,"2018-09-19 11:09:33",NULL,NULL,"2018-09-19 11:09:33",False,"00002244","50046000007aCw3AAE",248,NULL,NULL
+"Medium","Other",NULL,"I agree Fary. Some of the reboots were not bad....",False,"2018-09-19 11:09:33",NULL,NULL,"2018-09-19 11:09:33",False,"00002243","50046000007aCw2AAE",249,NULL,NULL
+"Medium","Other",NULL,"soldiers. No one even raised their shields. How...",False,"2018-09-19 11:09:33",NULL,NULL,"2018-09-19 11:09:32",False,"00002241","50046000007aCw0AAE",250,NULL,NULL
+"Medium","Other",NULL,"Originally posted by cygnet9 Yes you guys are r...",False,"2018-09-19 11:09:34",NULL,NULL,"2018-09-19 11:09:34",False,"00002245","50046000007aCw4AAE",251,NULL,NULL
+"Medium","Other",NULL,"Hello Rainbow Friends One more picture of Sid: ...",False,"2018-09-19 11:09:34",NULL,NULL,"2018-09-19 11:09:34",False,"00002246","50046000007aCw5AAE",252,NULL,NULL
+"Medium","Other",NULL,"Wishing you a very Happy Birthday dear Sutapasi...",False,"2018-09-19 11:09:34",NULL,NULL,"2018-09-19 11:09:34",False,"00002248","50046000007aCw7AAE",253,NULL,NULL
+"Medium","Other",NULL,"Good morning! Thank you Nado for the freshly ba...",False,"2018-09-19 11:09:34",NULL,NULL,"2018-09-19 11:09:34",False,"00002247","50046000007aCw6AAE",254,NULL,NULL
+"Medium","Other",NULL,"Originally posted by amrutha131 VJ September Af...",False,"2018-09-19 11:09:35",NULL,NULL,"2018-09-19 11:09:35",False,"00002251","50046000007aCwAAAU",255,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ikhtiyar. Was seriously mi...",False,"2018-09-19 11:09:35",NULL,NULL,"2018-09-19 11:09:35",False,"00002250","50046000007aCw9AAE",256,NULL,NULL
+"Medium","Other",NULL,"Just saw the uploaded episode on alt Balaji I t...",False,"2018-09-19 11:09:36",NULL,NULL,"2018-09-19 11:09:36",False,"00002252","50046000007aCwBAAU",257,NULL,NULL
+"Medium","Other",NULL,"Muje nahi pata.. jab tak vo saat me ayenge or a...",False,"2018-09-19 11:09:36",NULL,NULL,"2018-09-19 11:09:36",False,"00002253","50046000007aCwCAAU",258,NULL,NULL
+"Medium","Other",NULL,"So Zhende is vikrant's right hand cum friend.. ...",False,"2018-09-19 11:09:37",NULL,NULL,"2018-09-19 11:09:37",False,"00002255","50046000007aCwHAAU",259,NULL,NULL
+"Medium","Other",NULL,"had amazing dramas like Prapanch, Zoka, abhalma...",False,"2018-09-19 11:09:37",NULL,NULL,"2018-09-19 11:09:37",False,"00002254","50046000007aCwGAAU",260,NULL,NULL
+"Medium","Other",NULL,"Every show goes in a certain pattern..a low pha...",False,"2018-09-19 11:09:37",NULL,NULL,"2018-09-19 11:09:37",False,"00002256","50046000007aCwIAAU",261,NULL,NULL
+"Medium","Other",NULL,"congratulations meher! me loves u",False,"2018-09-19 11:09:38",NULL,NULL,"2018-09-19 11:09:38",False,"00002258","50046000007aCwKAAU",262,NULL,NULL
+"Medium","Other",NULL,"Originally posted by noexcuse Congratulations M...",False,"2018-09-19 11:09:38",NULL,NULL,"2018-09-19 11:09:38",False,"00002259","50046000007aCwLAAU",263,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Padmajaan I have an idea b...",False,"2018-09-19 11:09:38",NULL,NULL,"2018-09-19 11:09:38",False,"00002260","50046000007aCwMAAU",264,NULL,NULL
+"Medium","Other",NULL,"who wins or loses but what makes sense to watch...",False,"2018-09-19 11:09:38",NULL,NULL,"2018-09-19 11:09:38",False,"00002257","50046000007aCwJAAU",265,NULL,NULL
+"Medium","Other",NULL,"critical of the actor portraying it. Television...",False,"2018-09-19 11:09:39",NULL,NULL,"2018-09-19 11:09:38",False,"00002261","50046000007aCwNAAU",266,NULL,NULL
+"Medium","Other",NULL,"Good morning friends. Have a nice weekend. Edit...",False,"2018-09-19 11:09:39",NULL,NULL,"2018-09-19 11:09:39",False,"00002263","50046000007aCwPAAU",267,NULL,NULL
+"Medium","Other",NULL,"The Kapoor family is definately class and liked...",False,"2018-09-19 11:09:40",NULL,NULL,"2018-09-19 11:09:40",False,"00002266","50046000007aCwSAAU",268,NULL,NULL
+"Medium","Other",NULL,"Originally posted by SoniSoni12 Originally post...",False,"2018-09-19 11:09:40",NULL,NULL,"2018-09-19 11:09:39",False,"00002264","50046000007aCwQAAU",269,NULL,NULL
+"Medium","Other",NULL,"""The best things in life are free like: Love, R...",False,"2018-09-19 11:09:40",NULL,NULL,"2018-09-19 11:09:40",False,"00002265","50046000007aCwRAAU",270,NULL,NULL
+"Medium","Other",NULL,"I never liked this new Arohi girl's in any show...",False,"2018-09-19 11:09:59",NULL,NULL,"2018-09-19 11:09:59",False,"00002268","50046000007aCwfAAE",271,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Crimson9 Hilarious One can...",False,"2018-09-19 11:10:00",NULL,NULL,"2018-09-19 11:09:59",False,"00002269","50046000007aCwgAAE",272,NULL,NULL
+"Medium","Other",NULL,"Originally posted by BiraSaysWhaddup Raj and DK...",False,"2018-09-19 11:10:00",NULL,NULL,"2018-09-19 11:10:00",False,"00002270","50046000007aCwhAAE",273,NULL,NULL
+"Medium","Other",NULL,"Woah. 2018 seems like Bollywood's best year sin...",False,"2018-09-19 11:10:00",NULL,NULL,"2018-09-19 11:10:00",False,"00002271","50046000007aCwiAAE",274,NULL,NULL
+"Medium","Other",NULL,"We are unsure about everything happening in the...",False,"2018-09-19 11:10:01",NULL,NULL,"2018-09-19 11:10:01",False,"00002274","50046000007aCwlAAE",275,NULL,NULL
+"Medium","Other",NULL,"Mujhe bhi nahi aati Caps hai but good too see t...",False,"2018-09-19 11:10:01",NULL,NULL,"2018-09-19 11:10:01",False,"00002273","50046000007aCwkAAE",276,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Sumita18 Good morning Have...",False,"2018-09-19 11:10:01",NULL,NULL,"2018-09-19 11:10:01",False,"00002272","50046000007aCwjAAE",277,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Crimson9 Nice review. Afte...",False,"2018-09-19 11:10:02",NULL,NULL,"2018-09-19 11:10:02",False,"00002275","50046000007aCwpAAE",278,NULL,NULL
+"Medium","Other",NULL,"After watching her in Teri Raza, idk if this is...",False,"2018-09-19 11:10:03",NULL,NULL,"2018-09-19 11:10:03",False,"00002278","50046000007aCwsAAE",279,NULL,NULL
+"Medium","Other",NULL,"Glad that it is. Its a good movie. I was thorou...",False,"2018-09-19 11:10:03",NULL,NULL,"2018-09-19 11:10:03",False,"00002277","50046000007aCwrAAE",280,NULL,NULL
+"Medium","Other",NULL,"pretty much certain the film is going to be a H...",False,"2018-09-19 11:10:03",NULL,NULL,"2018-09-19 11:10:02",False,"00002276","50046000007aCwqAAE",281,NULL,NULL
+"Medium","Other",NULL,"Please friends...though I love our show YUDKBH,...",False,"2018-09-19 11:10:04",NULL,NULL,"2018-09-19 11:10:04",False,"00002281","50046000007aCwvAAE",282,NULL,NULL
+"Medium","Other",NULL,"But I really wanted to see a formal proposal fr...",False,"2018-09-19 11:10:04",NULL,NULL,"2018-09-19 11:10:04",False,"00002280","50046000007aCwuAAE",283,NULL,NULL
+"Medium","Other",NULL,"Thanks dear. Yes, the hand-holding in the emoti...",False,"2018-09-19 11:10:04",NULL,NULL,"2018-09-19 11:10:03",False,"00002279","50046000007aCwtAAE",284,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Tarantella Jaydeep looks e...",False,"2018-09-19 11:10:05",NULL,NULL,"2018-09-19 11:10:05",False,"00002284","50046000007aCwyAAE",285,NULL,NULL
+"Medium","Other",NULL,"Originally posted by vaishu.6 really this was f...",False,"2018-09-19 11:10:05",NULL,NULL,"2018-09-19 11:10:04",False,"00002282","50046000007aCwwAAE",286,NULL,NULL
+"Medium","Other",NULL,"[Quote: =Harmankav]Thanks dear for pm... really...",False,"2018-09-19 11:10:05",NULL,NULL,"2018-09-19 11:10:05",False,"00002283","50046000007aCwxAAE",287,NULL,NULL
+"Medium","Other",NULL,"His tears ...says everything After its his show...",False,"2018-09-19 11:10:06",NULL,NULL,"2018-09-19 11:10:06",False,"00002287","50046000007aCx1AAE",288,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sabreen_06 Originally post...",False,"2018-09-19 11:10:06",NULL,NULL,"2018-09-19 11:10:06",False,"00002286","50046000007aCx0AAE",289,NULL,NULL
+"Medium","Other",NULL,"much ok with giving palak a chance ... Like Pal...",False,"2018-09-19 11:10:06",NULL,NULL,"2018-09-19 11:10:06",False,"00002285","50046000007aCwzAAE",290,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Vaishnavi_ We are unsure a...",False,"2018-09-19 11:10:07",NULL,NULL,"2018-09-19 11:10:07",False,"00002290","50046000007aCx4AAE",291,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Vaishnavi_ I hope what you...",False,"2018-09-19 11:10:07",NULL,NULL,"2018-09-19 11:10:07",False,"00002291","50046000007aCx5AAE",292,NULL,NULL
+"Medium","Other",NULL,"Originally posted by BiraSaysWhaddup Woah. 2018...",False,"2018-09-19 11:10:07",NULL,NULL,"2018-09-19 11:10:07",False,"00002289","50046000007aCx3AAE",293,NULL,NULL
+"Medium","Other",NULL,"Good one Haseena. Emotional Chappy . But well n...",False,"2018-09-19 11:10:07",NULL,NULL,"2018-09-19 11:10:06",False,"00002288","50046000007aCx2AAE",294,NULL,NULL
+"Medium","Other",NULL,"Hii pandas...here is new Mehrya FS...its going ...",False,"2018-09-19 11:10:12",NULL,NULL,"2018-09-19 11:10:12",False,"00002298","50046000007aCxRAAU",295,NULL,NULL
+"Medium","Other",NULL,"Good times Don't Loose Hope Guys...Ache Din Phi...",False,"2018-09-19 11:10:12",NULL,NULL,"2018-09-19 11:10:12",False,"00002297","50046000007aCxQAAU",296,NULL,NULL
+"Medium","Other",NULL,"huge role to play ... VP was very much ok with ...",False,"2018-09-19 11:10:12",NULL,NULL,"2018-09-19 11:10:12",False,"00002296","50046000007aCxPAAU",297,NULL,NULL
+"Medium","Other",NULL,"Originally posted by BlackPanther7 Originally p...",False,"2018-09-19 11:10:13",NULL,NULL,"2018-09-19 11:10:12",False,"00002299","50046000007aCxSAAU",298,NULL,NULL
+"Medium","Other",NULL,"Good Morning friends! Have a good sunday.",False,"2018-09-19 11:10:13",NULL,NULL,"2018-09-19 11:10:13",False,"00002301","50046000007aCxUAAU",299,NULL,NULL
+"Medium","Other",NULL,"Vivek was very good in yesterday's episode. Pro...",False,"2018-09-19 11:10:13",NULL,NULL,"2018-09-19 11:10:13",False,"00002300","50046000007aCxTAAU",300,NULL,NULL
+"Medium","Other",NULL,"I hope what you are saying turns out for real.....",False,"2018-09-19 11:10:14",NULL,NULL,"2018-09-19 11:10:13",False,"00002302","50046000007aCxVAAU",301,NULL,NULL
+"Medium","Other",NULL,"Good points raised by everyone!",False,"2018-09-19 11:11:01",NULL,NULL,"2018-09-19 11:11:01",False,"00002306","50046000007aCxdAAE",302,NULL,NULL
+"Medium","Other",NULL,"I've heard a lot about Powder ! Will watch it o...",False,"2018-09-19 11:11:02",NULL,NULL,"2018-09-19 11:11:02",False,"00002309","50046000007aCxgAAE",303,NULL,NULL
+"Medium","Other",NULL,"I liked how Anushka instantly knew it was Siddh...",False,"2018-09-19 11:11:02",NULL,NULL,"2018-09-19 11:11:02",False,"00002308","50046000007aCxfAAE",304,NULL,NULL
+"Medium","Other",NULL,"I look at the man lying crumbled on the floor. ...",False,"2018-09-19 11:11:02",NULL,NULL,"2018-09-19 11:11:01",False,"00002307","50046000007aCxeAAE",305,NULL,NULL
+"Medium","Other",NULL,"Thank you for this lovely post TM. I tend to fe...",False,"2018-09-19 11:11:03",NULL,NULL,"2018-09-19 11:11:03",False,"00002313","50046000007aCxkAAE",306,NULL,NULL
+"Medium","Other",NULL,"Agree. Their onscreen chemistry is beautiful pl...",False,"2018-09-19 11:11:03",NULL,NULL,"2018-09-19 11:11:03",False,"00002311","50046000007aCxiAAE",307,NULL,NULL
+"Medium","Other",NULL,"Originally posted by alovi_21 I love their chem...",False,"2018-09-19 11:11:03",NULL,NULL,"2018-09-19 11:11:03",False,"00002312","50046000007aCxjAAE",308,NULL,NULL
+"Medium","Other",NULL,"i posted pjs on the congratulations thread",False,"2018-09-19 11:11:04",NULL,NULL,"2018-09-19 11:11:04",False,"00002315","50046000007aCxnAAE",309,NULL,NULL
+"Medium","Other",NULL,"That's what most Indian men want it seems?! Or ...",False,"2018-09-19 11:11:04",NULL,NULL,"2018-09-19 11:11:04",False,"00002314","50046000007aCxlAAE",310,NULL,NULL
+"Medium","Other",NULL,"I don't know about being fairer or darker cos t...",False,"2018-09-19 11:11:05",NULL,NULL,"2018-09-19 11:11:05",False,"00002318","50046000007aCxqAAE",311,NULL,NULL
+"Medium","Other",NULL,"That's what most Indian men want it seems?! Or ...",False,"2018-09-19 11:11:05",NULL,NULL,"2018-09-19 11:11:05",False,"00002317","50046000007aCxpAAE",312,NULL,NULL
+"Medium","Other",NULL,"good to see people appreciating two awesome peo...",False,"2018-09-19 11:11:05",NULL,NULL,"2018-09-19 11:11:05",False,"00002316","50046000007aCxoAAE",313,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Sabyata Originally posted ...",False,"2018-09-19 11:11:06",NULL,NULL,"2018-09-19 11:11:06",False,"00002319","50046000007aCxrAAE",314,NULL,NULL
+"Medium","Other",NULL,"No mauli wont have peace. Mauli is so good at e...",False,"2018-09-19 11:11:06",NULL,NULL,"2018-09-19 11:11:06",False,"00002320","50046000007aCxsAAE",315,NULL,NULL
+"Medium","Other",NULL,"Originally posted by chirpyhapibird Originally ...",False,"2018-09-19 11:11:06",NULL,NULL,"2018-09-19 11:11:06",False,"00002321","50046000007aCxtAAE",316,NULL,NULL
+"Medium","Other",NULL,"There are so many tv shows with so many couples...",False,"2018-09-19 11:11:06",NULL,NULL,"2018-09-19 11:11:06",False,"00002322","50046000007aCxuAAE",317,NULL,NULL
+"Medium","Other",NULL,"Originally posted by noexcuse What a beautiful ...",False,"2018-09-19 11:11:07",NULL,NULL,"2018-09-19 11:11:07",False,"00002323","50046000007aCxxAAE",318,NULL,NULL
+"Medium","Other",NULL,"Originally posted by harshiidiv Sanjh what an a...",False,"2018-09-19 11:11:08",NULL,NULL,"2018-09-19 11:11:08",False,"00002326","50046000007aCy0AAE",319,NULL,NULL
+"Medium","Other",NULL,"Kzk2 i guess gono b a hit... Coz parth n eeica ...",False,"2018-09-19 11:11:08",NULL,NULL,"2018-09-19 11:11:08",False,"00002325","50046000007aCxzAAE",320,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Keepdreaming good to see p...",False,"2018-09-19 11:11:08",NULL,NULL,"2018-09-19 11:11:08",False,"00002327","50046000007aCy1AAE",321,NULL,NULL
+"Medium","Other",NULL,"Originally posted by arshi_asya I think initial...",False,"2018-09-19 11:11:09",NULL,NULL,"2018-09-19 11:11:09",False,"00002329","50046000007aCy3AAE",322,NULL,NULL
+"Medium","Other",NULL,"I am now watching the show cos if found it so f...",False,"2018-09-19 11:11:09",NULL,NULL,"2018-09-19 11:11:08",False,"00002328","50046000007aCy2AAE",323,NULL,NULL
+"Medium","Other",NULL,"Originally posted by RollingStones I liked how ...",False,"2018-09-19 11:11:16",NULL,NULL,"2018-09-19 11:11:16",False,"00002333","50046000007aCy7AAE",324,NULL,NULL
+"Medium","Other",NULL,"Wow tht was an honest interview. I liked his po...",False,"2018-09-19 11:11:16",NULL,NULL,"2018-09-19 11:11:16",False,"00002334","50046000007aCy8AAE",325,NULL,NULL
+"Medium","Other",NULL,"Originally posted by moumita.madhuk Originally ...",False,"2018-09-19 11:11:17",NULL,NULL,"2018-09-19 11:11:17",False,"00002337","50046000007aCyBAAU",326,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Keepdreaming Originally po...",False,"2018-09-19 11:11:17",NULL,NULL,"2018-09-19 11:11:17",False,"00002336","50046000007aCyAAAU",327,NULL,NULL
+"Medium","Other",NULL,"Originally posted by arshi_asya Every single ma...",False,"2018-09-19 11:11:18",NULL,NULL,"2018-09-19 11:11:18",False,"00002340","50046000007aCyEAAU",328,NULL,NULL
+"Medium","Other",NULL,"Sanjh what an awesome ""Title"" I really liked th...",False,"2018-09-19 11:11:18",NULL,NULL,"2018-09-19 11:11:18",False,"00002339","50046000007aCyDAAU",329,NULL,NULL
+"Medium","Other",NULL,"I love their chemistry, can see this show only ...",False,"2018-09-19 11:11:18",NULL,NULL,"2018-09-19 11:11:17",False,"00002338","50046000007aCyCAAU",330,NULL,NULL
+"Medium","Other",NULL,"I liked the art work and the cinematography of ...",False,"2018-09-19 11:11:19",NULL,NULL,"2018-09-19 11:11:19",False,"00002342","50046000007aCyHAAU",331,NULL,NULL
+"Medium","Other",NULL,"Originally posted by GhayalParinda Originally p...",False,"2018-09-19 11:11:20",NULL,NULL,"2018-09-19 11:11:20",False,"00002344","50046000007aCyJAAU",332,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Snow_Angel Originally post...",False,"2018-09-19 11:11:20",NULL,NULL,"2018-09-19 11:11:20",False,"00002345","50046000007aCyKAAU",333,NULL,NULL
+"Medium","Other",NULL,"That's what most Indian men want it seems?! Or ...",False,"2018-09-19 11:11:21",NULL,NULL,"2018-09-19 11:11:21",False,"00002346","50046000007aCyLAAU",334,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Viswasruti Friends trying ...",False,"2018-09-19 11:12:10",NULL,NULL,"2018-09-19 11:12:10",False,"00002358","50046000007aCyyAAE",335,NULL,NULL
+"Medium","Other",NULL,"Originally posted by mira Originally posted by ...",False,"2018-09-19 11:12:10",NULL,NULL,"2018-09-19 11:12:10",False,"00002356","50046000007aCywAAE",336,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Aruna.negi Main Jaandiyaan...",False,"2018-09-19 11:12:10",NULL,NULL,"2018-09-19 11:12:10",False,"00002357","50046000007aCyxAAE",337,NULL,NULL
+"Medium","Other",NULL,"""Try to be a rainbow in someone's cloud. Maya A...",False,"2018-09-19 11:12:11",NULL,NULL,"2018-09-19 11:12:10",False,"00002359","50046000007aCyzAAE",338,NULL,NULL
+"Medium","Other",NULL,"to live in peace and you are telling there is n...",False,"2018-09-19 11:12:11",NULL,NULL,"2018-09-19 11:12:11",False,"00002360","50046000007aCz5AAE",339,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Houstonmom Originally post...",False,"2018-09-19 11:12:11",NULL,NULL,"2018-09-19 11:12:11",False,"00002361","50046000007aCz6AAE",340,NULL,NULL
+"Medium","Other",NULL,"Hey Doc! Kudos! I admire the way you put forth ...",False,"2018-09-19 11:12:12",NULL,NULL,"2018-09-19 11:12:12",False,"00002365","50046000007aCzAAAU",341,NULL,NULL
+"Medium","Other",NULL,"Chalo em off gonna sleep now Good nighttt take ...",False,"2018-09-19 11:12:12",NULL,NULL,"2018-09-19 11:12:11",False,"00002362","50046000007aCz7AAE",342,NULL,NULL
+"Medium","Other",NULL,"Hi Vira, Nicely written. A detailed conversatio...",False,"2018-09-19 11:12:12",NULL,NULL,"2018-09-19 11:12:12",False,"00002364","50046000007aCz9AAE",343,NULL,NULL
+"Medium","Other",NULL,"@Ahana Good to know Yup IF ki tbeat theek nai h...",False,"2018-09-19 11:12:12",NULL,NULL,"2018-09-19 11:12:12",False,"00002363","50046000007aCz8AAE",344,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Ivone12 Beautiful Landscap...",False,"2018-09-19 11:12:14",NULL,NULL,"2018-09-19 11:12:14",False,"00002367","50046000007aCzGAAU",345,NULL,NULL
+"Medium","Other",NULL,"Originally posted by cygnet9 Good Morning Rainb...",False,"2018-09-19 11:12:14",NULL,NULL,"2018-09-19 11:12:14",False,"00002368","50046000007aCzHAAU",346,NULL,NULL
+"Medium","Other",NULL,"Originally posted by .rad. Originally posted by...",False,"2018-09-19 11:12:14",NULL,NULL,"2018-09-19 11:12:14",False,"00002369","50046000007aCzIAAU",347,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Ecrivain. And its BACK!! #...",False,"2018-09-19 11:12:15",NULL,NULL,"2018-09-19 11:12:15",False,"00002370","50046000007aCzJAAU",348,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Fee_Clochette Originally p...",False,"2018-09-19 11:12:15",NULL,NULL,"2018-09-19 11:12:15",False,"00002371","50046000007aCzKAAU",349,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Krupy Originally posted by...",False,"2018-09-19 11:12:15",NULL,NULL,"2018-09-19 11:12:15",False,"00002372","50046000007aCzLAAU",350,NULL,NULL
+"Medium","Other",NULL,"Originally posted by A.Theepa I think that day ...",False,"2018-09-19 11:12:16",NULL,NULL,"2018-09-19 11:12:15",False,"00002373","50046000007aCzMAAU",351,NULL,NULL
+"Medium","Other",NULL,"very well written dear! Liked this take so much...",False,"2018-09-19 11:12:16",NULL,NULL,"2018-09-19 11:12:16",False,"00002374","50046000007aCzNAAU",352,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Jaitreya23 Originally post...",False,"2018-09-19 11:12:21",NULL,NULL,"2018-09-19 11:12:21",False,"00002378","50046000007aCzSAAU",353,NULL,NULL
+"Medium","Other",NULL,"And its BACK!! #PromoReview: Parth and Erica ar...",False,"2018-09-19 11:12:21",NULL,NULL,"2018-09-19 11:12:21",False,"00002377","50046000007aCzRAAU",354,NULL,NULL
+"Medium","Other",NULL,"Originally posted by .rad. Originally posted by...",False,"2018-09-19 11:12:21",NULL,NULL,"2018-09-19 11:12:20",False,"00002376","50046000007aCzQAAU",355,NULL,NULL
+"Medium","Other",NULL,"Congratulations for new home Harshad'ians",False,"2018-09-19 11:12:22",NULL,NULL,"2018-09-19 11:12:22",False,"00002381","50046000007aCzVAAU",356,NULL,NULL
+"Medium","Other",NULL,"Congratulations finally new AT",False,"2018-09-19 11:12:22",NULL,NULL,"2018-09-19 11:12:22",False,"00002380","50046000007aCzUAAU",357,NULL,NULL
+"Medium","Other",NULL,"UAK getting new viewers... I don't know if I sh...",False,"2018-09-19 11:12:22",NULL,NULL,"2018-09-19 11:12:22",False,"00002382","50046000007aCzWAAU",358,NULL,NULL
+"Medium","Other",NULL,"Finally someone voiced what was going on in my ...",False,"2018-09-19 11:12:22",NULL,NULL,"2018-09-19 11:12:21",False,"00002379","50046000007aCzTAAU",359,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Krupy Originally posted by...",False,"2018-09-19 11:12:23",NULL,NULL,"2018-09-19 11:12:22",False,"00002383","50046000007aCzXAAU",360,NULL,NULL
+"Medium","Other",NULL,"Originally posted by mira Originally posted by ...",False,"2018-09-19 11:12:25",NULL,NULL,"2018-09-19 11:12:25",False,"00002387","50046000007aCzcAAE",361,NULL,NULL
+"Medium","Other",NULL,"Originally posted by nn027 Originally posted by...",False,"2018-09-19 11:12:25",NULL,NULL,"2018-09-19 11:12:25",False,"00002389","50046000007aCzeAAE",362,NULL,NULL
+"Medium","Other",NULL,"Wow Colors has aired 2 teasers of Salim Anarkal...",False,"2018-09-19 11:12:25",NULL,NULL,"2018-09-19 11:12:25",False,"00002388","50046000007aCzdAAE",363,NULL,NULL
+"Medium","Other",NULL,"Hi Doc,Very very well written post. .Couldn't a...",False,"2018-09-19 11:12:26",NULL,NULL,"2018-09-19 11:12:26",False,"00002392","50046000007aCzhAAE",364,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Sutapasima Originally post...",False,"2018-09-19 11:12:26",NULL,NULL,"2018-09-19 11:12:25",False,"00002390","50046000007aCzfAAE",365,NULL,NULL
+"Medium","Other",NULL,"Originally posted by anesku Wow Colors has aire...",False,"2018-09-19 11:12:26",NULL,NULL,"2018-09-19 11:12:26",False,"00002391","50046000007aCzgAAE",366,NULL,NULL
+"Medium","Other",NULL,"I haven't seen Naitik-Akshara, started only wit...",False,"2018-09-19 11:12:27",NULL,NULL,"2018-09-19 11:12:27",False,"00002393","50046000007aCzjAAE",367,NULL,NULL
+"Medium","Other",NULL,"Really? When did she mention this thing? I want...",False,"2018-09-19 11:12:27",NULL,NULL,"2018-09-19 11:12:27",False,"00002394","50046000007aCzkAAE",368,NULL,NULL
+"Medium","Other",NULL,"Chapter 17 Khushiji is your wife... you both go...",False,"2018-09-19 11:12:28",NULL,NULL,"2018-09-19 11:12:28",False,"00002398","50046000007aCzoAAE",369,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Ecrivain. Oh my, Mira No o...",False,"2018-09-19 11:12:28",NULL,NULL,"2018-09-19 11:12:28",False,"00002397","50046000007aCznAAE",370,NULL,NULL
+"Medium","Other",NULL,"Friends trying to translate our Nado's words.--...",False,"2018-09-19 11:12:28",NULL,NULL,"2018-09-19 11:12:28",False,"00002396","50046000007aCzmAAE",371,NULL,NULL
+"Medium","Other",NULL,"Can you guys please write & request to the Chan...",False,"2018-09-19 11:12:29",NULL,NULL,"2018-09-19 11:12:29",False,"00002399","50046000007aCzpAAE",372,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Maryam2 hey divu how is ur...",False,"2018-09-19 11:12:29",NULL,NULL,"2018-09-19 11:12:29",False,"00002401","50046000007aCzrAAE",373,NULL,NULL
+"Medium","Other",NULL,"Originally posted by sarahgul Originally posted...",False,"2018-09-19 11:13:04",NULL,NULL,"2018-09-19 11:13:04",False,"00002415","50046000007aD0YAAU",374,NULL,NULL
+"Medium","Other",NULL,"Originally posted by intruderfast Originally po...",False,"2018-09-19 11:13:04",NULL,NULL,"2018-09-19 11:13:04",False,"00002416","50046000007aD0ZAAU",375,NULL,NULL
+"Medium","Other",NULL,"Originally posted by naam11 When is this silky ...",False,"2018-09-19 11:13:04",NULL,NULL,"2018-09-19 11:13:03",False,"00002414","50046000007aD0XAAU",376,NULL,NULL
+"Medium","Other",NULL,"Me not updating my ff because now when the show...",False,"2018-09-19 11:13:05",NULL,NULL,"2018-09-19 11:13:05",False,"00002419","50046000007aD0cAAE",377,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Deb07 Loved Ishika and her...",False,"2018-09-19 11:13:05",NULL,NULL,"2018-09-19 11:13:05",False,"00002418","50046000007aD0bAAE",378,NULL,NULL
+"Medium","Other",NULL,"Bela and Vish are really good friends so it's t...",False,"2018-09-19 11:13:05",NULL,NULL,"2018-09-19 11:13:04",False,"00002417","50046000007aD0aAAE",379,NULL,NULL
+"Medium","Other",NULL,"private image upload Good Morning Girls ...have...",False,"2018-09-19 11:13:06",NULL,NULL,"2018-09-19 11:13:05",False,"00002420","50046000007aD0dAAE",380,NULL,NULL
+"Medium","Other",NULL,"Not even a bit. But he's a damned good actor. I...",False,"2018-09-19 11:13:06",NULL,NULL,"2018-09-19 11:13:06",False,"00002422","50046000007aD0fAAE",381,NULL,NULL
+"Medium","Other",NULL,"Erica looks good, but her dialogue delivery is ...",False,"2018-09-19 11:13:06",NULL,NULL,"2018-09-19 11:13:06",False,"00002421","50046000007aD0eAAE",382,NULL,NULL
+"Medium","Other",NULL,"Enjoyed so much. The guys walked away with the ...",False,"2018-09-19 11:13:06",NULL,NULL,"2018-09-19 11:13:06",False,"00002423","50046000007aD0gAAE",383,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ..AjabdeBaisa.. Originally...",False,"2018-09-19 11:13:07",NULL,NULL,"2018-09-19 11:13:07",False,"00002427","50046000007aD0kAAE",384,NULL,NULL
+"Medium","Other",NULL,"Parth looking like a misfit tbh. Erica looks go...",False,"2018-09-19 11:13:07",NULL,NULL,"2018-09-19 11:13:06",False,"00002424","50046000007aD0hAAE",385,NULL,NULL
+"Medium","Other",NULL,"I don't like the character of Wahaj and his mot...",False,"2018-09-19 11:13:07",NULL,NULL,"2018-09-19 11:13:07",False,"00002425","50046000007aD0iAAE",386,NULL,NULL
+"Medium","Other",NULL,"Originally posted by inlieu Originally posted b...",False,"2018-09-19 11:13:07",NULL,NULL,"2018-09-19 11:13:07",False,"00002426","50046000007aD0jAAE",387,NULL,NULL
+"Medium","Other",NULL,"Originally posted by monikameghan It is hard fo...",False,"2018-09-19 11:13:08",NULL,NULL,"2018-09-19 11:13:08",False,"00002430","50046000007aD0nAAE",388,NULL,NULL
+"Medium","Other",NULL,"Originally posted by harshiidiv Originally post...",False,"2018-09-19 11:13:08",NULL,NULL,"2018-09-19 11:13:08",False,"00002429","50046000007aD0mAAE",389,NULL,NULL
+"Medium","Other",NULL,"There you explained every reason of what's wron...",False,"2018-09-19 11:13:08",NULL,NULL,"2018-09-19 11:13:07",False,"00002428","50046000007aD0lAAE",390,NULL,NULL
+"Medium","Other",NULL,"That's a good point May. Everyone knows that La...",False,"2018-09-19 11:13:09",NULL,NULL,"2018-09-19 11:13:09",False,"00002431","50046000007aD0rAAE",391,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -JaprilForever- Originally...",False,"2018-09-19 11:13:10",NULL,NULL,"2018-09-19 11:13:10",False,"00002434","50046000007aD0uAAE",392,NULL,NULL
+"Medium","Other",NULL,"actors are not required to be good looking and ...",False,"2018-09-19 11:13:10",NULL,NULL,"2018-09-19 11:13:10",False,"00002435","50046000007aD0vAAE",393,NULL,NULL
+"Medium","Other",NULL,"Originally posted by YourNightmare Originally p...",False,"2018-09-19 11:13:10",NULL,NULL,"2018-09-19 11:13:10",False,"00002433","50046000007aD0tAAE",394,NULL,NULL
+"Medium","Other",NULL,"Pan changli disat hoti radhika tya dress madhe,...",False,"2018-09-19 11:13:11",NULL,NULL,"2018-09-19 11:13:11",False,"00002439","50046000007aD0zAAE",395,NULL,NULL
+"Medium","Other",NULL,"Didn't like Isha keskar. Rasika was better look...",False,"2018-09-19 11:13:11",NULL,NULL,"2018-09-19 11:13:11",False,"00002438","50046000007aD0yAAE",396,NULL,NULL
+"Medium","Other",NULL,"Many happy returns of the day Teju.Wishing you ...",False,"2018-09-19 11:13:11",NULL,NULL,"2018-09-19 11:13:11",False,"00002437","50046000007aD0xAAE",397,NULL,NULL
+"Medium","Other",NULL,"Originally posted by gilmores Rajkumar Rao Wais...",False,"2018-09-19 11:13:11",NULL,NULL,"2018-09-19 11:13:10",False,"00002436","50046000007aD0wAAE",398,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Vaishnavi_ Inlieu, I loved...",False,"2018-09-19 11:13:12",NULL,NULL,"2018-09-19 11:13:12",False,"00002441","50046000007aD11AAE",399,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Mamta-Maaneet Originally p...",False,"2018-09-19 11:13:12",NULL,NULL,"2018-09-19 11:13:12",False,"00002442","50046000007aD12AAE",400,NULL,NULL
+"Medium","Other",NULL,"aplya balh forum var story pan lihili ahe pan t...",False,"2018-09-19 11:13:12",NULL,NULL,"2018-09-19 11:13:12",False,"00002440","50046000007aD10AAE",401,NULL,NULL
+"Medium","Other",NULL,"It is hard for me to watch it day by day even i...",False,"2018-09-19 11:13:13",NULL,NULL,"2018-09-19 11:13:12",False,"00002443","50046000007aD13AAE",402,NULL,NULL
+"Medium","Other",NULL,"If you watch this video on YouTube and comment,...",False,"2018-09-19 11:13:14",NULL,NULL,"2018-09-19 11:13:14",False,"00002444","50046000007aD16AAE",403,NULL,NULL
+"Medium","Other",NULL,"Loved Ishika and her parents scene. She has a b...",False,"2018-09-19 11:13:15",NULL,NULL,"2018-09-19 11:13:15",False,"00002447","50046000007aD19AAE",404,NULL,NULL
+"Medium","Other",NULL,"Originally posted by VARUNI2014 Originally post...",False,"2018-09-19 11:13:15",NULL,NULL,"2018-09-19 11:13:15",False,"00002446","50046000007aD18AAE",405,NULL,NULL
+"Medium","Other",NULL,"Actually both the Naagins are at fault here.Vis...",False,"2018-09-19 11:13:15",NULL,NULL,"2018-09-19 11:13:14",False,"00002445","50046000007aD17AAE",406,NULL,NULL
+"Medium","Other",NULL,"Happy Birthday Ashish May god bless u with lots...",False,"2018-09-19 11:13:15",NULL,NULL,"2018-09-19 11:13:15",False,"00002448","50046000007aD1AAAU",407,NULL,NULL
+"Medium","Other",NULL,"Thanks for the link It is a sad day for all the...",False,"2018-09-19 11:13:16",NULL,NULL,"2018-09-19 11:13:16",False,"00002450","50046000007aD1CAAU",408,NULL,NULL
+"Medium","Other",NULL,"The promo is nicely shot. Though too much of th...",False,"2018-09-19 11:13:16",NULL,NULL,"2018-09-19 11:13:16",False,"00002452","50046000007aD1EAAU",409,NULL,NULL
+"Medium","Other",NULL,"Originally posted by YourNightmare Originally p...",False,"2018-09-19 11:13:16",NULL,NULL,"2018-09-19 11:13:15",False,"00002449","50046000007aD1BAAU",410,NULL,NULL
+"Medium","Other",NULL,"I used to find Katrina and Deepika to be beauti...",False,"2018-09-19 11:13:16",NULL,NULL,"2018-09-19 11:13:16",False,"00002451","50046000007aD1DAAU",411,NULL,NULL
+"Medium","Other",NULL,"Originally posted by malikakas Originally poste...",False,"2018-09-19 11:13:17",NULL,NULL,"2018-09-19 11:13:17",False,"00002453","50046000007aD1FAAU",412,NULL,NULL
+"Medium","Other",NULL,"Adieu to the cast and crew of YPNTKH... i'm goi...",False,"2018-09-19 11:13:17",NULL,NULL,"2018-09-19 11:13:17",False,"00002454","50046000007aD1GAAU",413,NULL,NULL
+"Medium","Other",NULL,"Originally posted by monikameghan It is hard fo...",False,"2018-09-19 11:13:17",NULL,NULL,"2018-09-19 11:13:17",False,"00002456","50046000007aD1IAAU",414,NULL,NULL
+"Medium","Other",NULL,"Nandani character is so well written.. she's no...",False,"2018-09-19 11:13:17",NULL,NULL,"2018-09-19 11:13:17",False,"00002455","50046000007aD1HAAU",415,NULL,NULL
+"Medium","Other",NULL,"I decided to praise them openly .Their chemistr...",False,"2018-09-19 11:13:18",NULL,NULL,"2018-09-19 11:13:17",False,"00002457","50046000007aD1JAAU",416,NULL,NULL
+"Medium","Other",NULL,"@ Diya : Thank you, dearo! @ Sadhna : Thank you...",False,"2018-09-19 11:13:18",NULL,NULL,"2018-09-19 11:13:18",False,"00002458","50046000007aD1LAAU",417,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Thug-Leader Originally pos...",False,"2018-09-19 11:13:19",NULL,NULL,"2018-09-19 11:13:19",False,"00002462","50046000007aD1PAAU",418,NULL,NULL
+"Medium","Other",NULL,"he's not conventionally good looking..but he is...",False,"2018-09-19 11:13:19",NULL,NULL,"2018-09-19 11:13:19",False,"00002461","50046000007aD1OAAU",419,NULL,NULL
+"Medium","Other",NULL,"Difference between Bela and Vish-Vish is impuls...",False,"2018-09-19 11:13:19",NULL,NULL,"2018-09-19 11:13:18",False,"00002459","50046000007aD1MAAU",420,NULL,NULL
+"Medium","Other",NULL,"^^Lmfaooo! Exactly this!! He's extremely good l...",False,"2018-09-19 11:13:19",NULL,NULL,"2018-09-19 11:13:19",False,"00002460","50046000007aD1NAAU",421,NULL,NULL
+"Medium","Other",NULL,"Originally posted by PoojaAmlaa FYI these are a...",False,"2018-09-19 11:13:20",NULL,NULL,"2018-09-19 11:13:20",False,"00002466","50046000007aD1TAAU",422,NULL,NULL
+"Medium","Other",NULL,"Originally posted by shruti3rdsingh okay I'll b...",False,"2018-09-19 11:13:20",NULL,NULL,"2018-09-19 11:13:20",False,"00002464","50046000007aD1RAAU",423,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Vicariously [ I am officia...",False,"2018-09-19 11:13:20",NULL,NULL,"2018-09-19 11:13:19",False,"00002463","50046000007aD1QAAU",424,NULL,NULL
+"Medium","Other",NULL,"Originally posted by war_is_peace Originally po...",False,"2018-09-19 11:13:20",NULL,NULL,"2018-09-19 11:13:20",False,"00002465","50046000007aD1SAAU",425,NULL,NULL
+"Medium","Other",NULL,". His ex didn't wanted to move to Toronto so th...",False,"2018-09-19 11:13:21",NULL,NULL,"2018-09-19 11:13:20",False,"00002467","50046000007aD1UAAU",426,NULL,NULL
+"Medium","Other",NULL,"Originally posted by VARUNI2014 Bela saying anu...",False,"2018-09-19 11:13:21",NULL,NULL,"2018-09-19 11:13:21",False,"00002468","50046000007aD1VAAU",427,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ssuuvvii I would love if r...",False,"2018-09-19 11:13:22",NULL,NULL,"2018-09-19 11:13:21",False,"00002469","50046000007aD1WAAU",428,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Deb07 Ishika is positive f...",False,"2018-09-19 11:13:22",NULL,NULL,"2018-09-19 11:13:22",False,"00002470","50046000007aD1XAAU",429,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Houstonmom Originally post...",False,"2018-09-19 11:13:22",NULL,NULL,"2018-09-19 11:13:22",False,"00002472","50046000007aD1ZAAU",430,NULL,NULL
+"Medium","Other",NULL,"Wish you a very Happy Birtday Ashish..May All u...",False,"2018-09-19 11:13:22",NULL,NULL,"2018-09-19 11:13:22",False,"00002471","50046000007aD1YAAU",431,NULL,NULL
+"Medium","Other",NULL,"LOOLL the topic of this post brings back great ...",False,"2018-09-19 11:13:23",NULL,NULL,"2018-09-19 11:13:23",False,"00002474","50046000007aD1bAAE",432,NULL,NULL
+"Medium","Other",NULL,"Arjun Kapoor looked good in Ishaqzaade - when h...",False,"2018-09-19 11:13:23",NULL,NULL,"2018-09-19 11:13:23",False,"00002475","50046000007aD1cAAE",433,NULL,NULL
+"Medium","Other",NULL,"Originally posted by --VS-Cool-- Originally pos...",False,"2018-09-19 11:13:23",NULL,NULL,"2018-09-19 11:13:22",False,"00002473","50046000007aD1aAAE",434,NULL,NULL
+"Medium","Other",NULL,"Originally posted by xAaliya I think this topic...",False,"2018-09-19 11:13:24",NULL,NULL,"2018-09-19 11:13:24",False,"00002478","50046000007aD1fAAE",435,NULL,NULL
+"Medium","Other",NULL,"they look good together",False,"2018-09-19 11:13:24",NULL,NULL,"2018-09-19 11:13:24",False,"00002476","50046000007aD1dAAE",436,NULL,NULL
+"Medium","Other",NULL,"I swear mera dupatta aaj tak aise udd ke hawa m...",False,"2018-09-19 11:13:24",NULL,NULL,"2018-09-19 11:13:24",False,"00002477","50046000007aD1eAAE",437,NULL,NULL
+"Medium","Other",NULL,"can live her life and find someone new and love...",False,"2018-09-19 11:13:25",NULL,NULL,"2018-09-19 11:13:25",False,"00002482","50046000007aD1jAAE",438,NULL,NULL
+"Medium","Other",NULL,"You are right in your views Nandini looked very...",False,"2018-09-19 11:13:25",NULL,NULL,"2018-09-19 11:13:25",False,"00002481","50046000007aD1iAAE",439,NULL,NULL
+"Medium","Other",NULL,"Originally posted by war_is_peace Originally po...",False,"2018-09-19 11:13:25",NULL,NULL,"2018-09-19 11:13:25",False,"00002480","50046000007aD1hAAE",440,NULL,NULL
+"Medium","Other",NULL,"Episode 26: 1.I think Junaid did most of his fi...",False,"2018-09-19 11:13:25",NULL,NULL,"2018-09-19 11:13:25",False,"00002479","50046000007aD1gAAE",441,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -Lehar- I decided to prais...",False,"2018-09-19 11:13:26",NULL,NULL,"2018-09-19 11:13:26",False,"00002483","50046000007aD1kAAE",442,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Rosh4rose Originally poste...",False,"2018-09-19 11:14:00",NULL,NULL,"2018-09-19 11:14:00",False,"00002493","50046000007aD2EAAU",443,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Arnav90 Originally posted ...",False,"2018-09-19 11:14:00",NULL,NULL,"2018-09-19 11:14:00",False,"00002494","50046000007aD2FAAU",444,NULL,NULL
+"Medium","Other",NULL,"Originally posted by WaveTeal Hmmm... So being ...",False,"2018-09-19 11:14:01",NULL,NULL,"2018-09-19 11:14:01",False,"00002495","50046000007aD2GAAU",445,NULL,NULL
+"Medium","Other",NULL,"Originally posted by arshi_asya Originally post...",False,"2018-09-19 11:14:01",NULL,NULL,"2018-09-19 11:14:01",False,"00002496","50046000007aD2HAAU",446,NULL,NULL
+"Medium","Other",NULL,"Hmmm... So being high on hormones justifies one...",False,"2018-09-19 11:14:01",NULL,NULL,"2018-09-19 11:14:01",False,"00002497","50046000007aD2IAAU",447,NULL,NULL
+"Medium","Other",NULL,"Originally posted by ExpectoPatronu Originally ...",False,"2018-09-19 11:14:02",NULL,NULL,"2018-09-19 11:14:01",False,"00002498","50046000007aD2JAAU",448,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Mamta-Maaneet Some think h...",False,"2018-09-19 11:14:02",NULL,NULL,"2018-09-19 11:14:02",False,"00002499","50046000007aD2KAAU",449,NULL,NULL
+"Medium","Other",NULL,"Originally posted by WaveTeal Hmmm... So being ...",False,"2018-09-19 11:14:02",NULL,NULL,"2018-09-19 11:14:02",False,"00002500","50046000007aD2LAAU",450,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Arnav90 Originally posted ...",False,"2018-09-19 11:14:03",NULL,NULL,"2018-09-19 11:14:03",False,"00002502","50046000007aD2PAAU",451,NULL,NULL
+"Medium","Other",NULL,"Originally posted by WaveTeal Thank you for thi...",False,"2018-09-19 11:14:03",NULL,NULL,"2018-09-19 11:14:03",False,"00002503","50046000007aD2QAAU",452,NULL,NULL
+"Medium","Other",NULL,"Originally posted by DracarysTrio I dislike Ros...",False,"2018-09-19 11:14:03",NULL,NULL,"2018-09-19 11:14:03",False,"00002504","50046000007aD2RAAU",453,NULL,NULL
+"Medium","Other",NULL,"Originally posted by _Darling_ That's true. Mos...",False,"2018-09-19 11:14:03",NULL,NULL,"2018-09-19 11:14:03",False,"00002501","50046000007aD2OAAU",454,NULL,NULL
+"Medium","Other",NULL,"Originally posted by amortentia15 Mauli had a c...",False,"2018-09-19 11:14:05",NULL,NULL,"2018-09-19 11:14:05",False,"00002506","50046000007aD2TAAU",455,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Jiggy7 Exactly when Kunal ...",False,"2018-09-19 11:14:05",NULL,NULL,"2018-09-19 11:14:05",False,"00002507","50046000007aD2UAAU",456,NULL,NULL
+"Medium","Other",NULL,"Mauli had a critical delivery to attend to...it...",False,"2018-09-19 11:14:06",NULL,NULL,"2018-09-19 11:14:06",False,"00002510","50046000007aD2XAAU",457,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -Lehar- Apne favourite cha...",False,"2018-09-19 11:14:06",NULL,NULL,"2018-09-19 11:14:05",False,"00002508","50046000007aD2VAAU",458,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -Lehar- Originally posted ...",False,"2018-09-19 11:14:06",NULL,NULL,"2018-09-19 11:14:06",False,"00002509","50046000007aD2WAAU",459,NULL,NULL
+"Medium","Other",NULL,"character development & story forward. Is that ...",False,"2018-09-19 11:14:07",NULL,NULL,"2018-09-19 11:14:07",False,"00002512","50046000007aD2dAAE",460,NULL,NULL
+"Medium","Other",NULL,"Kunal left his job, the whole expense of family...",False,"2018-09-19 11:14:08",NULL,NULL,"2018-09-19 11:14:08",False,"00002513","50046000007aD2eAAE",461,NULL,NULL
+"Medium","Other",NULL,"Originally posted by arshi_asya Originally post...",False,"2018-09-19 11:14:08",NULL,NULL,"2018-09-19 11:14:08",False,"00002514","50046000007aD2fAAE",462,NULL,NULL
+"Medium","Other",NULL,"I dislike Ross to the core but David was the mo...",False,"2018-09-19 11:14:11",NULL,NULL,"2018-09-19 11:14:11",False,"00002520","50046000007aD2pAAE",463,NULL,NULL
+"Medium","Other",NULL,"I have never been in relationship since I am ju...",False,"2018-09-19 11:14:11",NULL,NULL,"2018-09-19 11:14:10",False,"00002519","50046000007aD2oAAE",464,NULL,NULL
+"Medium","Other",NULL,"feel so good to read your post",False,"2018-09-19 11:14:11",NULL,NULL,"2018-09-19 11:14:11",False,"00002521","50046000007aD2qAAE",465,NULL,NULL
+"Medium","Other",NULL,"been constantly expanding the types of things c...",False,"2018-09-19 11:15:36",NULL,NULL,"2018-09-19 11:15:36",False,"00002532","50046000007aD3dAAE",466,NULL,NULL
+"Medium","Other",NULL,"MUMBAI: At the 19th annual general meeting(AGM)...",False,"2018-09-19 11:15:44",NULL,NULL,"2018-09-19 11:15:44",False,"00002541","50046000007aD3oAAE",467,NULL,NULL
+"Medium","Other",NULL,"Shreya, We, the Crazy Creatives, wish you a ver...",False,"2018-09-19 11:17:59",NULL,NULL,"2018-09-19 11:17:59",False,"00002579","50046000007aD5sAAE",468,NULL,NULL
+"Medium","Other",NULL,"irritation to shock. Stood in front of her with...",False,"2018-09-19 11:18:03",NULL,NULL,"2018-09-19 11:18:03",False,"00002586","50046000007aD66AAE",469,NULL,NULL
+"Medium","Other",NULL,"coz shes not in her senses...suwarna was like u...",False,"2018-09-19 11:18:04",NULL,NULL,"2018-09-19 11:18:04",False,"00002589","50046000007aD69AAE",470,NULL,NULL
+"Medium","Other",NULL,"they are not letting kartik live in peace karti...",False,"2018-09-19 11:18:04",NULL,NULL,"2018-09-19 11:18:04",False,"00002588","50046000007aD68AAE",471,NULL,NULL
+"Medium","Other",NULL,"because they've suddenly realised that they can...",False,"2018-09-19 11:20:01",NULL,NULL,"2018-09-19 11:20:01",False,"00002591","50046000007aD6MAAU",472,NULL,NULL
+"Medium","Other",NULL,"Aaj ka episode was good but the upcoming ones t...",False,"2018-09-19 11:20:04",NULL,NULL,"2018-09-19 11:20:04",False,"00002593","50046000007aD6QAAU",473,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Anam... Mrunal is on a rol...",False,"2018-09-19 11:20:05",NULL,NULL,"2018-09-19 11:20:04",False,"00002594","50046000007aD6RAAU",474,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Mauli09 Aaj ka episode was...",False,"2018-09-19 11:20:25",NULL,NULL,"2018-09-19 11:20:25",False,"00002602","50046000007aD6zAAE",475,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -indulekha- Nice start. Wh...",False,"2018-09-19 11:21:30",NULL,NULL,"2018-09-19 11:21:29",False,"00002610","50046000007aD7TAAU",476,NULL,NULL
+"Medium","Other",NULL,"Back home after a super holiday ... trying to c...",False,"2018-09-19 11:21:30",NULL,NULL,"2018-09-19 11:21:30",False,"00002611","50046000007aD7UAAU",477,NULL,NULL
+"Medium","Other",NULL,"Originally posted by _suchi_ Originally posted ...",False,"2018-09-19 11:21:30",NULL,NULL,"2018-09-19 11:21:30",False,"00002612","50046000007aD7VAAU",478,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Sayali_23 Originally poste...",False,"2018-09-19 11:21:33",NULL,NULL,"2018-09-19 11:21:33",False,"00002617","50046000007aD7iAAE",479,NULL,NULL
+"Medium","Other",NULL,"shows don't clash with Amitabh's KBC or Salman'...",False,"2018-09-19 11:21:34",NULL,NULL,"2018-09-19 11:21:33",False,"00002618","50046000007aD7jAAE",480,NULL,NULL
+"Medium","Other",NULL,"Part-2 cham cham.. Zulfon se bandh liya dil See...",False,"2018-09-19 11:21:34",NULL,NULL,"2018-09-19 11:21:34",False,"00002620","50046000007aD7lAAE",481,NULL,NULL
+"Medium","Other",NULL,"is they will now drag the story unnecessarily. ...",False,"2018-09-19 11:21:36",NULL,NULL,"2018-09-19 11:21:36",False,"00002624","50046000007aD7pAAE",482,NULL,NULL
+"Medium","Other",NULL,"Originally posted by babur1527 Originally poste...",False,"2018-09-19 11:21:38",NULL,NULL,"2018-09-19 11:21:37",False,"00002626","50046000007aD7sAAE",483,NULL,NULL
+"Medium","Other",NULL,"This is The Stupidest Decision By the makers Th...",False,"2018-09-19 11:21:40",NULL,NULL,"2018-09-19 11:21:40",False,"00002632","50046000007aD7yAAE",484,NULL,NULL
+"Medium","Other",NULL,"Originally posted by --MaFia-- Originally poste...",False,"2018-09-19 11:21:44",NULL,NULL,"2018-09-19 11:21:44",False,"00002638","50046000007aD89AAE",485,NULL,NULL
+"Medium","Other",NULL,"Originally posted by naadanmasakalli Originally...",False,"2018-09-19 11:21:44",NULL,NULL,"2018-09-19 11:21:44",False,"00002637","50046000007aD88AAE",486,NULL,NULL
+"Medium","Other",NULL,"This is really sad! He must be really upset wit...",False,"2018-09-19 11:21:45",NULL,NULL,"2018-09-19 11:21:45",False,"00002640","50046000007aD8BAAU",487,NULL,NULL
+"Medium","Other",NULL,"^^ I'm already done with it! It's actually a ve...",False,"2018-09-19 11:23:04",NULL,NULL,"2018-09-19 11:23:04",False,"00002657","50046000007aD9OAAU",488,NULL,NULL
+"Medium","Other",NULL,"Originally posted by --Risha-- ^^ I'm already d...",False,"2018-09-19 11:23:05",NULL,NULL,"2018-09-19 11:23:05",False,"00002658","50046000007aD9PAAU",489,NULL,NULL
+"Medium","Other",NULL,"Originally posted by Cherryfairy Originally pos...",False,"2018-09-19 11:23:07",NULL,NULL,"2018-09-19 11:23:06",False,"00002662","50046000007aD9TAAU",490,NULL,NULL
+"Medium","Other",NULL,"her!!!?? I mean even after this dhamaka you are...",False,"2018-09-19 11:23:07",NULL,NULL,"2018-09-19 11:23:07",False,"00002663","50046000007aD9UAAU",491,NULL,NULL
+"Medium","Other",NULL,"of logic is that? How dare this man punch Adi! ...",False,"2018-09-19 11:23:15",NULL,NULL,"2018-09-19 11:23:15",False,"00002679","50046000007aD9rAAE",492,NULL,NULL
+"Medium","Other",NULL,"Originally posted by -Tulips- They are turning ...",False,"2018-09-19 11:23:21",NULL,NULL,"2018-09-19 11:23:21",False,"00002693","50046000007aDAGAA2",493,NULL,NULL
+"Medium","Other",NULL,"punch Adi! And Adi for GODSAKE why don't you st...",False,"2018-09-19 11:23:22",NULL,NULL,"2018-09-19 11:23:21",False,"00002694","50046000007aDAHAA2",494,NULL,NULL
+"Medium","Other",NULL,"Originally posted by BeyondHorizon Originally p...",False,"2018-09-19 11:23:26",NULL,NULL,"2018-09-19 11:23:26",False,"00002706","50046000007aDAYAA2",495,NULL,NULL
+"Medium","Other",NULL,"don't you stop running after her!!!?? I mean ev...",False,"2018-09-19 11:23:31",NULL,NULL,"2018-09-19 11:23:31",False,"00002716","50046000007aDAlAAM",496,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV what is this. Mazak krte ho. Disappoint...",False,"2018-09-19 16:59:01",NULL,NULL,"2018-09-19 16:59:00",False,"00002784","50046000007aFqjAAE",497,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan sir trying from yesterfay ...",False,"2018-09-19 16:59:01",NULL,NULL,"2018-09-19 16:59:01",False,"00002785","50046000007aFqkAAE",498,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Hi sony live app not working for KBC p...",False,"2018-09-19 16:59:02",NULL,NULL,"2018-09-19 16:59:01",False,"00002786","50046000007aFqlAAE",499,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony Sony Liv app is not working its crashi...",False,"2018-09-19 16:59:06",NULL,NULL,"2018-09-19 16:59:06",False,"00002796","50046000007aFqvAAE",500,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  Dear Sony team your sonyliv app not wo...",False,"2018-09-19 16:59:06",NULL,NULL,"2018-09-19 16:59:06",False,"00002795","50046000007aFquAAE",501,NULL,NULL
+"Medium","Twitter",NULL,"Kbc Play Along not working /Opening Problem Sol...",False,"2018-09-19 16:59:08",NULL,NULL,"2018-09-19 16:59:08",False,"00002798","50046000007aFr1AAE",502,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @SonyLIV @anandmahindra app not wor...",False,"2018-09-19 16:59:08",NULL,NULL,"2018-09-19 16:59:07",False,"00002797","50046000007aFr0AAE",503,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony  sony liv app is not working during th...",False,"2018-09-19 16:59:09",NULL,NULL,"2018-09-19 16:59:09",False,"00002801","50046000007aFr4AAE",504,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan GUD EVENING SIRJI i have to request...",False,"2018-09-19 16:59:09",NULL,NULL,"2018-09-19 16:59:08",False,"00002799","50046000007aFr2AAE",505,NULL,NULL
+"Medium","Twitter",NULL,"Sonyliv app is not working today again  @SonyTV...",False,"2018-09-19 16:59:09",NULL,NULL,"2018-09-19 16:59:09",False,"00002800","50046000007aFr3AAE",506,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Sony Liv app not working for las 40 mi...",False,"2018-09-19 16:59:10",NULL,NULL,"2018-09-19 16:59:10",False,"00002804","50046000007aFr7AAE",507,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  App not working.  Error : keep loadin...",False,"2018-09-19 16:59:10",NULL,NULL,"2018-09-19 16:59:09",False,"00002802","50046000007aFr5AAE",508,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV I am unable to play KBC play along... O...",False,"2018-09-19 16:59:10",NULL,NULL,"2018-09-19 16:59:10",False,"00002803","50046000007aFr6AAE",509,NULL,NULL
+"Medium","Twitter",NULL,"@IndiaPOCO Wireless display not working properl...",False,"2018-09-19 16:59:11",NULL,NULL,"2018-09-19 16:59:11",False,"00002806","50046000007aFr9AAE",510,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SonyTV @SrBachchan @KBCsony not able ...",False,"2018-09-19 16:59:11",NULL,NULL,"2018-09-19 16:59:11",False,"00002805","50046000007aFr8AAE",511,NULL,NULL
+"Medium","Twitter",NULL,"Once again @SonyTV and @SonyLIV has disappointe...",False,"2018-09-19 16:59:12",NULL,NULL,"2018-09-19 16:59:12",False,"00002809","50046000007aFrCAAU",512,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV please fix your app ! Tried to play #k...",False,"2018-09-19 16:59:12",NULL,NULL,"2018-09-19 16:59:11",False,"00002807","50046000007aFrAAAU",513,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  what the hell ,still the app is not w...",False,"2018-09-19 16:59:12",NULL,NULL,"2018-09-19 16:59:12",False,"00002808","50046000007aFrBAAU",514,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir i am playing kbc on Sony live b...",False,"2018-09-19 16:59:13",NULL,NULL,"2018-09-19 16:59:13",False,"00002811","50046000007aFrEAAU",515,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV really disappointed....your app crashe...",False,"2018-09-19 16:59:13",NULL,NULL,"2018-09-19 16:59:12",False,"00002810","50046000007aFrDAAU",516,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV ur app is not working!! Pathetic...😑",False,"2018-09-19 16:59:14",NULL,NULL,"2018-09-19 16:59:14",False,"00002812","50046000007aFrFAAU",517,NULL,NULL
+"Medium","Twitter",NULL,"@Airtel_Presence @airtelindia my SIM got corrup...",False,"2018-09-19 16:59:15",NULL,NULL,"2018-09-19 16:59:15",False,"00002813","50046000007aFrGAAU",518,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV KBC play along not working. The app ke...",False,"2018-09-19 16:59:15",NULL,NULL,"2018-09-19 16:59:15",False,"00002814","50046000007aFrHAAU",519,NULL,NULL
+"Medium","Twitter",NULL,"What’s the use of having premium Sony LIV app @...",False,"2018-09-19 16:59:16",NULL,NULL,"2018-09-19 16:59:16",False,"00002816","50046000007aFrJAAU",520,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV Again facing the problem today...",False,"2018-09-19 16:59:16",NULL,NULL,"2018-09-19 16:59:15",False,"00002815","50046000007aFrIAAU",521,NULL,NULL
+"Medium","Twitter",NULL,"how can I play Kbc game Sony live app problem p...",False,"2018-09-19 16:59:17",NULL,NULL,"2018-09-19 16:59:17",False,"00002817","50046000007aFrKAAU",522,NULL,NULL
+"Medium","Twitter",NULL,"Dear @SrBachchan @SonyTV #sonyliv app is not wo...",False,"2018-09-19 16:59:17",NULL,NULL,"2018-09-19 16:59:17",False,"00002818","50046000007aFrLAAU",523,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony To hell with Sony LIV. KBC play along ...",False,"2018-09-19 16:59:18",NULL,NULL,"2018-09-19 16:59:18",False,"00002820","50046000007aFrNAAU",524,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV the app is not working at the time of ...",False,"2018-09-19 16:59:18",NULL,NULL,"2018-09-19 16:59:17",False,"00002819","50046000007aFrMAAU",525,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sir sony live app not working durin...",False,"2018-09-19 16:59:19",NULL,NULL,"2018-09-19 16:59:18",False,"00002821","50046000007aFrOAAU",526,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV very bad that sony liv app is not work...",False,"2018-09-19 16:59:19",NULL,NULL,"2018-09-19 16:59:19",False,"00002822","50046000007aFrPAAU",527,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Yesterday night at 9 I'm ready to play...",False,"2018-09-19 16:59:19",NULL,NULL,"2018-09-19 16:59:19",False,"00002823","50046000007aFrQAAU",528,NULL,NULL
+"Medium","Twitter",NULL,"Sir what you are telling in KBC to play Sony Li...",False,"2018-09-19 16:59:20",NULL,NULL,"2018-09-19 16:59:20",False,"00002825","50046000007aFrSAAU",529,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir what you are telling in KBC to ...",False,"2018-09-19 16:59:20",NULL,NULL,"2018-09-19 16:59:20",False,"00002826","50046000007aFrTAAU",530,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV guys pls ramp up your server, your app ...",False,"2018-09-19 16:59:20",NULL,NULL,"2018-09-19 16:59:19",False,"00002824","50046000007aFrRAAU",531,NULL,NULL
+"Medium","Twitter",NULL,"App not working @SonyTV",False,"2018-09-19 16:59:21",NULL,NULL,"2018-09-19 16:59:21",False,"00002829","50046000007aFrbAAE",532,NULL,NULL
+"Medium","Twitter",NULL,"Worst app again not working @SonyTV @SonyLIV",False,"2018-09-19 16:59:21",NULL,NULL,"2018-09-19 16:59:21",False,"00002828","50046000007aFraAAE",533,NULL,NULL
+"Medium","Twitter",NULL,"@Sony Sir what you are telling in KBC to play S...",False,"2018-09-19 16:59:21",NULL,NULL,"2018-09-19 16:59:20",False,"00002827","50046000007aFrZAAU",534,NULL,NULL
+"Medium","Twitter",NULL,"@babubasu @KBCsony Sony live play along not wor...",False,"2018-09-19 16:59:22",NULL,NULL,"2018-09-19 16:59:21",False,"00002830","50046000007aFrcAAE",535,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV#kbc10 How we can play along when the So...",False,"2018-09-19 16:59:22",NULL,NULL,"2018-09-19 16:59:22",False,"00002831","50046000007aFrdAAE",536,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV hi after 9 days still sony live app no...",False,"2018-09-19 16:59:22",NULL,NULL,"2018-09-19 16:59:22",False,"00002832","50046000007aFreAAE",537,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony please update your server. @SonyLIV ap...",False,"2018-09-19 16:59:23",NULL,NULL,"2018-09-19 16:59:22",False,"00002833","50046000007aFrfAAE",538,NULL,NULL
+"Medium","Twitter",NULL,"#kbc10 @KBCsony  Today again your server is nit...",False,"2018-09-19 16:59:25",NULL,NULL,"2018-09-19 16:59:25",False,"00002836","50046000007aFrlAAE",539,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV very bad experience 9:00 Pm this not w...",False,"2018-09-19 16:59:25",NULL,NULL,"2018-09-19 16:59:25",False,"00002835","50046000007aFrkAAE",540,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @KBCsony KBC Play Along on App not wor...",False,"2018-09-19 16:59:25",NULL,NULL,"2018-09-19 16:59:24",False,"00002834","50046000007aFrjAAE",541,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV #KBC10  Play along hot seat is...",False,"2018-09-19 16:59:26",NULL,NULL,"2018-09-19 16:59:26",False,"00002837","50046000007aFroAAE",542,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan in  sonyliv app kbc play along is n...",False,"2018-09-19 16:59:27",NULL,NULL,"2018-09-19 16:59:27",False,"00002838","50046000007aFrpAAE",543,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Android app not working properly with ...",False,"2018-09-19 16:59:27",NULL,NULL,"2018-09-19 16:59:27",False,"00002839","50046000007aFrqAAE",544,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV KBC play along is not working....",False,"2018-09-19 16:59:28",NULL,NULL,"2018-09-19 16:59:28",False,"00002840","50046000007aFrtAAE",545,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV I want to play the #KBCPlayAlong but t...",False,"2018-09-19 16:59:29",NULL,NULL,"2018-09-19 16:59:29",False,"00002841","50046000007aFruAAE",546,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan what is this.. jio KBC was ...",False,"2018-09-19 16:59:29",NULL,NULL,"2018-09-19 16:59:29",False,"00002842","50046000007aFrvAAE",547,NULL,NULL
+"Medium","Twitter",NULL,"@ACPMajmudar @SonyTV How?? My app is buffering....",False,"2018-09-19 16:59:31",NULL,NULL,"2018-09-19 16:59:31",False,"00002843","50046000007aFryAAE",548,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SaahilRoomani Problem is not on the ap...",False,"2018-09-19 16:59:32",NULL,NULL,"2018-09-19 16:59:31",False,"00002844","50046000007aFrzAAE",549,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Sonyliv app not working.  I...",False,"2018-09-19 16:59:32",NULL,NULL,"2018-09-19 16:59:32",False,"00002845","50046000007aFs0AAE",550,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Sony live app not working..",False,"2018-09-19 16:59:32",NULL,NULL,"2018-09-19 16:59:32",False,"00002846","50046000007aFs1AAE",551,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Itz just buffering and buffering.........",False,"2018-09-19 16:59:33",NULL,NULL,"2018-09-19 16:59:33",False,"00002847","50046000007aFs2AAE",552,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Dear Sir, Please resolve the issue,for...",False,"2018-09-19 16:59:33",NULL,NULL,"2018-09-19 16:59:33",False,"00002848","50046000007aFs3AAE",553,NULL,NULL
+"Medium","Twitter",NULL,"Since yesterday app is not opening only bufferi...",False,"2018-09-19 16:59:34",NULL,NULL,"2018-09-19 16:59:34",False,"00002849","50046000007aFs4AAE",554,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan sony app not working",False,"2018-09-19 16:59:35",NULL,NULL,"2018-09-19 16:59:35",False,"00002851","50046000007aFs6AAE",555,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan KBC play along app is not w...",False,"2018-09-19 16:59:35",NULL,NULL,"2018-09-19 16:59:34",False,"00002850","50046000007aFs5AAE",556,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Dear @SonyLIV & Respected ...",False,"2018-09-19 16:59:36",NULL,NULL,"2018-09-19 16:59:36",False,"00002853","50046000007aFs8AAE",557,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @juniorbachchan @SrBachchan Mr Amitab b...",False,"2018-09-19 16:59:36",NULL,NULL,"2018-09-19 16:59:36",False,"00002852","50046000007aFs7AAE",558,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Your app is not working pro...",False,"2018-09-19 16:59:37",NULL,NULL,"2018-09-19 16:59:37",False,"00002855","50046000007aFsAAAU",559,NULL,NULL
+"Medium","Twitter",NULL,"You did in IPL too;Install app &gt; Uninstall a...",False,"2018-09-19 16:59:37",NULL,NULL,"2018-09-19 16:59:36",False,"00002854","50046000007aFs9AAE",560,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2018-09-19 16:59:40",NULL,NULL,"2018-09-19 16:59:40",False,"00002856","50046000007aFsIAAU",561,NULL,NULL
+"Medium","Twitter",NULL,"@pride2708 @VodafoneIN @SonyLIV @SrBachchan Son...",False,"2018-09-19 16:59:41",NULL,NULL,"2018-09-19 16:59:41",False,"00002857","50046000007aFsJAAU",562,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Sonyliv app is very bad ap...",False,"2018-09-19 16:59:41",NULL,NULL,"2018-09-19 16:59:41",False,"00002858","50046000007aFsKAAU",563,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sir, sony liv app is not working pr...",False,"2018-09-19 16:59:42",NULL,NULL,"2018-09-19 16:59:41",False,"00002859","50046000007aFsLAAU",564,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan The app is not working on ...",False,"2018-09-19 16:59:46",NULL,NULL,"2018-09-19 16:59:45",False,"00002867","50046000007aFsbAAE",565,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Still same problem. App ha...",False,"2018-09-19 16:59:56",NULL,NULL,"2018-09-19 16:59:55",False,"00002886","50046000007aFtBAAU",566,NULL,NULL
+"Medium","Twitter",NULL,"@dantus75 @SonyTV @SrBachchan My Sony liv app d...",False,"2018-09-19 17:00:34",NULL,NULL,"2018-09-19 17:00:34",False,"00002887","50046000007aFtVAAU",567,NULL,NULL
+"Medium","Twitter",NULL,"@ACPMajmudar @SonyTV My app buffering and crash",False,"2018-09-19 17:00:35",NULL,NULL,"2018-09-19 17:00:35",False,"00002888","50046000007aFtWAAU",568,NULL,NULL
+"Medium","Twitter",NULL,"@Being_D_R @SonyTV @SonyLIV @SrBachchan Sir my ...",False,"2018-09-19 17:00:36",NULL,NULL,"2018-09-19 17:00:36",False,"00002890","50046000007aFtYAAU",569,NULL,NULL
+"Medium","Twitter",NULL,"@Being_D_R @SonyTV @SonyLIV @SrBachchan Sony li...",False,"2018-09-19 17:00:36",NULL,NULL,"2018-09-19 17:00:35",False,"00002889","50046000007aFtXAAU",570,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan What the hell??? @SonyLIV ...",False,"2018-09-19 17:00:36",NULL,NULL,"2018-09-19 17:00:36",False,"00002891","50046000007aFtZAAU",571,NULL,NULL
+"Medium","Twitter",NULL,"@iamguddu13 @SonyLIV @SonyTV @SrBachchan Bhai a...",False,"2018-09-19 17:00:37",NULL,NULL,"2018-09-19 17:00:37",False,"00002892","50046000007aFtaAAE",572,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @SrBachchan sony liv app is not wor...",False,"2018-09-19 17:00:37",NULL,NULL,"2018-09-19 17:00:37",False,"00002893","50046000007aFtbAAE",573,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan @SonyLIV app not working ag...",False,"2018-09-19 17:00:38",NULL,NULL,"2018-09-19 17:00:37",False,"00002894","50046000007aFtcAAE",574,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan What the hell??  Such a la...",False,"2018-09-19 17:00:38",NULL,NULL,"2018-09-19 17:00:38",False,"00002895","50046000007aFtdAAE",575,NULL,NULL
+"Medium","Twitter",NULL,"@IndiaPOCO @jaimani Please look towards the app...",False,"2018-09-19 17:00:39",NULL,NULL,"2018-09-19 17:00:39",False,"00002896","50046000007aFteAAE",576,NULL,NULL
+"Medium","Twitter",NULL,"Playing #KBCPlayAlong in @SonyLIV sucks the ser...",False,"2018-09-20 08:20:32",NULL,NULL,"2018-09-20 08:20:31",False,"00002897","50046000007aLPlAAM",577,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV please  App sahi se chal nahi raha hai ...",False,"2018-09-20 08:20:33",NULL,NULL,"2018-09-20 08:20:33",False,"00002898","50046000007aLPmAAM",578,NULL,NULL
+"Medium","Twitter",NULL,"@babubasu I was supposed to tell you this yeste...",False,"2018-09-20 08:20:35",NULL,NULL,"2018-09-20 08:20:35",False,"00002899","50046000007aLPqAAM",579,NULL,NULL
+"Medium","Twitter",NULL,"@sonyliv Worst app skips questions not giving e...",False,"2018-09-20 08:20:36",NULL,NULL,"2018-09-20 08:20:36",False,"00002900","50046000007aLPrAAM",580,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @KBCsony  very poor app...never works.....",False,"2018-09-20 08:20:36",NULL,NULL,"2018-09-20 08:20:36",False,"00002901","50046000007aLPsAAM",581,NULL,NULL
+"Medium","Facebook",NULL,"Very poor KBC App. I am very disappointing this...",False,"2018-09-20 08:20:37",NULL,NULL,"2018-09-20 08:20:36",False,"00002902","50046000007aLPtAAM",582,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  server down. We can't play #KBC2018 ht...",False,"2018-09-20 08:20:38",NULL,NULL,"2018-09-20 08:20:37",False,"00002903","50046000007aLPvAAM",583,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV server down https://t.co/DK0zUJO1Jo",False,"2018-09-20 08:20:38",NULL,NULL,"2018-09-20 08:20:38",False,"00002904","50046000007aLPwAAM",584,NULL,NULL
+"Medium","Twitter",NULL,"Server was down during #KBC10 e1. Was not able ...",False,"2018-09-20 08:20:39",NULL,NULL,"2018-09-20 08:20:39",False,"00002906","50046000007aLPyAAM",585,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  Redmi 4 page always crashed server do...",False,"2018-09-20 08:20:39",NULL,NULL,"2018-09-20 08:20:39",False,"00002905","50046000007aLPxAAM",586,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SonyTV @KBCsony Dear All I want to ac...",False,"2018-09-20 08:20:40",NULL,NULL,"2018-09-20 08:20:40",False,"00002907","50046000007aLPzAAM",587,NULL,NULL
+"Medium","Twitter",NULL,"KBC.  शुरू होते ही @SonyLIV app का Server Down ...",False,"2018-09-20 08:20:41",NULL,NULL,"2018-09-20 08:20:41",False,"00002908","50046000007aLQ0AAM",588,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV I guess server is down",False,"2018-09-20 08:20:42",NULL,NULL,"2018-09-20 08:20:41",False,"00002909","50046000007aLQ1AAM",589,NULL,NULL
+"Medium","Twitter",NULL,"Unable to play KBC play along from sonyliv app....",False,"2018-09-20 08:20:42",NULL,NULL,"2018-09-20 08:20:42",False,"00002910","50046000007aLQ2AAM",590,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV hello sony tv same problem it so me and...",False,"2018-09-20 08:20:42",NULL,NULL,"2018-09-20 08:20:42",False,"00002911","50046000007aLQ3AAM",591,NULL,NULL
+"Medium","Other",NULL,"On episode 10th when I was playing play along K...",False,"2018-09-20 08:20:43",NULL,NULL,"2018-09-20 08:20:43",False,"00002912","50046000007aLQ4AAM",592,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 @SonyLIV isn't working . Server down. Wh...",False,"2018-09-20 08:20:44",NULL,NULL,"2018-09-20 08:20:43",False,"00002913","50046000007aLQ5AAM",593,NULL,NULL
+"Medium","Twitter",NULL,"Trying to play kbc but server gt down,it's Path...",False,"2018-09-20 08:20:44",NULL,NULL,"2018-09-20 08:20:44",False,"00002914","50046000007aLQ6AAM",594,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  worst android app ever not loading pa...",False,"2018-09-20 08:20:45",NULL,NULL,"2018-09-20 08:20:45",False,"00002916","50046000007aLQ8AAM",595,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir, this is Brijesh Awasthi from M...",False,"2018-09-20 08:20:45",NULL,NULL,"2018-09-20 08:20:44",False,"00002915","50046000007aLQ7AAM",596,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV worst app... Crashes a lot. @SrBachcha...",False,"2018-09-20 08:20:46",NULL,NULL,"2018-09-20 08:20:45",False,"00002917","50046000007aLQ9AAM",597,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV please do advertise that one needs to ...",False,"2018-09-20 08:20:46",NULL,NULL,"2018-09-20 08:20:46",False,"00002918","50046000007aLQAAA2",598,NULL,NULL
+"Medium","Twitter",NULL,"@SARDARpirate @SonyLIV Worst app ..not opened t...",False,"2018-09-20 08:20:48",NULL,NULL,"2018-09-20 08:20:48",False,"00002919","50046000007aLQFAA2",599,NULL,NULL
+"Medium","Twitter",NULL,"Dear sir jo aap Sony liv aap kbc gamr khelne ke...",False,"2018-09-20 08:20:48",NULL,NULL,"2018-09-20 08:20:48",False,"00002920","50046000007aLQGAA2",600,NULL,NULL
+"Medium","Twitter",NULL,"Sony liv server down ....Day2",False,"2018-09-20 08:20:49",NULL,NULL,"2018-09-20 08:20:49",False,"00002921","50046000007aLQKAA2",601,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Sony liv app is just worst...",False,"2018-09-20 08:20:50",NULL,NULL,"2018-09-20 08:20:50",False,"00002923","50046000007aLQMAA2",602,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Your app is pathetic, ques...",False,"2018-09-20 08:20:51",NULL,NULL,"2018-09-20 08:20:51",False,"00002924","50046000007aLQNAA2",603,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Sony liv app is the worst app for live ...",False,"2018-09-24 08:04:28",NULL,NULL,"2018-09-20 08:20:50",False,"00002922","50046000007aLQLAA2",604,NULL,NULL
+"Medium","Phone",NULL,"@Twitter Case #2345AS",False,"2018-10-23 13:19:41",NULL,NULL,"2017-09-20 18:03:01",False,"00001877","50046000004JYvkAAG",605,NULL,NULL
+"Medium","YouTube",NULL,"This shop seems to be another version of Geetan...",False,"2019-02-20 02:22:15",NULL,NULL,"2019-02-20 02:22:14",False,"00002939","50046000009xw6MAAQ",606,NULL,NULL
+"Medium","YouTube",NULL,"Latest Gold Light Weight Jhumki Designs With We...",False,"2019-02-20 02:26:38",NULL,NULL,"2019-02-20 02:26:38",False,"00002940","50046000009xw8VAAQ",607,NULL,NULL
+"Medium","Twitter",NULL,"By Elaine Low LOS ANGELES (Variety) – Lorne Mic...",False,"2019-02-20 03:06:45",NULL,NULL,"2019-02-20 03:03:09",False,"00002942","50046000009xwFjAAI",608,NULL,NULL
+"Medium","Facebook",NULL,"Not quite ready for Baywatch !#Theticket #Anant...",False,"2019-02-26 05:55:05",NULL,NULL,"2017-05-14 06:10:53",True,"00001843","50046000002PHStAAO",609,NULL,NULL
+"Medium","Twitter",NULL,"This weekend may be over, but don't be sad! We'...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:21",True,"00002000","50046000007aCcCAAU",610,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:42",True,"00002092","50046000007aCsSAAU",611,NULL,NULL
+"Medium","Twitter",NULL,"@alkagurha It is sad we dont have enough script...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:27:28",True,"00001991","50046000007aCb9AAE",612,NULL,NULL
+"Medium","Twitter",NULL,"EP one ( part -4) Well it's very sad for fandom...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:29:28",True,"00001998","50046000007aCbxAAE",613,NULL,NULL
+"Medium","Twitter",NULL,"EP one ( part -4) Well it's very sad for fandom...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:28:29",True,"00001995","50046000007aCbZAAU",614,NULL,NULL
+"Medium","Twitter",NULL,"EP one ( part -4) Well it's very sad for fandom...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:28:28",True,"00001994","50046000007aCbYAAU",615,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Why??? No...sooo sad.. https://t.co/gtc...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:23",True,"00002002","50046000007aCcMAAU",616,NULL,NULL
+"Medium","Twitter",NULL,"This weekend may be over, but don't be sad! We'...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:21",True,"00001999","50046000007aCc7AAE",617,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/0pU8JxBoV...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:18",True,"00002026","50046000007aCptAAE",618,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch🙏,  Only 2Days left in the ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:19",True,"00002027","50046000007aCpuAAE",619,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/DZGxFYS7b...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:19",True,"00002028","50046000007aCpvAAE",620,NULL,NULL
+"Medium","Twitter",NULL,"We are truly sad to see KRISHNAKALI SAHA leave ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:22",True,"00002001","50046000007aCcHAAU",621,NULL,NULL
+"Medium","Twitter",NULL,"@avigowariker Waiting for your KBC /Amit B,😩sa...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:29:27",True,"00001997","50046000007aCbsAAE",622,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/Xxw0POhLC...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:12",True,"00002014","50046000007aCpeAAE",623,NULL,NULL
+"Medium","Twitter",NULL,"Twitter channel not working.",False,"2019-02-26 05:55:05",NULL,NULL,"2017-05-12 16:53:59",True,"00001833","50046000002PH0uAAG",624,NULL,NULL
+"Medium","Twitter",NULL,"Took a short break on the drive to Batticaloa t...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-01-17 08:28:48",True,"00001929","50046000005fwJhAAI",625,NULL,NULL
+"Medium","Twitter",NULL,"Natural and #herbal alternative to harmful chem...",False,"2019-02-26 05:55:05",NULL,NULL,"2017-09-25 05:08:43",True,"00001885","50046000004JmUtAAK",626,NULL,NULL
+"Medium","Twitter",NULL,"@future_care Probably the WORST furniture buyin...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-02-23 10:21:02",True,"00001947","500460000063mFFAAY",627,NULL,NULL
+"Medium","Twitter",NULL,"@LODHA learn from India's premier real estate d...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-03-29 06:15:18",True,"00001961","50046000006FIdHAAW",628,NULL,NULL
+"Medium","Twitter",NULL,"@thanecityonline @malavi_sandeep @TMCsmartcity ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-03-28 07:40:37",True,"00001954","50046000006F38OAAS",629,NULL,NULL
+"Medium","Twitter",NULL,"Play with the rich vibrant hues of crimson and ...",False,"2019-02-26 05:55:05",NULL,NULL,"2017-09-22 05:33:12",True,"00001879","50046000004Jg6BAAS",630,NULL,NULL
+"Medium","Twitter",NULL,"Attended Sanvad Sabha at sion assembly , Bharan...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-02-16 07:48:24",True,"00001934","50046000005iFY4AAM",631,NULL,NULL
+"Medium","Twitter",NULL,"https://t.co/cBj0P9yAt0 My visit to the Temple ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-03-21 07:21:25",True,"00001949","50046000006DP8TAAW",632,NULL,NULL
+"Medium","Twitter",NULL,"India's SpiceJet to launch freighter service; d...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-08-08 08:10:13",True,"00001985","50046000007B169AAC",633,NULL,NULL
+"Medium","Twitter",NULL,"@flyspicejet This was the ticket which my dad h...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-08-08 08:47:15",True,"00001986","50046000007B17lAAC",634,NULL,NULL
+"Medium","Twitter",NULL,"Jet Airways announces salary cuts between 5 and...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-08-02 06:53:51",True,"00001983","50046000007AVmhAAG",635,NULL,NULL
+"Medium","Twitter",NULL,"@VikasbansalEF @SrBachchan @babubasu @SonyTV @B...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:28:25",True,"00001993","50046000007aCbTAAU",636,NULL,NULL
+"Medium","Twitter",NULL,"@Nimik_admirers @001Danish @SonyTV @Udaymaxout ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:28:30",True,"00001996","50046000007aCbdAAE",637,NULL,NULL
+"Medium","Twitter",NULL,"A camera shy Polonnaruwa lion....  #Travel #Sri...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-01-17 08:18:05",True,"00001928","50046000005fwJ8AAI",638,NULL,NULL
+"Medium","Twitter",NULL,"Kandy Lake Comfort ... and the Wood Apples are ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-01-17 08:15:10",True,"00001927","50046000005fwIyAAI",639,NULL,NULL
+"Medium","Twitter",NULL,"MORTGAGE LOAN AGAINST PROPERTY WITHOUT BRS  LOA...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-06-11 09:21:05",True,"00001973","50046000006s2zFAAQ",640,NULL,NULL
+"Medium","Facebook",NULL,"Are u still saying that I have to send my perso...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-08-08 07:01:31",True,"00001984","50046000007B12UAAS",641,NULL,NULL
+"Medium","Twitter",NULL,"Like and Share if you want this Girls Set 3 pcs...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-08-23 10:10:58",True,"00001987","500460000078dO3AAI",642,NULL,NULL
+"Medium","Twitter",NULL,"We all know KBC (Kaun Banega Crorepati ) is Goo...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:25",True,"00002040","50046000007aCqGAAU",643,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/gjTIPcpdj...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:26",True,"00002044","50046000007aCqKAAU",644,NULL,NULL
+"Medium","Twitter",NULL,"@Swetaprasad19 @SrBachchan HERO of the MILLENNI...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:31",True,"00002049","50046000007aCqXAAU",645,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV Who is you...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:32",True,"00002050","50046000007aCqYAAU",646,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:11",True,"00002011","50046000007aCpZAAU",647,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:14",True,"00002018","50046000007aCpiAAE",648,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:14",True,"00002019","50046000007aCpjAAE",649,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Good morning SIR. Just Awesome pics...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:34",True,"00002052","50046000007aCqhAAE",650,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/H6RazMvyb...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:13",True,"00002054","50046000007aCqwAAE",651,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/le6Vti4Ff...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:20",True,"00002029","50046000007aCpyAAE",652,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/VkghDQ5Xj...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:15",True,"00002059","50046000007aCr1AAE",653,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/Q1VJWIrs6...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:17",True,"00002064","50046000007aCr6AAE",654,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/KDhvRdUn8...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:17",True,"00002065","50046000007aCr7AAE",655,NULL,NULL
+"Medium","Twitter",NULL,"The night couldn’t get any more entertaining! N...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:18",True,"00002066","50046000007aCr8AAE",656,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:43",True,"00002093","50046000007aCsTAAU",657,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:43",True,"00002094","50046000007aCsUAAU",658,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:57",True,"00002110","50046000007aCsoAAE",659,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:58",True,"00002111","50046000007aCspAAE",660,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @indianidoli @indianidol2017 @ManishPau...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:58",True,"00002112","50046000007aCsqAAE",661,NULL,NULL
+"Medium","Twitter",NULL,"@salman_ali_sing Amazing singing  One of the be...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:58",True,"00002113","50046000007aCsrAAE",662,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/H3g9aCZA6...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:16",True,"00002060","50046000007aCr2AAE",663,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:02",True,"00002117","50046000007aCszAAE",664,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:02",True,"00002118","50046000007aCt0AAE",665,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:03",True,"00002119","50046000007aCt1AAE",666,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/vmDn1jurb...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:05",True,"00002120","50046000007aCt2AAE",667,NULL,NULL
+"Medium","Twitter",NULL,"@NurdanKBBC @KarabashevaAmi1 @SrBachchan @israi...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:59",True,"00002114","50046000007aCssAAE",668,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:07",True,"00002124","50046000007aCt6AAE",669,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/ScKzLsSIg...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:07",True,"00002125","50046000007aCt7AAE",670,NULL,NULL
+"Medium","Twitter",NULL,"Bookmark this tweet, 5 yrs from now this will b...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:17",True,"00002128","50046000007aCtHAAU",671,NULL,NULL
+"Medium","Twitter",NULL,"A good start again👍, since many gave up, those...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:17",True,"00002129","50046000007aCtIAAU",672,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Watching #IndianIdol .. Tod...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:18",True,"00002130","50046000007aCtJAAU",673,NULL,NULL
+"Medium","Twitter",NULL,"Very Entertaining",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:18",True,"00002131","50046000007aCtKAAU",674,NULL,NULL
+"Medium","Twitter",NULL,"@Nimik_admirers @001Danish @SonyTV @EDKV_S2 @Ud...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:25",True,"00002132","50046000007aCtRAAU",675,NULL,NULL
+"Medium","Twitter",NULL,"@ZeeNewsHindi @sudhirchaudhary Resp. Sudhir sir...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:30",True,"00002047","50046000007aCqSAAU",676,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV Who is you...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:30",True,"00002048","50046000007aCqTAAU",677,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV Good Morni...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:29",True,"00002045","50046000007aCqNAAU",678,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV Your Favor...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:29",True,"00002046","50046000007aCqOAAU",679,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:53",True,"00002102","50046000007aCsfAAE",680,NULL,NULL
+"Medium","Twitter",NULL,"@RandeepRai_Fc @irandeeprai @SonyTVUSA @SonyTV ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:14",True,"00002126","50046000007aCtCAAU",681,NULL,NULL
+"Medium","Twitter",NULL,"@AnkushB53191059 @Ankush_Fanclub @SonyTV @iAmNe...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:15",True,"00002127","50046000007aCtDAAU",682,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations to VIBHOR for winning Performer...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:31",True,"00002144","50046000007aCtlAAE",683,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch...!!!!   Only 2Days left in...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:53",True,"00002101","50046000007aCseAAE",684,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @ManishPaul03 giving such good comments...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:54",True,"00002103","50046000007aCsgAAE",685,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/qQr8TkKXB...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:21",True,"00002030","50046000007aCpzAAE",686,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/tO6WGUm4A...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:22",True,"00002035","50046000007aCq4AAE",687,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/xpZgRjr7f...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:27",True,"00002071","50046000007aCrKAAU",688,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/4lDkzuKBl...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:35",True,"00002086","50046000007aCrhAAE",689,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV good",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:37",True,"00002087","50046000007aCrkAAE",690,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/XJUkYPw4N...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:46",True,"00002168","50046000007aCuFAAU",691,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/KgTGcomej...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:47",True,"00002169","50046000007aCuGAAU",692,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @iAmNehaKakkar @VishalDadlani @The_AnuM...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:36",True,"00002053","50046000007aCqmAAE",693,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/FxnJMUWrj...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:05:30",True,"00002078","50046000007aCrWAAU",694,NULL,NULL
+"Medium","Twitter",NULL,"This was one of the best Indian tv show,content...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:33",True,"00002051","50046000007aCqcAAE",695,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/ehzn1VqNa...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:06:51",True,"00002095","50046000007aCsYAAU",696,NULL,NULL
+"Medium","Twitter",NULL,"@Vinita65816355 @IamsoLaksh @romeshlalwani @Por...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:58",True,"00002180","50046000007aCuUAAU",697,NULL,NULL
+"Medium","Twitter",NULL,"We are truly sad to see KRISHNAKALI SAHA leave ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:24",True,"00002003","50046000007aCcRAAU",698,NULL,NULL
+"Medium","Twitter",NULL,"We are truly sad to see KRISHNAKALI SAHA leave ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:31:25",True,"00002004","50046000007aCcSAAU",699,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations 🎊 🎊 🎊 @SonyTV's Popular show...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:07:41",True,"00002155","50046000007aCu0AAE",700,NULL,NULL
+"Medium","Twitter",NULL,"I was not able to watch #IndianIdol yesterday d...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:04",True,"00002203","50046000007aCv9AAE",701,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/GYCjDEAGp...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:24",True,"00002037","50046000007aCqDAAU",702,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/8qpOkcRVl...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:08",True,"00002006","50046000007aCpUAAU",703,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/RKq0H2acB...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:09",True,"00002007","50046000007aCpVAAU",704,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/lf040CHgK...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:10",True,"00002008","50046000007aCpWAAU",705,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/Xbsb4L0Mm...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:04:16",True,"00002022","50046000007aCpoAAE",706,NULL,NULL
+"Medium","Twitter",NULL,"@Udaymaxout Absolutely loved #YehPyaarNahiTohKy...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:26:11",True,"00001990","50046000007aCb4AAE",707,NULL,NULL
+"Medium","Twitter",NULL,"EP one ( part -4) Well it's very sad for fandom...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:27:29",True,"00001992","50046000007aCbEAAU",708,NULL,NULL
+"Medium","Twitter",NULL,"We are truly sad to see KRISHNAKALI SAHA leave ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 08:33:22",True,"00002005","50046000007aCcWAAU",709,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:49",True,"00002549","50046000007aD40AAE",710,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @kamaalrkhan_New ""आदर आदाब अभिनंदन ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:49",True,"00002550","50046000007aD41AAE",711,NULL,NULL
+"Medium","Twitter",NULL,"18 years of KBC😯😯 unbelievable.. congratulati...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:49",True,"00002551","50046000007aD42AAE",712,NULL,NULL
+"Medium","Twitter",NULL,"@PravsAhuja19 @SrBachchan @SonyTV @babubasu @Re...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:50",True,"00002552","50046000007aD43AAE",713,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congrats...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:33",True,"00002405","50046000007aD03AAE",714,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:33",True,"00002406","50046000007aD04AAE",715,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV Diduuuuuu lots of love a...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:34",True,"00002407","50046000007aD05AAE",716,NULL,NULL
+"Medium","Twitter",NULL,"KBC starts tonight. At least something good to ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:39",True,"00002533","50046000007aD3gAAE",717,NULL,NULL
+"Medium","Twitter",NULL,"Just 3 hours to go for #KBC10 Lots of love and ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:39",True,"00002534","50046000007aD3hAAE",718,NULL,NULL
+"Medium","Twitter",NULL,"Finally wait is over...✌  ""आदर आदाब अभिनंदन आभा...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:40",True,"00002535","50046000007aD3iAAE",719,NULL,NULL
+"Medium","Twitter",NULL,"Finally wait is over... Only 2hr Left.. Must wa...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:40",True,"00002536","50046000007aD3jAAE",720,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/H9DOP5gUW...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:41",True,"00002537","50046000007aD3kAAE",721,NULL,NULL
+"Medium","Twitter",NULL,"SO EXCITED FOR KBC 😄 Last season was super good",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:06",True,"00002511","50046000007aD2YAAU",722,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/CxRFgOpHI...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:09",True,"00002432","50046000007aD0sAAE",723,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/auuYzy3j3...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:09",True,"00002355","50046000007aCyvAAE",724,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV Very good",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:39",True,"00002351","50046000007aCyWAAU",725,NULL,NULL
+"Medium","Twitter",NULL,"I added a video to a @YouTube playlist https://...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:02",True,"00002310","50046000007aCxhAAE",726,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch🙏  #KBCTonight the Most Fav...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:35",True,"00002530","50046000007aD3bAAE",727,NULL,NULL
+"Medium","Twitter",NULL,"I am waiting for the most knowledgeable and mos...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:36",True,"00002531","50046000007aD3cAAE",728,NULL,NULL
+"Medium","Facebook",NULL,"The night couldn’t get any more entertaining! N...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:31",True,"00002237","50046000007aCvwAAE",729,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/nhzjR3sp7...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:35",True,"00002249","50046000007aCw8AAE",730,NULL,NULL
+"Medium","Twitter",NULL,"Which song is good... @SonyTV @StarPlus @Colors...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:10",True,"00002518","50046000007aD2nAAE",731,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/C39VLKp8n...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:08",True,"00002216","50046000007aCvPAAU",732,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/k9aWYdKz4...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:09",True,"00002217","50046000007aCvQAAU",733,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/Hvk0VA0Da...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:10",True,"00002220","50046000007aCvTAAU",734,NULL,NULL
+"Medium","Twitter",NULL,"@VishalDadlani #IndianIdol @The_AnuMalik @iAmNe...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:11",True,"00002222","50046000007aCvVAAU",735,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Thank yo...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:29",True,"00002488","50046000007aD1zAAE",736,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:36",True,"00002411","50046000007aD0GAAU",737,NULL,NULL
+"Medium","Twitter",NULL,"A big big congratulations to u @Isanjayofficial...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:34",True,"00002408","50046000007aD0DAAU",738,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Our plea...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:35",True,"00002409","50046000007aD0EAAU",739,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Don't miss to watch🙏  💗💓 #KBCTom...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:35",True,"00002410","50046000007aD0FAAU",740,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Congratulations on 10 season of kbc...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:18",True,"00002303","50046000007aCxYAAU",741,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @The_AnuMalik Salmam Ali is an excellen...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:18",True,"00002304","50046000007aCxZAAU",742,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @iamsrk @BeingSalmanKhan Very good.... ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:18",True,"00002305","50046000007aCxaAAE",743,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/aOQJODmT6...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:08",True,"00002292","50046000007aCx9AAE",744,NULL,NULL
+"Medium","Twitter",NULL,"Sonu Nigam had heard some really good things ab...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:39",True,"00002352","50046000007aCybAAE",745,NULL,NULL
+"Medium","Twitter",NULL,"@AxisBank @SonyTV Congratulations",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:14",True,"00002525","50046000007aD32AAE",746,NULL,NULL
+"Medium","Twitter",NULL,"@Farha23821217 @SonyTV Farha mera haal bhi same...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:40",True,"00002353","50046000007aCygAAE",747,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @Soumyamusical9 I would like to dedicat...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:40",True,"00002354","50046000007aCyhAAE",748,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV #श्री_कृष्ण_जन्माष्टमी  ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:30",True,"00002489","50046000007aD24AAE",749,NULL,NULL
+"Medium","Twitter",NULL,"@NeelanjanaRay @salman_ali_sing @VishalDadlani ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:30",True,"00002490","50046000007aD25AAE",750,NULL,NULL
+"Medium","Twitter",NULL,"@priyanka_doloi @IamsoLaksh @romeshlalwani @Por...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:31",True,"00002491","50046000007aD29AAE",751,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV I liked neha mam",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:31",True,"00002492","50046000007aD2AAAU",752,NULL,NULL
+"Medium","Twitter",NULL,"2.5 hour to go..My all time favorite Episode #K...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:43",True,"00002538","50046000007aD3lAAE",753,NULL,NULL
+"Medium","Twitter",NULL,"""आदर आदाब अभिनंदन आभार""🙏  Finally wait is over...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:43",True,"00002539","50046000007aD3mAAE",754,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 #KabTakRokoge  @SrBachchan Sir. My favor...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:44",True,"00002540","50046000007aD3nAAE",755,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/s2Xb3BInI...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:39",True,"00002262","50046000007aCwOAAU",756,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/e9C3hrS54...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:13",True,"00002366","50046000007aCzFAAU",757,NULL,NULL
+"Medium","Twitter",NULL,"@valeriesworld23 @Angelni56307299 let's see.. k...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:14",True,"00002526","50046000007aD37AAE",758,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:15",True,"00002527","50046000007aD38AAE",759,NULL,NULL
+"Medium","Twitter",NULL,"@BeingSalmanKhan @ayushmannk @SonyTV Congratula...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:45",True,"00002542","50046000007aD3qAAE",760,NULL,NULL
+"Medium","Twitter",NULL,"@PravsAhuja19 @SrBachchan @SonyTV @babubasu @Re...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:46",True,"00002543","50046000007aD3rAAE",761,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Finally wait is over... Only 2hr Le...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:46",True,"00002544","50046000007aD3sAAE",762,NULL,NULL
+"Medium","Twitter",NULL,"@addzz8 @SrBachchan @PravsAhuja19 @SonyTV @babu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:47",True,"00002545","50046000007aD3tAAE",763,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Congratulations to you @SrBachchan ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:47",True,"00002546","50046000007aD3uAAE",764,NULL,NULL
+"Medium","Twitter",NULL,"@rahul1021986 @SrBachchan @SonyTV @sanjay_patod...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:47",True,"00002547","50046000007aD3vAAE",765,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @kamaalrkhan Finally wait is over.....",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:48",True,"00002548","50046000007aD3wAAE",766,NULL,NULL
+"Medium","Twitter",NULL,"I am really so happy to see that the trp of #Ye...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:31",True,"00002402","50046000007aCztAAE",767,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Don't miss to watch🙏  #KBCTomorrow...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:31",True,"00002403","50046000007aCzuAAE",768,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:32",True,"00002404","50046000007aCzvAAE",769,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV #SoumyaAtIndianIdol RimJhim was too goo...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:17",True,"00002335","50046000007aCy9AAE",770,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations to our NITIN for yet again stea...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:18",True,"00002341","50046000007aCyFAAU",771,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:13",True,"00002524","50046000007aD2xAAE",772,NULL,NULL
+"Medium","Twitter",NULL,"""आदर आदाब अभिनंदन आभार""🙏  Finally wait is over...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:34",True,"00002528","50046000007aD3WAAU",773,NULL,NULL
+"Medium","Twitter",NULL,"Finally wait is over...✌ Must watch #KBC10   ""आ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:15:34",True,"00002529","50046000007aD3XAAU",774,NULL,NULL
+"Medium","Twitter",NULL,"@yeh90skibaathai @maheshwari55685 @ManishK81649...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:49",True,"00002267","50046000007aCwVAAU",775,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/LMqORALZd...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:20",True,"00002343","50046000007aCyIAAU",776,NULL,NULL
+"Medium","Twitter",NULL,"Hospital scene of Ashni . Their expressions wer...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:21",True,"00002347","50046000007aCyMAAU",777,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Humor is this weeks episodes of #indian...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:21",True,"00002348","50046000007aCyNAAU",778,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/nvvSWZoaF...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:22",True,"00002349","50046000007aCyOAAU",779,NULL,NULL
+"Medium","Twitter",NULL,"Don't miss to watch🙏  Only #1DayToKBC in the M...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:07",True,"00002324","50046000007aCxyAAE",780,NULL,NULL
+"Medium","Twitter",NULL,"Wowwww, Kya performance tha, To good @AnkushB53...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:09",True,"00002330","50046000007aCy4AAE",781,NULL,NULL
+"Medium","Twitter",NULL,"@ManishPaul03 you are too good on today's ep, y...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:09",True,"00002331","50046000007aCy5AAE",782,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/TUlu69YTx...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:10",True,"00002332","50046000007aCy6AAE",783,NULL,NULL
+"Medium","Twitter",NULL,"Moon On Palm: KBC,Lottery,Foreign Travel,Good L...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:08",True,"00002515","50046000007aD2gAAE",784,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations @SrBachchan sir  #KBC on air to...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:09",True,"00002516","50046000007aD2hAAE",785,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations SrBachchan sir  #KBC on air tod...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:09",True,"00002517","50046000007aD2iAAE",786,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Why r judges give too much important of...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:16",True,"00002236","50046000007aCvmAAE",787,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:37",True,"00002412","50046000007aD0NAAU",788,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV Diduuu lots of love and ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:37",True,"00002413","50046000007aD0OAAU",789,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/agks2CI3m...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:04",True,"00002505","50046000007aD2SAAU",790,NULL,NULL
+"Medium","Twitter",NULL,"@iAmNehaKakkar @SonyTV Looking Good God bless y...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:10",True,"00002294","50046000007aCxJAAU",791,NULL,NULL
+"Medium","Twitter",NULL,"""Kab Tak Rokoge? "" Happiness is to realize that...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:27",True,"00002395","50046000007aCzlAAE",792,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/sabkj0Z6y...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:29",True,"00002400","50046000007aCzqAAE",793,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:12",True,"00002522","50046000007aD2sAAE",794,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:14:12",True,"00002523","50046000007aD2tAAE",795,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/fiZKrRxDH...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:20",True,"00002375","50046000007aCzPAAU",796,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Don't miss to watch🙏  #KBCTonight ...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:28",True,"00002486","50046000007aD1rAAE",797,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:27",True,"00002484","50046000007aD1pAAE",798,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir, Good luck for #KBC10 , So exci...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:27",True,"00002485","50046000007aD1qAAE",799,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @ShashiSumeet @SonyTV Congratu...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:13:28",True,"00002487","50046000007aD1sAAE",800,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Congratulations",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:11:23",True,"00002350","50046000007aCyRAAU",801,NULL,NULL
+"Medium","Twitter",NULL,"Please wrap up #IndianIdol ASAP already missing...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:23",True,"00002384","50046000007aCzZAAU",802,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/lTvoPYn3H...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:24",True,"00002385","50046000007aCzaAAE",803,NULL,NULL
+"Medium","Twitter",NULL,"Happiness is to realize that #KBC is starting f...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:12:24",True,"00002386","50046000007aCzbAAE",804,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/IRgYPtjvg...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:13",True,"00002228","50046000007aCvcAAE",805,NULL,NULL
+"Medium","Twitter",NULL,"@ManishPaul03 Hey Manish. I was wrong about you...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:09:15",True,"00002235","50046000007aCvjAAE",806,NULL,NULL
+"Medium","Twitter",NULL,"Good thing is KBC back from tomorrow 😍 by my s...",False,"2019-02-26 05:55:05",NULL,NULL,"2018-09-19 11:10:11",True,"00002295","50046000007aCxOAAU",807,NULL,NULL
+"Medium","Twitter",NULL,"Finally wait is over...✌  ""आदर आदाब अभिनंदन आभा...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:50",True,"00002553","50046000007aD45AAE",808,NULL,NULL
+"Medium","Twitter",NULL,"Finally wait is over... Only 2hr Left.. Must wa...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:51",True,"00002554","50046000007aD46AAE",809,NULL,NULL
+"Medium","Twitter",NULL,"@vandnavermaABEF @SrBachchan @SonyTV @RahulBh09...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:51",True,"00002555","50046000007aD47AAE",810,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV not fair your app has crashed , we can...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:30",True,"00002613","50046000007aD7WAAU",811,NULL,NULL
+"Medium","Twitter",NULL,"@amitabh_bigb Sir..we couldn’t play kbc through...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:31",True,"00002614","50046000007aD7XAAU",812,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan #KBC10 first day first show...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:31",True,"00002615","50046000007aD7dAAE",813,NULL,NULL
+"Medium","Twitter",NULL,"Glad to see again @SrBachchan Sir..And congratu...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:32",True,"00002616","50046000007aD7eAAE",814,NULL,NULL
+"Medium","Twitter",NULL,"Wow finally after very long break @SrBachchan i...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:03",True,"00002587","50046000007aD67AAE",815,NULL,NULL
+"Medium","Twitter",NULL,"My favorite show is coming today... Super excit...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:18",True,"00002596","50046000007aD6kAAE",816,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 on @SonyTV from today.. Yayyy one of my ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:19",True,"00002597","50046000007aD6lAAE",817,NULL,NULL
+"Medium","Twitter",NULL,"SonyLiv app is not working @SonyTV @SonyLIV  #K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:59",True,"00002781","50046000007aFqgAAE",818,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV your app @SonyLIV  is not working guys ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:59",True,"00002782","50046000007aFqhAAE",819,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV why SonyLiv app is not working for KBC...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:59:00",True,"00002783","50046000007aFqiAAE",820,NULL,NULL
+"Medium","Twitter",NULL,"Just half hours to go for #KBC10 Lots of love a...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:44",True,"00002568","50046000007aD53AAE",821,NULL,NULL
+"Medium","Twitter",NULL,"Eagerly waiting for 9 PM and already tune @Sony...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:45",True,"00002569","50046000007aD54AAE",822,NULL,NULL
+"Medium","Twitter",NULL,"@SwetaSinghFn @SrBachchan @SonyTV Good night",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:57",True,"00002646","50046000007aD8bAAE",823,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:57",True,"00002647","50046000007aD8cAAE",824,NULL,NULL
+"Medium","Twitter",NULL,"Finally its KBC time.. My all the favorite tv s...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:24",True,"00002603","50046000007aD7EAAU",825,NULL,NULL
+"Medium","Twitter",NULL,"@Swetaprasad19 @SonyTV @SrBachchan Wow.. Many M...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:53",True,"00002558","50046000007aD4FAAU",826,NULL,NULL
+"Medium","Twitter",NULL,"Wow finally after a long break @SrBachchan is b...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:00",True,"00002581","50046000007aD5wAAE",827,NULL,NULL
+"Medium","Twitter",NULL,"This is really something good to have  #KBC10 a...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:00",True,"00002582","50046000007aD5xAAE",828,NULL,NULL
+"Medium","Twitter",NULL,"🐥:253 #KabTakRokoge khud ko @SrBachchan ko phi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:01",True,"00002583","50046000007aD5yAAE",829,NULL,NULL
+"Medium","Twitter",NULL,"Surprised to see @reliancejio skip sponsoring #...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:24",True,"00002604","50046000007aD7FAAU",830,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV how to play KBC play along when your ap...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:25",True,"00002605","50046000007aD7GAAU",831,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  KBC AAP is not working. Pls see screen...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:25",True,"00002606","50046000007aD7HAAU",832,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan #KBC10 first day first show...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:25",True,"00002607","50046000007aD7IAAU",833,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 Sony liv not working why why why",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:26",True,"00002608","50046000007aD7JAAU",834,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sir I couldn’t play KBC through Son...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:26",True,"00002609","50046000007aD7KAAU",835,NULL,NULL
+"Medium","Facebook",NULL,"Sony Liv app not working properly",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:14",True,"00002732","50046000007aDX2AAM",836,NULL,NULL
+"Medium","Facebook",NULL,"Yeh weekend hoga aur bhi entertaining kyunki aa...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:14",True,"00002733","50046000007aDX3AAM",837,NULL,NULL
+"Medium","Facebook",NULL,"Join your favorite contestants as they answer y...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:15",True,"00002734","50046000007aDX4AAM",838,NULL,NULL
+"Medium","Facebook",NULL,"Sony liv app has some problem all users",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:19",True,"00002740","50046000007aDXHAA2",839,NULL,NULL
+"Medium","Facebook",NULL,"Kbc play along is not working properly please d...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:16",True,"00002735","50046000007aDX7AAM",840,NULL,NULL
+"Medium","Facebook",NULL,"Update the app not working when question change...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:16",True,"00002736","50046000007aDX8AAM",841,NULL,NULL
+"Medium","Facebook",NULL,"Tonight's going to be a good night!      Watch ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:17",True,"00002737","50046000007aDX9AAM",842,NULL,NULL
+"Medium","Facebook",NULL,"To INDIAN IDOL SEASON 10. Respected Anuji, Neha...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:18",True,"00002738","50046000007aDXAAA2",843,NULL,NULL
+"Medium","Facebook",NULL,"Aaj se aapka Sat-Sun hone waala hai aur bhi ent...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:18",True,"00002739","50046000007aDXBAA2",844,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/dZKdcLCPN...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:40",True,"00002565","50046000007aD4tAAE",845,NULL,NULL
+"Medium","Twitter",NULL,"Hey Guys.....   #KBC10 Lots of love and congrat...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:41",True,"00002566","50046000007aD4uAAE",846,NULL,NULL
+"Medium","Twitter",NULL,"Why @SonyLIV  app is not working @SonyTV  #KBC1...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:11",True,"00002669","50046000007aD9hAAE",897,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 let  start 🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜🔜�...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:43",True,"00002636","50046000007aD87AAE",847,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  great service.. first day first show. ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:44",True,"00002639","50046000007aD8AAAU",848,NULL,NULL
+"Medium","Twitter",NULL,"#Sonylive not working #KBC10",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:45",True,"00002641","50046000007aD8HAAU",849,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan #KBC10 first day first show...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:45",True,"00002642","50046000007aD8IAAU",850,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan @kbcsony #kbc looks like th...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:46",True,"00002643","50046000007aD8JAAU",851,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Congratulations sir, but unfortunat...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:49",True,"00002572","50046000007aD5IAAU",852,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:24:32",True,"00002729","50046000007aDBQAA2",853,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:24:33",True,"00002730","50046000007aDBRAA2",854,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV @SrBachchan The app is not wor...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:24:33",True,"00002731","50046000007aDBSAA2",855,NULL,NULL
+"Medium","Twitter",NULL,"I am waiting for the most knowledgeable and mos...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:42",True,"00002567","50046000007aD4yAAE",856,NULL,NULL
+"Medium","Facebook",NULL,"I am using this app on FireTv , Sony 1080p. Vid...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 12:12:19",True,"00002741","50046000007aDXMAA2",857,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  App not working for KBC",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:22",True,"00002695","50046000007aDAIAA2",858,NULL,NULL
+"Medium","Twitter",NULL,"@kbc Sony live app is not working during kbc",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:23",True,"00002696","50046000007aDAJAA2",859,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV sony liv not properly working unable to...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:23",True,"00002697","50046000007aDAKAA2",860,NULL,NULL
+"Medium","Twitter",NULL,"Today My wait finally ended, the Very beginning...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:23",True,"00002698","50046000007aDALAA2",861,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan #KBC10 #playalong not working. Pls ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:24",True,"00002699","50046000007aDAMAA2",862,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 seems @SonyLIV app crashes when it comes...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:24",True,"00002700","50046000007aDASAA2",863,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  SonyLiv is not working",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:24",True,"00002701","50046000007aDATAA2",864,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV please give explanations why your SONY ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:25",True,"00002702","50046000007aDAUAA2",865,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  KBC play along not working , crashing ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:25",True,"00002703","50046000007aDAVAA2",866,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV KBC PLAY ALONG IS NOT WORKING PLS UPDA...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:25",True,"00002704","50046000007aDAWAA2",867,NULL,NULL
+"Medium","Twitter",NULL,"Having repeatedly problem in @SonyLIV app. Tryi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:26",True,"00002705","50046000007aDAXAA2",868,NULL,NULL
+"Medium","Twitter",NULL,"@SPNSportsIndia @SonyLIV unbelieavable coverage...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:39",True,"00002742","50046000007aFpnAAE",869,NULL,NULL
+"Medium","Twitter",NULL,"Dear @SrBachchan sir pls tell your #KBC team to...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:39",True,"00002743","50046000007aFpoAAE",870,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV boss..you app is not working..we can p...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:40",True,"00002744","50046000007aFppAAE",871,NULL,NULL
+"Medium","Twitter",NULL,"Dear @SonyTV your mobile app @SonyLIV  is not w...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:40",True,"00002745","50046000007aFpqAAE",872,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV #KBC10 should we watch it or not can't...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:41",True,"00002746","50046000007aFprAAE",873,NULL,NULL
+"Medium","Twitter",NULL,"Could you please explain this problem with solu...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:41",True,"00002747","50046000007aFpsAAE",874,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SonyTV #KBC10 should we watch it or n...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:42",True,"00002748","50046000007aFptAAE",875,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir ...Har mobile khel sakega not w...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:42",True,"00002749","50046000007aFpuAAE",876,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV server down app crash several times #k...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:42",True,"00002750","50046000007aFpvAAE",877,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir, I am waiting and wasting my ti...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:43",True,"00002751","50046000007aFpwAAE",878,NULL,NULL
+"Medium","Twitter",NULL,"How to solved Kbc play along Loading Error Prob...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:43",True,"00002752","50046000007aFpxAAE",879,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sir aap daily bol rhe hai aapke mob...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:53",True,"00002772","50046000007aFqTAAU",880,NULL,NULL
+"Medium","Twitter",NULL,"Dear @SrBachchan @SonyTV App is not working.. h...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:54",True,"00002773","50046000007aFqUAAU",881,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV play along app not working....",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:54",True,"00002774","50046000007aFqVAAU",882,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @KBCsony @SrBachchan 3rd day everybody ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:55",True,"00002775","50046000007aFqWAAU",883,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV please check Sony liv app it's not working",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:55",True,"00002776","50046000007aFqXAAU",884,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @KBCsony sonyliv app proper not workin...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:56",True,"00002777","50046000007aFqYAAU",885,NULL,NULL
+"Medium","Twitter",NULL,"Sony Liv app is not working i have  downloaded ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:56",True,"00002778","50046000007aFqZAAU",886,NULL,NULL
+"Medium","Twitter",NULL,"Sir Sony Liv app is not working from last 10 da...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:56",True,"00002779","50046000007aFqaAAE",887,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Sony liv app is not working its crashin...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:57",True,"00002780","50046000007aFqbAAE",888,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations to you @SrBachchan for 18 years...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:17:59",True,"00002578","50046000007aD5rAAE",889,NULL,NULL
+"Medium","Twitter",NULL,"Thanks @SonyTV for bringing back #KBC10 ... wee...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:17:59",True,"00002580","50046000007aD5tAAE",890,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations @Bigsynergymedia @babubasu @Rel...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:17",True,"00002595","50046000007aD6fAAE",891,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV After clicking on play along in  app, ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:36",True,"00002723","50046000007aDAyAAM",892,NULL,NULL
+"Medium","Twitter",NULL,"@manlad_peace @SonyTV True. I am trying for las...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:35",True,"00002721","50046000007aDAwAAM",893,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:36",True,"00002722","50046000007aDAxAAM",894,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:39",True,"00002727","50046000007aDB6AAM",895,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:39",True,"00002728","50046000007aDB7AAM",896,NULL,NULL
+"Medium","Twitter",NULL,"#KBC not working play along",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:09",True,"00002666","50046000007aD9eAAE",898,NULL,NULL
+"Medium","Twitter",NULL,"Finally there's something good to watch on TV. ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:10",True,"00002667","50046000007aD9fAAE",899,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sony Liv app has a server problem t...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:10",True,"00002668","50046000007aD9gAAE",900,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 Sony Liv app was already so bad and now ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:11",True,"00002670","50046000007aD9iAAE",901,NULL,NULL
+"Medium","Twitter",NULL,"Whats the Problem with @SonyLIV App??   Why it ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:11",True,"00002671","50046000007aD9jAAE",902,NULL,NULL
+"Medium","Twitter",NULL,"Wanted to play KBC Play Along since JUNE feelin...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:12",True,"00002672","50046000007aD9kAAE",903,NULL,NULL
+"Medium","Twitter",NULL,"Now I am waiting for an clock strike 9 as my fa...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:12",True,"00002673","50046000007aD9lAAE",904,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @babubasu basu  kbc play along not work...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:13",True,"00002674","50046000007aD9mAAE",905,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  KBC play along is not working ..........",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:13",True,"00002675","50046000007aD9nAAE",906,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Hello sir trying to play kbc, tryin...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:13",True,"00002676","50046000007aD9oAAE",907,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Hello sir trying to play kb...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:14",True,"00002677","50046000007aD9pAAE",908,NULL,NULL
+"Medium","Twitter",NULL,"Our app is still not working @kbc10 #KBC10 @SrB...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:14",True,"00002678","50046000007aD9qAAE",909,NULL,NULL
+"Medium","Twitter",NULL,"@Isanjayofficial @snehak23 @ShashiSumeet @SonyT...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:50",True,"00002573","50046000007aD5NAAU",910,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV i was so excited to avail the option of...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:16",True,"00002680","50046000007aD9yAAE",911,NULL,NULL
+"Medium","Twitter",NULL,"Seems like #KBCPlayAlong is down. Not working f...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:16",True,"00002681","50046000007aD9zAAE",912,NULL,NULL
+"Medium","Twitter",NULL,"Thanks @SonyTV for bringing back #KBC10 ... wee...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:17",True,"00002682","50046000007aDA0AAM",913,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Why #KBC10 app is not working?",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:17",True,"00002683","50046000007aDA1AAM",914,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV your app is not working for KBC10 !!Not...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:18",True,"00002684","50046000007aDA2AAM",915,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV Sony TV Please give explanation why you...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:18",True,"00002685","50046000007aDA3AAM",916,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir we are not able to play KBC alo...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:18",True,"00002686","50046000007aDA4AAM",917,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV #KBC10 #playalong app not work...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:19",True,"00002687","50046000007aDA5AAM",918,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan This app is not working Si...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:19",True,"00002688","50046000007aDA6AAM",919,NULL,NULL
+"Medium","Twitter",NULL,"Now I can enjoy KBC Play Along while watching t...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:20",True,"00002689","50046000007aDA7AAM",920,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  I am not able to play KBC on Sony Liv...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:20",True,"00002690","50046000007aDADAA2",921,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  @SonyTV  KBC play along not working.....",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:20",True,"00002691","50046000007aDAEAA2",922,NULL,NULL
+"Medium","Twitter",NULL,"Good to have #KaunBanegaCrorepati back on the T...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:21",True,"00002692","50046000007aDAFAA2",923,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:34",True,"00002719","50046000007aDArAAM",924,NULL,NULL
+"Medium","Twitter",NULL,"@Mankesh_Mind Kbc is my second most favorite tv...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:34",True,"00002720","50046000007aDAsAAM",925,NULL,NULL
+"Medium","Twitter",NULL,"More than few million people are waiting for yo...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:17:58",True,"00002576","50046000007aD5mAAE",926,NULL,NULL
+"Medium","Twitter",NULL,"Wow finally after for the long break @SrBachcha...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:17:58",True,"00002577","50046000007aD5nAAE",927,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations @anjanaomkashyap ji for being K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:34",True,"00002619","50046000007aD7kAAE",928,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Ur App for #KBC10 #KBCPlayAlong is not...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:34",True,"00002621","50046000007aD7mAAE",929,NULL,NULL
+"Medium","Twitter",NULL,"So the @SonyLIV app crashes with launch of KBC....",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:35",True,"00002622","50046000007aD7nAAE",930,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan #KBC10 first day first show...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:36",True,"00002623","50046000007aD7oAAE",931,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV great service. first day first show.  B...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:36",True,"00002625","50046000007aD7qAAE",932,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @havellsi...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:47",True,"00002644","50046000007aD8MAAU",933,NULL,NULL
+"Medium","Twitter",NULL,"@sonyliv #KBC10 application not working",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:27",True,"00002707","50046000007aDAcAAM",934,NULL,NULL
+"Medium","Twitter",NULL,"Not working",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:28",True,"00002708","50046000007aDAdAAM",935,NULL,NULL
+"Medium","Twitter",NULL,"Server is not working @SonyTV #KBC10",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:28",True,"00002709","50046000007aDAeAAM",936,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV #KBCPlayAlong How to play along when So...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:28",True,"00002710","50046000007aDAfAAM",937,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations  to the first contestants of #K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:29",True,"00002711","50046000007aDAgAAM",938,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV very very disappointed tha app is very...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:29",True,"00002712","50046000007aDAhAAM",939,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 Sony liv not working...  Not done..",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:30",True,"00002713","50046000007aDAiAAM",940,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SonyTV doesn't seem to have load test...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:30",True,"00002714","50046000007aDAjAAM",941,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV kbc play along not working since telec...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:30",True,"00002715","50046000007aDAkAAM",942,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  Not Working #KBCPlayAlong #KBC10 http...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:31",True,"00002718","50046000007aDAnAAM",943,NULL,NULL
+"Medium","Twitter",NULL,"@VikasbansalEF @SrBachchan @SonyTV @babubasu @B...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:58",True,"00002562","50046000007aD4NAAU",944,NULL,NULL
+"Medium","Twitter",NULL,"@VikasbansalEF @SrBachchan @SonyTV @babubasu @B...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:57",True,"00002559","50046000007aD4KAAU",945,NULL,NULL
+"Medium","Twitter",NULL,"@VikasbansalEF @SrBachchan @babubasu @SonyTV @B...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:58",True,"00002560","50046000007aD4LAAU",946,NULL,NULL
+"Medium","Twitter",NULL,"@PravsAhuja19 @SrBachchan @SonyTV @babubasu @Re...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:58",True,"00002561","50046000007aD4MAAU",947,NULL,NULL
+"Medium","Twitter",NULL,"@mitenlapsiya @SrBachchan @SonyTV @babubasu Wow...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:59",True,"00002563","50046000007aD4OAAU",948,NULL,NULL
+"Medium","Twitter",NULL,"@ManishK89979565 @SrBachchan @SonyTV Very good sar",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:52",True,"00002574","50046000007aD5SAAU",949,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:53",True,"00002575","50046000007aD5TAAU",950,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV  We try to many time to play KBC but a...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:44",True,"00002753","50046000007aFpyAAE",951,NULL,NULL
+"Medium","Twitter",NULL,"Why sony liv app is not working?@SonyTV https:/...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:44",True,"00002754","50046000007aFpzAAE",952,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony @SonyTV App not working for play along...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:45",True,"00002755","50046000007aFq0AAE",953,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV App is not working.",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:45",True,"00002756","50046000007aFq1AAE",954,NULL,NULL
+"Medium","Twitter",NULL,"@KBCsony  I am really sorry to say that Sony Li...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:46",True,"00002757","50046000007aFq2AAE",955,NULL,NULL
+"Medium","Twitter",NULL,"Sony first your Phone and  now ur App is being ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:46",True,"00002758","50046000007aFq3AAE",956,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV How to play along when your app is not...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:46",True,"00002759","50046000007aFq4AAE",957,NULL,NULL
+"Medium","Twitter",NULL,"Kya aaj apka 9 pm ka slot book kar diya jaye ky...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:02",True,"00002584","50046000007aD61AAE",958,NULL,NULL
+"Medium","Twitter",NULL,"I am too much sure to watch the entertaining sh...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:18:02",True,"00002585","50046000007aD62AAE",959,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Dearest Sir , Good Evening .  Best ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:40",True,"00002564","50046000007aD4oAAE",960,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations dear @anjanaomkashyap",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:48",True,"00002645","50046000007aD8RAAU",961,NULL,NULL
+"Medium","Twitter",NULL,"@babubasu @SrBachchan @Bigsynergymedia @SonyTV ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:37",True,"00002724","50046000007aDB1AAM",962,NULL,NULL
+"Medium","Twitter",NULL,"Last year #KBC9 play along was smooth with @rel...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:38",True,"00002725","50046000007aDB2AAM",963,NULL,NULL
+"Medium","Twitter",NULL,"Good job mam",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:38",True,"00002726","50046000007aDB3AAM",964,NULL,NULL
+"Medium","Twitter",NULL,"All time favorite show",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:41",True,"00002634","50046000007aD82AAE",965,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:42",True,"00002635","50046000007aD83AAE",966,NULL,NULL
+"Medium","Twitter",NULL,"Totally good to see everybody is excited to wat...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:20",True,"00002598","50046000007aD6pAAE",967,NULL,NULL
+"Medium","Twitter",NULL,"Eagerly waiting for the clock to strike 9 to ca...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:20",True,"00002599","50046000007aD6qAAE",968,NULL,NULL
+"Medium","Twitter",NULL,"Eagerly waiting for an clock strike 9 as my fav...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:21",True,"00002600","50046000007aD6rAAE",969,NULL,NULL
+"Medium","Twitter",NULL,"@anjanaomkashyap @SonyTV @SrBachchan @babubasu ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:21",True,"00002601","50046000007aD6uAAE",970,NULL,NULL
+"Medium","Twitter",NULL,"So Finally a every Family Favorite Show #KBC10 ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:00",True,"00002648","50046000007aD9FAAU",971,NULL,NULL
+"Medium","Twitter",NULL,"Congratulations. KBC begins tonight.",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:01",True,"00002649","50046000007aD9GAAU",972,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan Sir your stage presence is beyond a...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:01",True,"00002650","50046000007aD9HAAU",973,NULL,NULL
+"Medium","Twitter",NULL,"Ghar baithe Hot seat is not working @SonyLIV #K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:02",True,"00002651","50046000007aD9IAAU",974,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV your sony LIV app not working on iPhone...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:02",True,"00002652","50046000007aD9JAAU",975,NULL,NULL
+"Medium","Twitter",NULL,"Sir @SrBachchan you define #KBC10 always entert...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:03",True,"00002653","50046000007aD9KAAU",976,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV kbc play along is not working on my app..",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:03",True,"00002654","50046000007aD9LAAU",977,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  Disappointed 😐#kbc play along unable ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:03",True,"00002655","50046000007aD9MAAU",978,NULL,NULL
+"Medium","Twitter",NULL,"Ghar baithe Hot seat is not working @SonyLIV #K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:04",True,"00002656","50046000007aD9NAAU",979,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @KBCsony your play along not working on...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:05",True,"00002659","50046000007aD9QAAU",980,NULL,NULL
+"Medium","Twitter",NULL,"After years, thought of watching KBC on @SonyTV...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:05",True,"00002660","50046000007aD9RAAU",981,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV my play along is not working what to do...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:06",True,"00002661","50046000007aD9SAAU",982,NULL,NULL
+"Medium","Twitter",NULL,"#KBC10 @SrBachchan good wishes for this season",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:07",True,"00002664","50046000007aD9VAAU",983,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV  Sony Retweeting tweets of peo...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:23:07",True,"00002665","50046000007aD9WAAU",984,NULL,NULL
+"Medium","Twitter",NULL,"@ganeshlahoti @SrBachchan @TeamSrbachchan @Sony...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:52",True,"00002556","50046000007aD4AAAU",985,NULL,NULL
+"Medium","Twitter",NULL,"@ReetJain15 @SrBachchan @SonyTV @babubasu Yes s...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:15:53",True,"00002557","50046000007aD4BAAU",986,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan  Good Evening Amitji ..May Lord  #K...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:16:49",True,"00002571","50046000007aD5EAAU",987,NULL,NULL
+"Medium","Twitter",NULL,"I am. the only one who can't able to play on so...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:49",True,"00002763","50046000007aFqFAAU",988,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV hd live telecast of INDvsENG is not lo...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:48",True,"00002760","50046000007aFqCAAU",989,NULL,NULL
+"Medium","Twitter",NULL,"Dear @SonyTV can't play @KBCsony play along. Ei...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:48",True,"00002761","50046000007aFqDAAU",990,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV your app is not working on many device...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:49",True,"00002762","50046000007aFqEAAU",991,NULL,NULL
+"Medium","Twitter",NULL,"Kbc Play Along not working Problem Solution Son...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:50",True,"00002764","50046000007aFqGAAU",992,NULL,NULL
+"Medium","Twitter",NULL,"Your app is not working due to heavy load while...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:50",True,"00002765","50046000007aFqMAAU",993,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  @SrBachchan  sonyliv app not working",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:51",True,"00002766","50046000007aFqNAAU",994,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @SonyLIV The app is not working. Ca...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:51",True,"00002767","50046000007aFqOAAU",995,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan @babubasu @SnehaRajani Unab...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:51",True,"00002768","50046000007aFqPAAU",996,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV  Sony liv app is not working..plz help",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:52",True,"00002769","50046000007aFqQAAU",997,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV not working for KBC #KBC10",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:39",True,"00002629","50046000007aD7vAAE",998,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV KBC Play Along is Not Working....",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:38",True,"00002627","50046000007aD7tAAE",999,NULL,NULL
+"Medium","Twitter",NULL,"I liked a @YouTube video https://t.co/mKCpccV0n...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:38",True,"00002628","50046000007aD7uAAE",1000,NULL,NULL
+"Medium","Twitter",NULL,"Eventually the wait was over and my favorite sh...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:39",True,"00002630","50046000007aD7wAAE",1001,NULL,NULL
+"Medium","Twitter",NULL,"Here's bringing back #KBC10 ... weeknights will...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:40",True,"00002631","50046000007aD7xAAE",1002,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV the app is not working and the kbc gam...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:21:40",True,"00002633","50046000007aD7zAAE",1003,NULL,NULL
+"Medium","Twitter",NULL,"Eagerly waiting to clock strike 9 as my favorit...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:01",True,"00002590","50046000007aD6LAAU",1004,NULL,NULL
+"Medium","Twitter",NULL,"Eagerly waiting for there clock for the strike ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 11:20:01",True,"00002592","50046000007aD6NAAU",1005,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV . KBC Play along does not open in sony ...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:52",True,"00002770","50046000007aFqRAAU",1006,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan sir plz tell Sony channel to recove...",False,"2019-02-26 05:58:08",NULL,NULL,"2018-09-19 16:58:53",True,"00002771","50046000007aFqSAAU",1007,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Today tried for an hour Sony liv app f...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:51",True,"00002878","50046000007aFsnAAE",1008,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @namanjain0603 We regular try last 3 d...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:51",True,"00002880","50046000007aFspAAE",1009,NULL,NULL
+"Medium","Twitter",NULL,"@vashishthakaps @SonyLIV Same problem app is no...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:50",True,"00002877","50046000007aFsmAAE",1010,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Sony live app not working K...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:55",True,"00002885","50046000007aFt8AAE",1011,NULL,NULL
+"Medium","Twitter",NULL,"Hi still not working this app please do somethi...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:54",True,"00002884","50046000007aFt7AAE",1012,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Same problem app not worki...",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:53",True,"00002883","50046000007aFt6AAE",1013,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan App is not working",False,"2019-06-07 02:46:39",NULL,NULL,"2018-09-19 16:59:51",True,"00002879","50046000007aFsoAAE",1014,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Good Bye.... I already Uninstall your ...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:49",True,"00002875","50046000007aFsjAAE",1015,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan @MahindraMarazzo @FortuneF...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:47",True,"00002871","50046000007aFsfAAE",1016,NULL,NULL
+"Medium","Twitter",NULL,"@AuditionForm Sorry but this app is not working...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:48",True,"00002873","50046000007aFshAAE",1017,NULL,NULL
+"Medium","Twitter",NULL,"@sanjaybafna M facing big problem from 4 days s...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:47",True,"00002872","50046000007aFsgAAE",1018,NULL,NULL
+"Medium","Twitter",NULL,"@lpatrao Yup. Sony LIV app. Worth downloading o...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:49",True,"00002876","50046000007aFskAAE",1019,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Koi Bhi Serial Jaishe   Aladdin Jijaji...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:42",True,"00002861","50046000007aFsSAAU",1020,NULL,NULL
+"Medium","Twitter",NULL,"Irony is answered for this question  and stuck ...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:42",True,"00002860","50046000007aFsMAAU",1021,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan Hi..sir sony live app not w...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:43",True,"00002862","50046000007aFsTAAU",1022,NULL,NULL
+"Medium","Twitter",NULL,"@babubasu Sir pickle baar ke huge success aur h...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:44",True,"00002863","50046000007aFsXAAU",1023,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV @SrBachchan Hey my app doesn't...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:44",True,"00002864","50046000007aFsYAAU",1024,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Tried to open app several times but bu...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:44",True,"00002865","50046000007aFsZAAU",1025,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan What the hell?? Again And ...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:45",True,"00002866","50046000007aFsaAAE",1026,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV What about those who got all answers ri...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:46",True,"00002868","50046000007aFscAAE",1027,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SrBachchan KBC Play Along is not worki...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:46",True,"00002869","50046000007aFsdAAE",1028,NULL,NULL
+"Medium","Twitter",NULL,"@SrBachchan @SonyLIV app is not working sir. Pl...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:47",True,"00002870","50046000007aFseAAE",1029,NULL,NULL
+"Medium","Twitter",NULL,"@TulsiAlvi @SrBachchan @SonyTV hihihihi....just...",False,"2019-06-07 02:48:29",NULL,NULL,"2018-09-19 16:59:48",True,"00002874","50046000007aFsiAAE",1030,NULL,NULL
+"Medium","Twitter",NULL,"Spectacles for #dotter from titan eye plus. Yay...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-02-20 06:47:49",True,"00002944","50046000009xwcmAAA",1031,NULL,NULL
+"Medium","Twitter",NULL,"@titaneyeplus guys Don't buy titan eye plus ......",False,"2019-06-07 02:50:12",NULL,NULL,"2019-02-20 06:49:25",True,"00002945","50046000009xwcwAAA",1032,NULL,NULL
+"Medium","Twitter",NULL,"Tupperware India announces the appointment of D...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-05-30 11:05:06",True,"00002985","5004600000CQGWXAA5",1033,NULL,NULL
+"Medium","Twitter",NULL,"@VineetKaul4 what is the blah blah blah status ...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-03-01 09:19:55",True,"00002982","5004600000ASSulAAH",1034,NULL,NULL
+"Medium","Twitter",NULL,"@TanishqJewelry in lalitpur uttarpradesh, there...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-02-20 06:43:34",True,"00002943","50046000009xwcXAAQ",1035,NULL,NULL
+"Medium","Twitter",NULL,"#ContestAlert  Embrace your imperfections and s...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-03-15 11:24:12",True,"00002983","5004600000ASyiaAAD",1036,NULL,NULL
+"Medium","Twitter",NULL,"SpiceJet launches 20 new domestic flights from ...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-05-22 11:03:37",True,"00002984","5004600000AFNCOAA5",1037,NULL,NULL
+"Medium","Twitter",NULL,"Autobot Fest at @_PVRCinemas, before the releas...",False,"2019-06-07 02:50:12",NULL,NULL,"2019-01-03 11:10:31",True,"00002938","50046000009AXX4AAO",1038,NULL,NULL
+"Medium","Twitter",NULL,"@sahneydeepak can we short PVR at current levels?",False,"2019-06-07 02:50:12",NULL,NULL,"2019-01-03 10:56:31",True,"00002937","50046000009AXUqAAO",1039,NULL,NULL
+"Medium","Twitter",NULL,"I added a video to a @YouTube playlist https://...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:03",False,"00002791","50046000007aFqqAAE",1040,NULL,NULL
+"Medium","Twitter",NULL,"@cmanmohan hello, getting problem in sonyliv ap...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:04",False,"00002792","50046000007aFqrAAE",1041,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Your app not working  #KBC10  @SrBachc...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:04",False,"00002793","50046000007aFqsAAE",1042,NULL,NULL
+"Medium","Twitter",NULL,"Sonyliv# it's going step wise 1st day app not w...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:03",False,"00002790","50046000007aFqpAAE",1043,NULL,NULL
+"Medium","Twitter",NULL,"Again @SonyLIV app is not working 😢😦  I know ...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:03",False,"00002789","50046000007aFqoAAE",1044,NULL,NULL
+"Medium","Twitter",NULL,"@RedmiIndia @IndiaPOCO Wireless display not wor...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:02",False,"00002788","50046000007aFqnAAE",1045,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV you’re app not working at all between ...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:02",False,"00002787","50046000007aFqmAAE",1046,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @KBCsony @SrBachchan #KBC10 its sonyliv...",False,"2019-06-07 02:50:43",NULL,NULL,"2018-09-19 16:59:05",False,"00002794","50046000007aFqtAAE",1047,NULL,NULL
+"Medium","Facebook",NULL,"Trying to use sonyliv app for kbc from first da...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-21 07:18:15",True,"00002930","50046000007aqRcAAI",1048,NULL,NULL
+"Medium","Twitter",NULL,"[1] HQ - Untagged : @Varun_dvn #Aditya at PVR y...",False,"2019-06-07 02:51:17",NULL,NULL,"2019-01-03 09:59:57",False,"00002936","50046000009AXHwAAO",1049,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV @SrBachchan Third class app service,, ...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-20 08:21:17",True,"00002928","50046000007aLQZAA2",1050,NULL,NULL
+"Medium","Twitter",NULL,"@Niranjanraj1995 @SonyLIV @SonyTV So many issue...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-20 08:21:18",True,"00002929","50046000007aLQaAAM",1051,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @kkundrra @BTL_Balaji @iyogitabihani @e...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-20 08:21:14",True,"00002927","50046000007aLQUAA2",1052,NULL,NULL
+"Medium","Twitter",NULL,"Same with me @SrBachchan @SonyLIV it's the wors...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-20 08:21:12",True,"00002925","50046000007aLQPAA2",1053,NULL,NULL
+"Medium","Twitter",NULL,"@thefaisalkhan20 @SonyLIV Abe iss app ka sala r...",False,"2019-06-07 02:51:17",NULL,NULL,"2018-09-20 08:21:13",True,"00002926","50046000007aLQQAA2",1054,NULL,NULL
+"Medium","Twitter",NULL,"@SonyTV @SonyLIV The app is not working... it h...",False,"2019-06-07 02:53:12",NULL,NULL,"2018-09-19 16:59:52",True,"00002881","50046000007aFsqAAE",1055,NULL,NULL
+"Medium","Twitter",NULL,"@SonyLIV Dear Sony team, KBC play along app is ...",False,"2019-06-07 02:53:29",NULL,NULL,"2018-09-19 16:59:53",True,"00002882","50046000007aFswAAE",1056,NULL,NULL
+"Medium","Twitter",NULL,"Why Jet Airways Didn’t Hurt Like Kingfisher Shu...",False,"2019-06-20 06:45:33",NULL,NULL,"2019-06-20 06:45:32",False,"00002986","5004600000CQxowAAD",1057,NULL,NULL
+"Medium","Twitter",NULL,"#kurunegala #anuradhapura #matale #kandy #polon...",False,"2019-07-10 08:58:52",NULL,NULL,"2019-07-10 08:58:51",False,"00002987","5004600000CRXquAAH",1058,NULL,NULL
+"Medium","Twitter",NULL,"Discounts Today 80%!!, hotels in kandy city sri...",False,"2019-07-11 12:08:32",NULL,NULL,"2019-07-11 12:04:01",False,"00002988","5004600000CRaRiAAL",1059,NULL,NULL
+"Medium","Twitter",NULL,"@kivoprovince @altinokesra Lens temizleme sular...",False,"2019-08-26 12:07:04",NULL,NULL,"2019-08-26 12:07:03",False,"00002989","5004o00000CS0NNAA1",1060,NULL,NULL
+"Medium","Facebook",NULL,"Feeling lucky? ✨ Join this contest and stand a ...",False,"2019-08-26 18:43:49",NULL,NULL,"2019-08-26 18:43:48",False,"00002990","5004o00000CS0UJAA1",1061,NULL,NULL
+"Medium","Twitter",NULL,"#ICanTellFromYourEyes  💐 Bausch + Lomb renu Le...",False,"2019-08-27 06:53:47",NULL,NULL,"2019-08-27 06:50:42",False,"00002991","5004o00000CS0ZxAAL",1062,NULL,NULL
+"Medium","Twitter",NULL,"@flyspicej purchased Priority Check in + Pref c...",False,"2019-10-07 12:38:19",NULL,NULL,"2019-10-07 12:33:52",True,"00002992","5004o00000CS9xkAAD",1063,NULL,NULL
+"Medium","Facebook",NULL,"I need help...can you help?",False,"2019-11-08 16:54:48",NULL,NULL,"2019-11-08 16:54:47",False,"00002993","5004o00000CSHkAAAX",1064,NULL,NULL
+"Medium","Facebook",NULL,"I'm also looking for help",False,"2019-11-08 17:01:07",NULL,NULL,"2019-11-08 17:01:07",False,"00002994","5004o00000CSHkUAAX",1065,NULL,NULL
+"Medium","Facebook",NULL,"Really interested in talking with you guys abou...",False,"2019-11-08 18:21:10",NULL,NULL,"2019-11-08 18:21:10",False,"00002995","5004o00000CSHrGAAX",1066,NULL,NULL
