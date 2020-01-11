@@ -4,6 +4,21 @@ import sys, os
 import numpy as np
 import pandas as pd
 
+import pandas as pd
+import numpy as np
+
+#visualisation
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+#prep 
+from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
+from sklearn.preprocessing import LabelEncoder, StandardScaler, MaxAbsScaler, QuantileTransformer, OneHotEncoder
+
+#models
+from sklearn.linear_model import LogisticRegression, LogisticRegressionCV, LinearRegression, Ridge, RidgeCV
+
+
 @app.route('/')
 @app.route('/index')
 def index():
