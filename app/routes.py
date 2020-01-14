@@ -66,9 +66,9 @@ def load_data(schema, table, conn):
     score = logreg.score(X_test, y_test)
 
     cur = conn.cursor()
-    cur.execute("INSERT INTO public.modelmetrics(model_score, model_time) VALUES (%s, %s)", (truncate(score, 3), str(datetime.datetime.now())))
+    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp) VALUES (%s, %s)", (truncate(score, 3), str(datetime.datetime.now())))
     conn.commit()
-    
+
     return str(score)
 
 
