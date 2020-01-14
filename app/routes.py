@@ -7,34 +7,64 @@ import datetime
 
 import pandas as pd
 import numpy as np
+import json
 
 #visualisation
 import matplotlib.pyplot as plt
 import seaborn as sns
 import matplotlib.animation as animation
 
+from flask import Flask, render_template,request
+import plotly
+import plotly.graph_objs as go
+
+
 @app.route('/')
 @app.route('/index')
 def index():
-    left = [1, 2, 3, 4, 5]
-    # heights of bars
-    height = [10, 24, 36, 40, 5]
-    # labels for bars
-    tick_label = ['one', 'two', 'three', 'four', 'five']
-    # plotting a bar chart
-    plt.bar(left, height, tick_label=tick_label, width=0.8, color=['red', 'green'])
+    feature = 'Bar'
+    bar = create_plot(feature)
+    return render_template('index.html', plot=bar)
 
-    # naming the y-axis
-    plt.ylabel('y - axis')
-    # naming the x-axis
-    plt.xlabel('x - axis')
-    # plot title
-    plt.title('My bar chart!')
+def create_plot(feature):
+    if feature == 'Bar':
+        N = 40
+        x = np.linspace(0, 1, N)
+        y = np.random.randn(N)
+        df = pd.DataFrame({'x': x, 'y': y}) # creating a sample dataframe
+        data = [
+            go.Bar(
+                x=df['x'], # assign x as the dataframe column 'x'
+                y=df['y']
+            )
+        ]
+    else:
+        N = 1000
+        random_x = np.random.randn(N)
+        random_y = np.random.randn(N)
 
-    plt.savefig('/images/plot.png')
+        # Create a trace
+        data = [go.Scatter(
+            x = random_x,
+            y = random_y,
+            mode = 'markers'
+        )]
 
-    return render_template('plot.html', url='/images/plot.png')
 
+    graphJSON = json.dumps(data, cls=plotly.utils.PlotlyJSONEncoder)
+
+    return graphJSON
+
+@app.route('/bar', methods=['GET', 'POST'])
+def change_features():
+
+    feature = request.args['selected']
+    graphJSON= create_plot(feature)
+
+
+
+
+    return graphJSON
 
 def load_data(schema, table, conn):
     # DATABASE_URL = os.environ['DATABASE_URL']
