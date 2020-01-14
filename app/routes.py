@@ -63,4 +63,4 @@ def load_data(schema, table, conn):
 
     # Use score method to get accuracy of model
     score = logreg.score(X_test, y_test)
-    return score
+    return str(score)
