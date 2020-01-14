@@ -24,7 +24,7 @@ import plotly.graph_objs as go
 def index():
     feature = 'Bar'
     bar = create_plot(feature)
-    return render_template('index.html', plot=bar)
+    return render_template('templates/index.html', plot=bar)
 
 def create_plot(feature):
     if feature == 'Bar':
