@@ -11,32 +11,38 @@ import numpy as np
 #visualisation
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-#prep 
-from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
-from sklearn.preprocessing import LabelEncoder, StandardScaler, MaxAbsScaler, QuantileTransformer, OneHotEncoder
-
-#models
-from sklearn.linear_model import LogisticRegression, LogisticRegressionCV, LinearRegression, Ridge, RidgeCV
-
+import matplotlib.animation as animation
 
 @app.route('/')
 @app.route('/index')
 def index():
-    import os
-    import psycopg2
+    left = [1, 2, 3, 4, 5]
+    # heights of bars
+    height = [10, 24, 36, 40, 5]
+    # labels for bars
+    tick_label = ['one', 'two', 'three', 'four', 'five']
+    # plotting a bar chart
+    plt.bar(left, height, tick_label=tick_label, width=0.8, color=['red', 'green'])
 
+    # naming the y-axis
+    plt.ylabel('y - axis')
+    # naming the x-axis
+    plt.xlabel('x - axis')
+    # plot title
+    plt.title('My bar chart!')
+
+    plt.savefig('/images/plot.png')
+
+    return render_template('plot.html', url='/images/plot.png')
+
+
+def load_data(schema, table, conn):
     # DATABASE_URL = os.environ['DATABASE_URL']
     DATABASE_URL = 'postgres://hmbadfwsbybxwc:6a9dd36753cacb0db21da38307159a534d85b41a1c511a40f0099cabc04f9680@ec2-107-21-97-5.compute-1.amazonaws.com:5432/dc7d4entntij7b'
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     print("Connected!")
-    
+
     score = load_data('salesforce', 'case', conn)
-    
-    return score
-
-
-def load_data(schema, table, conn):
 
     sql_command = "SELECT * FROM {}.{};".format(str(schema), str(table))
     print(sql_command)
