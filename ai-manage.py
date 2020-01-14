@@ -1,6 +1,6 @@
 from flask_script import Manager
 
-from myapp import app
+from app import app
 
 import psycopg2
 import sys, os
