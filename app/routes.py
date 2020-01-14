@@ -3,6 +3,7 @@ import psycopg2
 import sys, os
 import numpy as np
 import pandas as pd
+import datetime
 
 import pandas as pd
 import numpy as np
@@ -34,14 +35,14 @@ def index():
     
     return score
 
+
 def load_data(schema, table, conn):
 
     sql_command = "SELECT * FROM {}.{};".format(str(schema), str(table))
-    print (sql_command)
+    print(sql_command)
 
     # Load the data
     data = pd.read_sql(sql_command, conn)
-    
 
     data = data.drop(['external_id__c','subject','systemmodstamp','createddate','customer_type__c',
                   'isdeleted','casenumber','sfid','id','_hc_lastop','_hc_err'], axis=1)
@@ -63,4 +64,14 @@ def load_data(schema, table, conn):
 
     # Use score method to get accuracy of model
     score = logreg.score(X_test, y_test)
+
+    cur = conn.cursor()
+    cur.execute("INSERT INTO public.modelmetrics(model_score, model_time) VALUES (%s, %s)", (truncate(score, 3), str(datetime.datetime.now())))
+    conn.commit()
+    
     return str(score)
+
+
+def truncate(n, decimals=0):
+    multiplier = 10 ** decimals
+    return int(n * multiplier) / multiplier
