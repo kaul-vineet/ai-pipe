@@ -1,4 +1,4 @@
-from app import app
+from flask import Flask, render_template,request
 import psycopg2
 import sys, os
 import numpy as np
@@ -18,13 +18,14 @@ from flask import Flask, render_template,request
 import plotly
 import plotly.graph_objs as go
 
+app = Flask(__name__)
 
 @app.route('/')
 @app.route('/index')
 def index():
     feature = 'Bar'
     bar = create_plot(feature)
-    return render_template('templates/index.html', plot=bar)
+    return render_template('index.html', plot=bar)
 
 def create_plot(feature):
     if feature == 'Bar':
@@ -111,3 +112,7 @@ def load_data(schema, table, conn):
 def truncate(n, decimals=0):
     multiplier = 10 ** decimals
     return int(n * multiplier) / multiplier
+
+if __name__ == '__main__':
+    app.run()
+    
