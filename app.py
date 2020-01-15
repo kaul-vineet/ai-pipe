@@ -10,9 +10,9 @@ import numpy as np
 import json
 
 #visualisation
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
-import matplotlib.animation as animation
+#import matplotlib.animation as animation
 
 from flask import Flask, render_template,request
 import plotly
