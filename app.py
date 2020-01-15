@@ -58,13 +58,8 @@ def create_plot(feature):
 
 @app.route('/bar', methods=['GET', 'POST'])
 def change_features():
-
     feature = request.args['selected']
     graphJSON= create_plot(feature)
-
-
-
-
     return graphJSON
 
 def load_data(schema, table, conn):
