@@ -12,7 +12,7 @@ import pandas as pd
 import numpy as np
 
 #visualisation
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import seaborn as sns
 
 #prep 
@@ -78,4 +78,4 @@ def truncate(n, decimals=0):
     return int(n * multiplier) / multiplier
 
 if __name__ == "__main__":
-    manager.run()
+    manager.run()a
