@@ -13,7 +13,7 @@ import numpy as np
 
 #visualisation
 #import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 #prep 
 from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
