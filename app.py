@@ -69,11 +69,10 @@ def load_data():
     conn = psycopg2.connect(DATABASE_URL, sslmode='require')
     print("Connected!")
 
-    c1 = "model_score"
-    c2 = "model_timestamp"
-    c3 = "model_recordcount"
+    schema = "public"
+    table = "modelmetrics"
 
-    sql_command = "SELECT * FROM {}.{}.{};".format(str(c1), str(c2), str(c3))
+    sql_command = "SELECT * FROM {}.{};".format(str(schema), str(table))
     print(sql_command)
 
     # Load the data
