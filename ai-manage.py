@@ -47,10 +47,10 @@ def calculatemetrics():
     data = pd.read_sql(sql_command, conn)
     print("DATA LOADED TO PANDAS!")
     
-    data = data.drop(['external_id__c','subject','systemmodstamp','createddate','customer_type__c',
+    data = data.drop(['valid__c','reason','external_id__c','subject','systemmodstamp','createddate','customer_type__c',
                   'isdeleted','casenumber','sfid','id','_hc_lastop','_hc_err'], axis=1)
     data['db_case_duration_hours__c'] = data['db_case_duration_hours__c'].fillna(data['db_case_duration_hours__c'].mode()[0])
-    cat_columns = ["priority", "origin"]
+    cat_columns = ["priority", "origin", "type"]
     data = pd.get_dummies(data, prefix_sep="__", columns=cat_columns)
     X_train, X_test, y_train, y_test = train_test_split(data.drop('isclosed',axis=1), data['isclosed'], test_size=0.30, random_state=101)
     print("DATA PREPARED FOR TRAINING AND TESTING!")
