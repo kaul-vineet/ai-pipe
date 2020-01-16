@@ -78,4 +78,4 @@ def truncate(n, decimals=0):
     return int(n * multiplier) / multiplier
 
 if __name__ == "__main__":
-    manager.run()a
+    manager.run()
