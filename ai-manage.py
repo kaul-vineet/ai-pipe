@@ -46,7 +46,7 @@ def calculatemetrics():
     # Load the data
     data = pd.read_sql(sql_command, conn)
     dfsize = data.size
-    print("DATA LOADED TO PANDAS!")
+    print(str(dfsize) + " RECORDS LOADED TO PANDAS!")
     
     data = data.drop(['valid__c','reason','external_id__c','subject','systemmodstamp','createddate','customer_type__c',
                   'isdeleted','casenumber','sfid','id','_hc_lastop','_hc_err'], axis=1)
