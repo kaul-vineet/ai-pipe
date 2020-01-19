@@ -68,7 +68,7 @@ def calculatemetrics():
     print("SCORE CALCULATED!")
     
     cur = conn.cursor()
-    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s)", (truncate(score, 3), str(datetime.datetime.now())), data.size)
+    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now())), data.size)
     conn.commit()
     print("SCORE DETAILS SAVED!")
     print("METRICS CALCULATION COMPLETED")
