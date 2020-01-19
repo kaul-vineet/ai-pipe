@@ -45,6 +45,7 @@ def calculatemetrics():
     sql_command = "SELECT * FROM {}.{};".format(str(schema), str(table))
     # Load the data
     data = pd.read_sql(sql_command, conn)
+    dfsize = data.size
     print("DATA LOADED TO PANDAS!")
     
     data = data.drop(['valid__c','reason','external_id__c','subject','systemmodstamp','createddate','customer_type__c',
@@ -68,7 +69,7 @@ def calculatemetrics():
     print("SCORE CALCULATED!")
     
     cur = conn.cursor()
-    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now())), data.size)
+    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now())), dfsize)
     conn.commit()
     print("SCORE DETAILS SAVED!")
     print("METRICS CALCULATION COMPLETED")
