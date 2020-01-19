@@ -70,7 +70,7 @@ def calculatemetrics():
     
     cur = conn.cursor()
     try:
-        cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now()), dfsize)
+        cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now()), dfsize))
         conn.commit()
     except Exception as error:
         print ("Oops! An exception has occured:", error)
