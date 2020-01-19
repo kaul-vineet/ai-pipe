@@ -69,10 +69,15 @@ def calculatemetrics():
     print("SCORE CALCULATED!")
     
     cur = conn.cursor()
-    cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now())), dfsize)
-    conn.commit()
-    print("SCORE DETAILS SAVED!")
-    print("METRICS CALCULATION COMPLETED")
+    try:
+        cur.execute("INSERT INTO public.modelmetrics(model_score, model_timestamp, model_recordcount) VALUES (%s, %s, %s)", (truncate(score, 3), str(datetime.datetime.now())), dfsize)
+        conn.commit()
+    except Exception as error:
+        print ("Oops! An exception has occured:", error)
+        print ("Exception TYPE:", type(error))
+    else:
+        print("SCORE DETAILS SAVED!")
+        print("METRICS CALCULATION COMPLETED")
 
 def truncate(n, decimals=0):
     multiplier = 10 ** decimals
