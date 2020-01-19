@@ -37,11 +37,11 @@ def create_plot(feature):
         data = [
             go.Bar(
                 x=df['model_timestamp'], # assign x as the dataframe column 'x'
-                y=df['model_score']),
+                y=df['model_score']
+            ),
             go.Scatter(
-                x=df['model_timestamp'],
+                x=df['model_timestamp'], # assign x as the dataframe column 'x'
                 y=df['model_recordcount']
-    )
             )
         ]
     else:
